@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="173,105">
+  <displayList>
+    <text id="n2_jvjb" name="ScoreText" xy="44,10" pivot="0.5,0.5" size="129,95" font="ui://gasy8a7fn4ah2m" fontSize="73" color="#35a9e5" align="center" vAlign="middle" bold="true" text="999"/>
+    <text id="n5_jvjb" name="n5" xy="-5,6" size="47,95" font="ui://gasy8a7fn4ah2m" fontSize="73" color="#35a9e5" vAlign="bottom" autoSize="none" bold="true" text="+">
+      <relation target="n2_jvjb" sidePair="right-left"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false" designImage="ui://1sxftg19r1zk1n" designImageAlpha="0" designImageLayer="1" bgColor="#000000">
+  <controller name="c1" pages="0,SignIn,1,SingOut" selected="0"/>
+  <controller name="c2" pages="1,Jigsaw" selected="0"/>
+  <controller name="language" pages="0,Cn,1,Zh" selected="0"/>
+  <displayList>
+    <loader id="n71_r1zk" name="BG" xy="0,0" size="1080,1920" fill="scaleFree"/>
+    <image id="n87_ft29" name="n87" src="9wq27" fileName="Res/遮罩.png" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n73_r1zk" name="n73" src="hgs2e" fileName="Res/shijiankuang.png" pkg="gasy8a7f" xy="102,345" size="883,1037" group="n44_ghvy"/>
+    <image id="n83_r1zk" name="n83" src="r1zk1q" fileName="Res/标题底板.png" pkg="gasy8a7f" xy="264,369" size="565,113" group="n44_ghvy"/>
+    <image id="n81_r1zk" name="n81" src="r1zk1q" fileName="Res/标题底板.png" pkg="gasy8a7f" xy="195,523" size="694,267" group="n44_ghvy"/>
+    <image id="n82_r1zk" name="n82" src="r1zk1q" fileName="Res/标题底板.png" pkg="gasy8a7f" xy="195,805" size="694,407" group="n44_ghvy"/>
+    <image id="n77_r1zk" name="n77" src="r1zk1p" fileName="Res/按钮1.png" pkg="gasy8a7f" xy="421,700" size="237,61" group="n44_ghvy"/>
+    <image id="n34_ghvy" name="n34" src="ghvyr" fileName="Res/头像.png" xy="239,550" group="n44_ghvy"/>
+    <image id="n35_ghvy" name="n35" src="ghvyv" fileName="Res/震动.png" xy="263,1031" group="n44_ghvy"/>
+    <image id="n36_ghvy" name="n36" src="ghvyq" fileName="Res/声音.png" xy="267,923" group="n44_ghvy"/>
+    <component id="n39_ghvy" name="n39" src="ghvyx" fileName="Entity/JigSound_Btn.xml" xy="691,913" size="89,51" group="n44_ghvy"/>
+    <component id="n40_ghvy" name="n40" src="ghvyz" fileName="Entity/JigVibrate_Btn.xml" xy="691,1024" size="88,46" group="n44_ghvy"/>
+    <image id="n43_ghvy" name="n43" src="ghvyl" fileName="Res/save.png" xy="451,716" group="n44_ghvy">
+      <gearDisplay controller="c1" pages="0"/>
+      <gearDisplay2 controller="language" pages="0" condition="0"/>
+    </image>
+    <text id="n45_ghvy" name="n45" xy="433,1293" size="213,56" group="n44_ghvy" font="ui://gasy8a7fn4ah2m" fontSize="42" color="#5869d0" align="center" vAlign="middle" letterSpacing="-2" text="Version:1.0.1"/>
+    <component id="n48_ghvy" name="Sign_Btn" src="nu94h" fileName="Entity/Sign.xml" xy="421,700" size="239,62" group="n44_ghvy"/>
+    <text id="n50_ghvy" name="SignOutName2_Text" xy="364,562" size="146,70" group="n44_ghvy" fontSize="53" color="#5869d0" align="center" vAlign="middle" letterSpacing="-1" autoSize="none" text="Guest">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <image id="n54_ghvy" name="n54" src="ghvyp" fileName="Res/分割线.png" xy="251,680" group="n44_ghvy"/>
+    <component id="n49_ghvy" name="Out_Btn" src="nu94i" fileName="Entity/Out.xml" xy="422,699" size="236,62" group="n44_ghvy"/>
+    <image id="n62_o2nz" name="n62" src="o2nz1d" fileName="Res/声音字.png" xy="196,830" group="n44_ghvy">
+      <gearDisplay controller="language" pages="1"/>
+    </image>
+    <image id="n63_o2nz" name="n63" src="o2nz1j" fileName="Res/震动字.png" xy="194,992" group="n44_ghvy">
+      <gearDisplay controller="language" pages="1"/>
+    </image>
+    <image id="n64_o2nz" name="n64" src="o2nz1e" fileName="Res/登录保存游戏排名信息.png" xy="338,522" group="n44_ghvy">
+      <gearDisplay controller="language" pages="1"/>
+      <gearDisplay2 controller="c1" pages="0" condition="0"/>
+    </image>
+    <image id="n65_o2nz" name="n65" src="o2nz1i" fileName="Res/访客.png" xy="339,405" group="n44_ghvy">
+      <gearDisplay controller="language" pages="1"/>
+      <gearDisplay2 controller="c1" pages="0" condition="0"/>
+    </image>
+    <image id="n66_o2nz" name="n66" src="o2nz1f" fileName="Res/登录账号.png" xy="132,652" group="n44_ghvy">
+      <gearDisplay controller="c1" pages="0"/>
+      <gearDisplay2 controller="language" pages="1" condition="0"/>
+    </image>
+    <text id="n74_r1zk" name="SignOutName_Text" xy="361,541" size="145,70" group="n44_ghvy" font="ui://gasy8a7fn4ah2m" fontSize="53" color="#5869d0" align="center" vAlign="middle" text="Guest">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <text id="n75_r1zk" name="n75" xy="367,621" size="505,34" group="n44_ghvy" font="ui://gasy8a7fn4ah2m" fontSize="24" color="#5869d0" align="center" vAlign="middle" text="Sign in to save your progress and never lose it.">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <text id="n78_r1zk" name="n78" xy="343,906" size="147,66" group="n44_ghvy" font="ui://gasy8a7fn4ah2m" fontSize="50" color="#5869d0" align="center" vAlign="middle" text="Sound"/>
+    <text id="n79_r1zk" name="n79" xy="346,1014" size="216,66" group="n44_ghvy" font="ui://gasy8a7fn4ah2m" fontSize="50" color="#5869d0" align="center" vAlign="middle" text="Vibration"/>
+    <text id="n84_r1zk" name="n84" xy="438,378" size="204,70" group="n44_ghvy" font="ui://gasy8a7fn4ah2m" fontSize="53" color="#5869d0" align="center" vAlign="middle" text="Settings">
+      <gearDisplay controller="c1" pages="0,1"/>
+    </text>
+    <image id="n85_r1zk" name="n85" src="r1zk1s" fileName="Res/signout.png" xy="487,715" group="n44_ghvy">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <group id="n44_ghvy" name="n44" xy="102,345" size="883,1037" advanced="true">
+      <gearDisplay controller="c2" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n86_h3s9" name="GuideUI_5" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+</component>

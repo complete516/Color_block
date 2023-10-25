@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="919,223">
+  <displayList>
+    <image id="n19_mwyg" name="n19" src="mwygk" fileName="Res/底.png" xy="0,0" size="919,223"/>
+    <image id="n15_mwyg" name="n15" src="on0bl" fileName="Res/光.png" pkg="r1nmkmgm" xy="-116,-147" pivot="0.5,0.5" size="513,516" aspect="true" scale="0.4,0.4"/>
+    <loader id="n14_mwyg" name="n14" xy="18,17" pivot="0.5,0.5" size="247,205" aspect="true" url="ui://gtlknu5kmwyg1g" align="center" vAlign="middle" fill="scale"/>
+    <text id="n16_mwyg" name="Text" xy="269,73" size="202,66" font="ui://r1nmkmgmon0bx" fontSize="50" color="#ffffff" vAlign="middle" bold="true" text="Red Hair">
+      <relation target="" sidePair=""/>
+    </text>
+    <component id="n17_mwyg" name="BuyBtn" src="mwygx" fileName="Entity/Tag/CoinsBth.xml" xy="564,55" size="299,109"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n15_mwyg" tween="true" startValue="0" endValue="360" duration="48" ease="Linear"/>
+  </transition>
+</component>

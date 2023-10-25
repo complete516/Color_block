@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="470,152">
+  <displayList>
+    <image id="n0_hgs2" name="n0" src="gvwb3a" fileName="Res/按钮绿.png" xy="0,0"/>
+    <text id="n2_hgs2" name="n2" xy="102,35" pivot="0.5,0.5" size="265,59" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#ffffff" align="center" vAlign="middle" letterSpacing="-1" text="Endless Mode"/>
+  </displayList>
+</component>

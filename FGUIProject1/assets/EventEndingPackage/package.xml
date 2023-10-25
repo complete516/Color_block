@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="p93f4978">
+  <resources>
+    <image id="ogkh0" name="事件关卡结算.png" path="/Desgin/"/>
+    <image id="ogkh1" name="事件关卡结算2.png" path="/Desgin/"/>
+    <image id="ogkh3" name="quyuxianshi.png" path="/Res/" exported="true" scale="9grid" scale9grid="162,163,324,326"/>
+    <component id="ogkh9" name="RestartBtn.xml" path="/Entity/"/>
+    <component id="ogkha" name="MainBtn.xml" path="/Entity/"/>
+    <component id="ogkhc" name="ContinueBtn.xml" path="/Entity/"/>
+    <component id="ewzpd" name="EventEndingView.xml" path="/Entity/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

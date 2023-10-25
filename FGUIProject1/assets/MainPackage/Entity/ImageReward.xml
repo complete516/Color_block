@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="245,351">
+  <displayList>
+    <loader id="n1_lsid" name="Image" xy="29,26" size="186,186" url="ui://gasy8a7flsidy" vAlign="middle" fill="scale"/>
+    <loader id="n0_lsid" name="kuang" xy="0,0" size="245,245" url="ui://gasy8a7frc091x" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n4_lsid" name="n4" xy="123,270" pivot="0.5,0.5" anchor="true" size="124,52" font="ui://gasy8a7fn4ah2m" fontSize="38" align="center" vAlign="middle" letterSpacing="-1" text="Monter"/>
+    <text id="n5_lsid" name="n5" xy="123,319" pivot="0.5,0.5" anchor="true" size="191,52" font="ui://gasy8a7fn4ah2m" fontSize="38" color="#656c77" align="center" vAlign="middle" letterSpacing="-1" text="04/20/2022"/>
+  </displayList>
+</component>

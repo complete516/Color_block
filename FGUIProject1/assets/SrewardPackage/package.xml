@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="3mapgb03">
+  <resources>
+    <image id="tjqt0" name="0.png" path="/Res/"/>
+    <image id="tjqt1" name="x.png" path="/Res/"/>
+    <image id="tjqt2" name="Light.png" path="/Res/"/>
+    <image id="tjqt3" name="get it.png" path="/Res/"/>
+    <image id="tjqt4" name="COIN.png" path="/Res/"/>
+    <image id="tjqt5" name="BLOCKCHALLENGE.png" path="/Res/"/>
+    <image id="tjqt6" name="9.png" path="/Res/"/>
+    <image id="tjqt7" name="YOU WIN.png" path="/Res/"/>
+    <image id="tjqt8" name="8.png" path="/Res/"/>
+    <image id="tjqt9" name="6.png" path="/Res/"/>
+    <image id="tjqta" name="5.png" path="/Res/"/>
+    <image id="tjqtb" name="4.png" path="/Res/"/>
+    <image id="tjqtc" name="3.png" path="/Res/"/>
+    <image id="tjqtd" name="2.png" path="/Res/"/>
+    <image id="tjqte" name="1.png" path="/Res/"/>
+    <image id="tjqtf" name="7.png" path="/Res/"/>
+    <image id="tjqtg" name="示意图.jpg" path="/Res/"/>
+    <image id="tjqti" name="底板.png" path="/Res/"/>
+    <image id="tjqtj" name="season.png" path="/Res/"/>
+    <image id="tjqtm" name="按钮(1).png" path="/Res/"/>
+    <component id="tjqtn" name="Button2.xml" path="/Entity/"/>
+    <component id="tasrp" name="Button2.xml" path="/Design/"/>
+    <component id="tasrq" name="Component2.xml" path="/Design/"/>
+    <component id="mwygr" name="numbe.xml" path="/Entity/"/>
+    <font id="mwygu" name="NumFont.fnt" path="/Res/" exported="true"/>
+    <component id="lnibv" name="Component2.xml" path="/Entity/"/>
+    <component id="lnibw" name="SrewardView.xml" path="/Entity/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

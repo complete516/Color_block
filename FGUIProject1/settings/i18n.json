@@ -1,0 +1,12 @@
+{
+  "langFiles": [
+    {
+      "name": "colorBlock_CN",
+      "path": "E:\\gameProject\\coloer_block\\FGUIProject1\\I18n\\colorBlock_CN.xml"
+    },
+    {
+      "name": "colorBlock_Zh",
+      "path": "E:\\gameProject\\coloer_block\\FGUIProject1\\I18n\\colorBlock_Zh.xml"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="uuybwu4x">
+  <resources>
+    <image id="doff0" name="e31e1a03467ba0ec5e88d6e2f918e04.jpg" path="/Design/"/>
+    <image id="doff1" name="1.5.png" path="/Res/" exported="true"/>
+    <image id="doff2" name="2.png" path="/Res/" exported="true"/>
+    <image id="doff3" name="3.png" path="/Res/" exported="true"/>
+    <image id="doff4" name="claim x？.png" path="/Res/"/>
+    <image id="doff5" name="claim.png" path="/Res/"/>
+    <image id="doff6" name="指针.png" path="/Res/"/>
+    <image id="doff7" name="按钮橙.png" path="/Res/"/>
+    <image id="doff8" name="按钮紫.png" path="/Res/"/>
+    <image id="doff9" name="橙.png" path="/Res/"/>
+    <image id="doffa" name="红.png" path="/Res/"/>
+    <image id="doffb" name="进度条凹槽.png" path="/Res/"/>
+    <image id="doffc" name="黄.png" path="/Res/"/>
+    <component id="doffd" name="GetGoldView.xml" path="/Entity/" exported="true"/>
+    <component id="doffe" name="Btn_Ads.xml" path="/Entity/"/>
+    <component id="dofff" name="Btn_Get.xml" path="/Entity/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

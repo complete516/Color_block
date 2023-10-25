@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" extention="Button" designImageAlpha="0">
+  <displayList>
+    <loader id="n6_r1zk" name="BG" xy="0,0" size="1080,1920" fill="scaleFree"/>
+    <image id="n5_m0yr" name="n5" src="m0yr30" fileName="Res/LOGO.png" xy="158,319">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </image>
+    <component id="n7_q895" name="n7" src="q8953f" fileName="Entity/Skin.xml" xy="865,1634">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+    <component id="n11_h3s9" name="GuideUI_3" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <component id="n0_gfdg" name="ColorRoll_Btn" src="dbiq2t" fileName="Entity/Btn_EnterColorRoll.xml" xy="135,837" size="797,185" group="n12_tf5i"/>
+    <component id="n1_gfdg" name="Jigsaw_Btn" src="m0yr34" fileName="Entity/Btn_EnterJigsaw.xml" xy="135,1058" size="800,192" group="n12_tf5i"/>
+    <component id="n2_gfdg" name="ColorBlock_Btn" src="gfdg2x" fileName="Entity/Btn_EnterColorBlock.xml" xy="135,1277" group="n12_tf5i"/>
+    <group id="n12_tf5i" name="n12" xy="135,837" size="800,625" advanced="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </group>
+    <component id="n16_ljuz" name="n16" src="ljuz3l" fileName="Entity/RankBth.xml" xy="83,1634">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+    <component id="n17_ljuz" name="n17" src="ljuz3i" fileName="Entity/Frame.xml" xy="0,68">
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+  <Button/>
+</component>

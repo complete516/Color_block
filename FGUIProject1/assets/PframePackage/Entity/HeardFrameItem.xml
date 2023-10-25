@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="512,512">
+  <controller name="c1" pages="0,t1,1,t2,2,t3,3,t4,4,t5,5,y1,6,y2,7,y3,8,y4,9,y5,10,j1,11,j2,12,j3,13,j4,14,j5,15,other1,16,other2,17,other3,18,other4,19,other5,20,other6" selected="15"/>
+  <displayList>
+    <image id="n0_h1zx" name="n0" src="h1zx4" fileName="Res/底框.png" xy="0,0">
+      <gearDisplay controller="c1" pages="0,1,2,3,4"/>
+    </image>
+    <image id="n1_h1zx" name="n1" src="h1zx3" fileName="Res/大星(1).png" xy="192,340">
+      <gearDisplay controller="c1" pages="0,2,4"/>
+    </image>
+    <image id="n2_h1zx" name="n2" src="h1zx5" fileName="Res/小星(1).png" xy="135,395">
+      <gearDisplay controller="c1" pages="1,2,3,4"/>
+    </image>
+    <image id="n3_h1zx" name="n3" src="h1zx5" fileName="Res/小星(1).png" xy="288,395">
+      <gearDisplay controller="c1" pages="1,2,3,4"/>
+    </image>
+    <image id="n4_h1zx" name="n4" src="h1zx5" fileName="Res/小星(1).png" xy="60,372">
+      <gearDisplay controller="c1" pages="3,4"/>
+    </image>
+    <image id="n5_h1zx" name="n5" src="h1zx5" fileName="Res/小星(1).png" xy="369,372">
+      <gearDisplay controller="c1" pages="3,4"/>
+    </image>
+    <image id="n6_h1zx" name="n6" src="h1zx7" fileName="Res/黄金底框(1).png" xy="0,0">
+      <gearDisplay controller="c1" pages="5,6,7,8,9"/>
+    </image>
+    <image id="n7_h1zx" name="n7" src="h1zx6" fileName="Res/大星(2).png" xy="191,339">
+      <gearDisplay controller="c1" pages="5,7,9"/>
+    </image>
+    <image id="n8_h1zx" name="n8" src="h1zx8" fileName="Res/小星(2).png" xy="135,395">
+      <gearDisplay controller="c1" pages="6,7,8,9"/>
+    </image>
+    <image id="n9_h1zx" name="n9" src="h1zx8" fileName="Res/小星(2).png" xy="288,395">
+      <gearDisplay controller="c1" pages="6,7,8,9"/>
+    </image>
+    <image id="n10_h1zx" name="n10" src="h1zx8" fileName="Res/小星(2).png" xy="60,372">
+      <gearDisplay controller="c1" pages="8,9"/>
+    </image>
+    <image id="n11_h1zx" name="n11" src="h1zx8" fileName="Res/小星(2).png" xy="369,372">
+      <gearDisplay controller="c1" pages="8,9"/>
+    </image>
+    <image id="n12_h1zx" name="n12" src="h1zx1" fileName="Res/黄金底框.png" xy="0,0">
+      <gearDisplay controller="c1" pages="10,11,12,13,14"/>
+    </image>
+    <image id="n13_h1zx" name="n13" src="h1zx0" fileName="Res/大星.png" xy="191,340">
+      <gearDisplay controller="c1" pages="10,12,14"/>
+    </image>
+    <image id="n14_h1zx" name="n14" src="h1zx2" fileName="Res/小星.png" xy="135,395">
+      <gearDisplay controller="c1" pages="11,12,13,14"/>
+    </image>
+    <image id="n15_h1zx" name="n15" src="h1zx2" fileName="Res/小星.png" xy="288,395">
+      <gearDisplay controller="c1" pages="11,12,13,14"/>
+    </image>
+    <image id="n16_h1zx" name="n16" src="h1zx2" fileName="Res/小星.png" xy="60,372">
+      <gearDisplay controller="c1" pages="13,14"/>
+    </image>
+    <image id="n17_h1zx" name="n17" src="h1zx2" fileName="Res/小星.png" xy="369,372">
+      <gearDisplay controller="c1" pages="13,14"/>
+    </image>
+    <image id="n22_h1zx" name="n22" src="h1zxh" fileName="Res/2001.png" xy="0,0">
+      <gearDisplay controller="c1" pages="15"/>
+    </image>
+    <image id="n23_h1zx" name="n23" src="h1zxi" fileName="Res/2002.png" xy="0,0">
+      <gearDisplay controller="c1" pages="16"/>
+    </image>
+    <image id="n24_h1zx" name="n24" src="h1zxj" fileName="Res/2003.png" xy="0,0">
+      <gearDisplay controller="c1" pages="17"/>
+    </image>
+    <image id="n25_h1zx" name="n25" src="h1zxk" fileName="Res/2004.png" xy="0,0">
+      <gearDisplay controller="c1" pages="18"/>
+    </image>
+    <image id="n26_ljuz" name="n26" src="h1zxl" fileName="Res/2005.png" xy="0,0">
+      <gearDisplay controller="c1" pages="19"/>
+    </image>
+    <image id="n27_ljuz" name="n27" src="vi1xt" fileName="Res/基本款06.png" xy="0,0">
+      <gearDisplay controller="c1" pages="20"/>
+    </image>
+  </displayList>
+</component>

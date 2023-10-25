@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="512,138">
+  <displayList>
+    <image id="n29_on0b" name="n29" src="on0b1" fileName="Res/倒计时.png" xy="0,0"/>
+    <image id="n30_on0b" name="n30" src="on0br" fileName="Res/倒计时时间.png" xy="197,66"/>
+    <text id="n66_on0b" name="n66" xy="154,57" size="31,56" font="ui://r1nmkmgmon0bx" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="7"/>
+    <text id="n67_on0b" name="n67" xy="282,59" size="52,56" font="ui://r1nmkmgmon0bx" fontSize="31" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="23"/>
+    <text id="n69_on0b" name="n69" xy="356,59" size="52,56" font="ui://r1nmkmgmon0bx" fontSize="31" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="23"/>
+  </displayList>
+</component>

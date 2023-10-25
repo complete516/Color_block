@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="220,68">
+  <displayList>
+    <image id="n2_q895" name="n2" src="q895f" fileName="Res/金币底.png" xy="0,0"/>
+    <image id="n0_q895" name="n0" src="q8952" fileName="Res/Coin.png" xy="3,3"/>
+    <text id="n1_q895" name="n1" xy="68,-2" size="100,70" font="ui://gasy8a7fn4ah2m" fontSize="53" color="#ffffff" vAlign="middle" text="1221"/>
+  </displayList>
+</component>

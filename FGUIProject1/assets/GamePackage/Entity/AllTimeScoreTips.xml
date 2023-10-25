@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="700,200" pivot="0.5,0.5">
+  <displayList>
+    <loader id="n0_jvjb" name="Background" xy="0,35" pivot="0.5,0.5" size="700,130" url="ui://gt890bbwjvjbp" fill="scaleFree"/>
+    <text id="n3_jvjb" name="ScoreText" xy="67,59" pivot="0.5,0.5" size="565,82" font="ui://gasy8a7fn4ah2m" fontSize="62" color="#35a9e5" align="center" vAlign="middle" bold="true" text="All-Time Best Score"/>
+  </displayList>
+</component>

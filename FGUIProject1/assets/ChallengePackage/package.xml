@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="g7seb6bp">
+  <resources>
+    <image id="h1zx1" name="0.png" path="/Res/"/>
+    <image id="h1zx2" name="1.png" path="/Res/"/>
+    <image id="h1zx3" name="2.png" path="/Res/"/>
+    <image id="h1zx4" name="3.png" path="/Res/"/>
+    <image id="h1zx5" name="4.png" path="/Res/"/>
+    <image id="h1zx6" name="6.png" path="/Res/"/>
+    <image id="h1zx7" name="7.png" path="/Res/"/>
+    <image id="h1zx8" name="8.png" path="/Res/"/>
+    <image id="h1zx9" name="9.png" path="/Res/"/>
+    <image id="h1zxa" name="BLOCK CHALLENGE.png" path="/Res/"/>
+    <image id="h1zxb" name="season.png" path="/Res/"/>
+    <image id="h1zxc" name="按钮.png" path="/Res/"/>
+    <image id="h1zxd" name="底板.png" path="/Res/"/>
+    <image id="h1zxe" name="顶部.png" path="/Res/"/>
+    <image id="h1zxf" name="画框.png" path="/Res/"/>
+    <image id="h1zxg" name="5.png" path="/Res/"/>
+    <image id="h1zxh" name="let‘s start.png" path="/Res/"/>
+    <image id="h1zxi" name="示意图.jpg" path="/Design/"/>
+    <image id="iiraj" name="示意图.jpg" path="/Res/"/>
+    <component id="iirak" name="Button1.xml" path="/Entity/"/>
+    <image id="iiral" name="礼包01.png" path="/Res/"/>
+    <image id="iiram" name="礼包02.png" path="/Res/"/>
+    <image id="iiran" name="礼包03.png" path="/Res/"/>
+    <component id="iirao" name="Component2.xml" path="/Entity/"/>
+    <image id="tasrp" name="COIN.png" path="/Res/"/>
+    <image id="hg87q" name="01.png" path="/Res/"/>
+    <image id="hg87r" name="02.png" path="/Res/"/>
+    <image id="hg87s" name="03.png" path="/Res/"/>
+    <image id="hg87t" name="04.png" path="/Res/"/>
+    <image id="hg87u" name="05.png" path="/Res/"/>
+    <image id="hg87v" name="06.png" path="/Res/"/>
+    <component id="ijmmw" name="Coin.xml" path="/Entity/"/>
+    <component id="fz55x" name="SeasonTipsView.xml" path="/Entity/" exported="true"/>
+    <image id="fz55z" name="光.png" path="/Res/"/>
+    <image id="fz5510" name="十字光(1).png" path="/Res/"/>
+    <image id="fz5511" name="十字光(2).png" path="/Res/"/>
+    <image id="fz5512" name="十字光.png" path="/Res/"/>
+    <image id="fz5513" name="十字光02.png" path="/Res/"/>
+    <image id="fz5515" name="礼盒堆.png" path="/Res/"/>
+    <image id="fz5517" name="背景.png" path="/Res/"/>
+    <image id="fz5519" name="金币.png" path="/Res/"/>
+    <component id="vi1x18" name="Coin.xml" path="/Entity/"/>
+    <image id="dbvo1e" name="十字光(3).png" path="/Res/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

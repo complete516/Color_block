@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="sii9xerc">
+  <resources>
+    <image id="11wao0" name="挑战引导1.png" path="/Design/"/>
+    <image id="11wao1" name="挑战引导3.png" path="/Design/"/>
+    <component id="11wao2" name="EventGuideView.xml" path="/Entity/"/>
+    <component id="11wao3" name="GuideList1.xml" path="/Entity/"/>
+    <component id="11wao4" name="GuideList2.xml" path="/Entity/"/>
+    <component id="11wao5" name="GuideList3.xml" path="/Entity/"/>
+    <component id="11wao8" name="Page.xml" path="/Entity/"/>
+    <image id="11wao9" name="jb2.png" path="/Res/"/>
+    <image id="11waoa" name="pic1.png" path="/Res/"/>
+    <image id="11waob" name="pic3.png" path="/Res/"/>
+    <image id="11waoc" name="tu-di.png" path="/Res/"/>
+    <image id="11waof" name="zhizhen.png" path="/Res/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gt890bbw">
+  <resources>
+    <component id="kdqy0" name="GameView.xml" path="/Entity/" exported="true"/>
+    <component id="hgs24" name="Game-Pt.xml" path="/Entity/"/>
+    <component id="hgs29" name="DailyBar.xml" path="/Entity/"/>
+    <component id="hgs2b" name="Game-Daily.xml" path="/Entity/"/>
+    <image id="hgs2c" name="奖杯进度条背景.png" path="/Res/"/>
+    <image id="hgs2d" name="奖杯进度条填充.png" path="/Res/"/>
+    <component id="hgs2e" name="EventJbBar.xml" path="/Entity/"/>
+    <image id="hgs2i" name="每日挑战进度条背景.png" path="/Res/" scale9grid="17,15,5,6"/>
+    <image id="hgs2j" name="游戏中.png" path="/Design/"/>
+    <image id="hgs2l" name="纪录奖杯.png" path="/Res/"/>
+    <image id="hgs2m" name="xian.png" path="/Res/"/>
+    <component id="hgs2n" name="Game-Event.xml" path="/Entity/"/>
+    <component id="jvjbo" name="ComboTips.xml" path="/Entity/" exported="true"/>
+    <image id="jvjbp" name="ht.png" path="/Res/" scale="9grid" scale9grid="59,32,118,64"/>
+    <component id="jvjbr" name="ScoreTips.xml" path="/Entity/" exported="true"/>
+    <component id="jvjbs" name="Component1.xml" path="/Entity/"/>
+    <component id="jvjbt" name="AllTimeScoreTips.xml" path="/Entity/" exported="true"/>
+    <component id="q91fu" name="GuideAnimation.xml" path="/Entity/"/>
+    <image id="norew" name="middle_img_v2_aceb2c82-0b0f-4985-9adc-b664c5d8980g.png" path="/Res/"/>
+    <image id="norey" name="仓库.png" path="/Res/"/>
+    <image id="norez" name="教学.png" path="/Res/"/>
+    <image id="nore10" name="核心玩法.png" path="/Res/" exported="true"/>
+    <image id="nore11" name="目标.png" path="/Res/"/>
+    <image id="nore12" name="目标2.png" path="/Res/"/>
+    <image id="nore13" name="目标底.png" path="/Res/"/>
+    <image id="nore14" name="进度条.png" path="/Res/" scale="9grid" scale9grid="15,13,10,7"/>
+    <image id="nore15" name="进度条底的底.png" path="/Res/" scale="9grid" scale9grid="25,23,9,6"/>
+    <image id="nore18" name="middle_img_v2_f9906136-b55b-43ff-bb5f-f0b4b7c54ebg.png" path="/Res/" exported="true"/>
+    <component id="h35r19" name="SquareAn.xml" path="/Entity/" exported="true"/>
+    <component id="p15b1a" name="RewardView.xml" path="/Entity/" exported="true"/>
+    <component id="p15b1b" name="Reward_Btn.xml" path="/Entity/"/>
+    <component id="p15b1c" name="Close_Btn.xml" path="/Entity/"/>
+    <image id="p15b1d" name="middle_img_v2_abd1556c-800b-4689-aaf0-4f84f5eb71eg.png" path="/Res/"/>
+    <image id="p15b1e" name="middle_img_v2_e36bc7d3-116c-4501-a1a0-e3644609f91g.png" path="/Res/"/>
+    <component id="vwtf1f" name="WifiCheckView.xml" path="/Entity/" exported="true"/>
+    <image id="vwtf1g" name="6f91107d40b2919f1803609a250a1f3.png" path="/Res/"/>
+    <image id="vwtf1h" name="c50ae4971947ab74118d5a7d3c91939.png" path="/Res/"/>
+    <component id="vwtf1i" name="Got it.xml" path="/Entity/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

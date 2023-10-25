@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="250,250">
+  <controller name="c1" pages="0,nevr,1,selected" selected="1"/>
+  <displayList>
+    <image id="n11_qxdo" name="n11" src="vp2d1c" fileName="Res/圆框.png" xy="20,20" size="210,210"/>
+    <component id="n9_xz4p" name="n9" src="xz4p2e" fileName="Entity/HeardFrame.xml" pkg="gs6o3ix6" xy="-131,-131" pivot="0.5,0.5" scale="0.4,0.4"/>
+    <image id="n12_qxdo" name="n12" src="qxdo1k" fileName="Res/选中框.png" xy="5,5" size="240,240" aspect="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+</component>

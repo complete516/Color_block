@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="900,641" designImageLayer="1">
+  <displayList>
+    <image id="n0_in7y" name="n0" src="in7y4" fileName="Res/pic3.png" xy="130,0"/>
+    <text id="n2_in7y" name="n2" xy="449,768" pivot="0.5,0.5" anchor="true" size="739,116" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#959595" align="center" vAlign="middle" letterSpacing="-2" text="Eliminating a square reduces the number&#xA;on a cell until it is eliminated">
+      <relation target="" sidePair="width-width"/>
+    </text>
+  </displayList>
+</component>

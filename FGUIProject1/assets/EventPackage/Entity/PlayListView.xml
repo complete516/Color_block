@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,512" designImage="ui://kiodpbexl8b7l" designImageOffsetX="-57" designImageOffsetY="-1089" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n1_in7y" name="n1" src="l8b71" fileName="Res/anniubaidi.png" xy="44,63" group="n15_in7y"/>
+    <image id="n19_r1zk" name="n19" src="r1zk2q" fileName="Res/anniubaidi2.png" xy="72,352" group="n15_in7y"/>
+    <image id="n20_r1zk" name="n20" src="r1zk2q" fileName="Res/anniubaidi2.png" xy="72,168" group="n15_in7y"/>
+    <image id="n21_r1zk" name="n21" src="r1zk2q" fileName="Res/anniubaidi2.png" xy="72,-16" group="n15_in7y"/>
+    <component id="n7_in7y" name="n7" src="in7y13" fileName="Entity/Continue_Btn.xml" xy="21,-14" size="963,155" group="n15_in7y"/>
+    <component id="n8_in7y" name="n8" src="in7y17" fileName="Entity/Cancel_Btn.xml" xy="19,351" size="960,158" group="n15_in7y"/>
+    <component id="n16_qkml" name="n16" src="qkml2h" fileName="Entity/Restart_Btn.xml" xy="11,172" size="968,155" group="n15_in7y"/>
+    <text id="n11_in7y" name="n11" xy="386,27" pivot="0.5,0.5" size="215,73" group="n15_in7y" font="ui://gasy8a7fn4ah2m" fontSize="55" color="#5869d0" align="center" vAlign="middle" letterSpacing="-2" text="Continue"/>
+    <text id="n12_in7y" name="n12" xy="410,220" pivot="0.5,0.5" size="177,73" group="n15_in7y" font="ui://gasy8a7fn4ah2m" fontSize="55" color="#5869d0" align="center" vAlign="middle" letterSpacing="-2" text="Restart"/>
+    <text id="n13_in7y" name="n13" xy="420,392" pivot="0.5,0.5" size="159,73" group="n15_in7y" font="ui://gasy8a7fn4ah2m" fontSize="55" color="#5869d0" align="center" vAlign="middle" letterSpacing="-2" text="Cancel"/>
+    <group id="n15_in7y" name="n15" xy="11,-16" size="973,528" advanced="true">
+      <relation target="" sidePair="width-width,height-height,bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

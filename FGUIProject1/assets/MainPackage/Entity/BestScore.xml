@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="142,116" extention="Button">
+  <displayList>
+    <image id="n31_hgs2" name="n31" src="hgs2d" fileName="Res/jiangbei.png" pkg="gasy8a7f" xy="-94,19">
+      <relation target="n32_hgs2" sidePair="right-left"/>
+    </image>
+    <text id="n32_hgs2" name="title" xy="8,-3" pivot="0.5,0.5" size="142,123" font="ui://gasy8a7fn4ah2m" fontSize="95" color="#ffffff" align="center" vAlign="middle" bold="true" text="123"/>
+  </displayList>
+  <Button/>
+  <relation target="n32_hgs2" sidePair="width-width"/>
+</component>

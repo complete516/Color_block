@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="419,113">
+  <controller name="c1" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n8_hg87" name="n8" src="hg875" fileName="Res/随机栏.png" xy="7,0">
+      <gearDisplay controller="c1" pages="0,1"/>
+    </image>
+    <text id="n12_hg87" name="n12" xy="0,9" size="419,97" alpha="0.65" grayed="true" font="ui://r1nmkmgmon0bx" fontSize="50" color="#473ee5" align="center" vAlign="middle" autoSize="shrink" text="Lovely Dog">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearLook controller="c1" pages="0" values="0.65,0,1,0" default="1,0,0,0"/>
+    </text>
+    <image id="n13_ljuz" name="n13" src="ljuz1j" fileName="Res/选中框(1).png" xy="-9,-13" size="437,139">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+</component>

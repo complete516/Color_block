@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="912,826">
+  <displayList>
+    <image id="n0_tjqt" name="n0" src="tjqti" fileName="Res/底板.png" xy="0,0"/>
+    <image id="n1_tjqt" name="n1" src="tjqt5" fileName="Res/BLOCKCHALLENGE.png" xy="195,97"/>
+    <image id="n2_tjqt" name="n2" src="tjqtj" fileName="Res/season.png" xy="359,179" size="159,37" aspect="true"/>
+    <text id="n3_tjqt" name="n3" xy="521,167" size="40,66" font="ui://r1nmkmgmon0bx" fontSize="50" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="1"/>
+    <image id="n4_tjqt" name="n4" src="tjqt7" fileName="Res/YOU WIN.png" xy="281,279"/>
+    <component id="n9_tjqt" name="n9" src="tjqtn" fileName="Design/Button2.xml" xy="234,626"/>
+    <image id="n10_tjqt" name="n10" src="tjqt4" fileName="Res/COIN.png" xy="311,432"/>
+    <image id="n11_tjqt" name="n11" src="tjqt1" fileName="Res/x.png" xy="507,471"/>
+    <image id="n12_tjqt" name="n12" src="tjqt7" fileName="Res/YOU WIN.png" xy="279,281"/>
+    <image id="n13_tjqt" name="n13" src="tjqte" fileName="Res/1.png" xy="562,462"/>
+    <image id="n14_tjqt" name="n14" src="tjqta" fileName="Res/5.png" xy="593,463"/>
+  </displayList>
+</component>

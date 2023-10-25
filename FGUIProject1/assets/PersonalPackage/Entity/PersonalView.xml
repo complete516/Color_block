@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImageLayer="1">
+  <displayList>
+    <loader id="n4_j9ld" name="BG" xy="0,0" size="1080,1920" fill="scaleFree"/>
+    <component id="n2_hg87" name="n2" src="hg87q" fileName="Entity/PersonaCom.xml" xy="107,273">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+    <component id="n3_tobc" name="GuideUI_7" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0"/>
+  </displayList>
+</component>

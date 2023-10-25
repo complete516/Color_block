@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1009,130">
+  <controller name="viewControl" pages="0,Main,2,Daily,1,Event" selected="0"/>
+  <displayList>
+    <text id="n64_p8me" name="Daliy_Month" xy="0,1" pivot="0,1" size="98,65" group="n70_p8me" font="ui://gasy8a7fn4ah2m" fontSize="49" vAlign="middle" letterSpacing="-3" text="April">
+      <gearDisplay controller="viewControl" pages="2"/>
+      <relation target="" sidePair=""/>
+    </text>
+    <text id="n65_p8me" name="Daliy_Year" xy="127,1" size="101,65" group="n70_p8me" font="ui://gasy8a7fn4ah2m" fontSize="49" vAlign="middle" letterSpacing="-3" text="2022">
+      <gearDisplay controller="viewControl" pages="2"/>
+      <relation target="n64_p8me" sidePair="left-right"/>
+    </text>
+    <text id="n66_p8me" name="Daliy_LevelCom" xy="895,65" pivot="1,1" anchor="true" size="114,65" group="n70_p8me" font="ui://gasy8a7fn4ah2m" fontSize="49" align="right" vAlign="middle" letterSpacing="-3" text="33/99">
+      <gearDisplay controller="viewControl" pages="2"/>
+    </text>
+    <image id="n67_p8me" name="n67" src="c8nj6" fileName="Res/xing-da.png" pkg="qb8erzpk" xy="703,12" size="43,43" group="n70_p8me"/>
+    <group id="n70_p8me" name="Daily_Block3" xy="0,0" size="895,66" advanced="true">
+      <gearDisplay controller="viewControl" pages="2"/>
+      <relation target="" sidePair="center-center,top-top%"/>
+    </group>
+  </displayList>
+</component>

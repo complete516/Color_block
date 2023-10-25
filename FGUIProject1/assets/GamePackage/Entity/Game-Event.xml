@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="927,182" opaque="false" extention="Button">
+  <controller name="Gametype" pages="0,普通模式,1,每日挑战,2,事件模式" selected="2"/>
+  <displayList>
+    <text id="n13_q91f" name="Daily-Ttle" xy="375,0" pivot="0.5,0.5" size="176,89" font="ui://gasy8a7fn4ah2m" fontSize="68" color="#ffffff" align="center" letterSpacing="-2" text="1111111"/>
+    <component id="n14_q91f" name="DailyBar" src="hgs29" fileName="Entity/DailyBar.xml" xy="1,110">
+      <ProgressBar max="100"/>
+    </component>
+    <text id="n15_q91f" name="Daily-score" xy="454,126" pivot="0.5,0.5" size="73,49" font="ui://gasy8a7fn4ah2m" fontSize="36" color="#ffffff" align="center" vAlign="middle" letterSpacing="-2" text="/900"/>
+    <text id="n16_q91f" name="title2" xy="377,125" pivot="1,1" size="76,52" font="ui://gasy8a7fn4ah2m" fontSize="38" color="#ffffff" align="right" vAlign="middle" letterSpacing="-3" autoSize="none" text="123">
+      <gearDisplay controller="Gametype" pages="1,2"/>
+    </text>
+  </displayList>
+  <Button/>
+</component>

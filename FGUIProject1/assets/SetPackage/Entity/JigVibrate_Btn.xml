@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="132,71" extention="Button">
+  <controller name="button" pages="0,Open,1,Close" selected="1"/>
+  <displayList>
+    <image id="n0_uvks" name="n0" src="ghvyt" fileName="Res/槽1.png" xy="0,0">
+      <gearDisplay controller="button" pages="0,2"/>
+    </image>
+    <image id="n1_uvks" name="n1" src="ghvyu" fileName="Res/槽2.png" xy="0,0">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <image id="n2_ghvy" name="n2" src="ghvys" fileName="Res/按钮.png" xy="45,0">
+      <gearXY controller="button" pages="0,1" values="-3,0|45,0" tween="true"/>
+    </image>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

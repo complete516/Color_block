@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1232">
+  <displayList>
+    <graph id="n1_pm0y" name="n1" xy="-126,-1186" pivot="0.5,0.5" size="1360,3000" alpha="0.6" type="rect" lineColor="#ff090909" fillColor="#99090909">
+      <relation target="" sidePair="width-width"/>
+    </graph>
+    <image id="n2_pm0y" name="n2" src="in7y2" fileName="Res/mianban-yindao.png" pkg="gasy8a7f" xy="2,3" size="1080,1441"/>
+    <component id="n5_pm0y" name="SquareAn" src="h35r19" fileName="Entity/SquareAn.xml" pkg="gt890bbw" xy="779,78" pivot="0.5,0.5" scale="0.6,0.6"/>
+    <text id="n6_pm0y" name="n6" xy="287,98" pivot="0.5,0.5" size="503,72" font="ui://gasy8a7fn4ah2m" fontSize="54" color="#ffffff" align="center" letterSpacing="-1" text="COLORSHAPE-Unlock"/>
+    <text id="n7_pm0y" name="n7" xy="281,973" pivot="0.5,0.5" size="514,63" font="ui://gasy8a7fn4ah2m" fontSize="47" color="#959595" align="center" vAlign="middle" letterSpacing="-1" text="You can play COLOSHAPE"/>
+    <image id="n12_pm0y" name="n12" src="hgs21" fileName="Res/anniu1.png" pkg="gasy8a7f" xy="114,1148" pivot="0.5,0.5" scale="0.8,0.8"/>
+    <text id="n13_pm0y" name="n13" xy="505,1190" size="66,64" font="ui://gasy8a7fn4ah2m" fontSize="48" color="#ffffff" align="center" letterSpacing="-1" text="OK"/>
+    <component id="n14_pm0y" name="n14" src="pm0yb" fileName="Entity/OK_Btn.xml" xy="200,1163" size="681,118"/>
+    <image id="n16_dkka" name="n16" src="qvs12v" fileName="Res/origin_img_v2_5f7bd85c-0c73-43b8-ac39-2053d8480bdg.png" pkg="gwz96r4b" xy="359,421" size="362,370"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1"/>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="x8lklu90">
+  <resources>
+    <component id="lsid0" name="PtGuideView.xml" path="/Entity/" exported="true"/>
+    <image id="lsid1" name="普通模式引导.png" path="/Design/"/>
+    <image id="lsid2" name="Eliminatethesamecolor.png" path="/Res/"/>
+    <image id="lsid3" name="guang-4.png" path="/Res/"/>
+    <image id="lsid4" name="Theline!.png" path="/Res/"/>
+    <image id="lsid5" name="Thesqure!.png" path="/Res/"/>
+    <image id="lsid6" name="TutorialCompleted!.png" path="/Res/"/>
+    <component id="lsid7" name="RestartBtn.xml" path="/Entity/"/>
+    <component id="k7hf8" name="Button1.xml" path="/Entity/"/>
+    <misc id="ghvy9" name="Res.rar" path="/Res/"/>
+    <image id="o2nza" name="TutorialCompleted_Zh.png" path="/Res/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

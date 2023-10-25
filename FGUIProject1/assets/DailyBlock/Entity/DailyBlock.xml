@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="538,636">
+  <controller name="c1" pages="0,Play,1,Continue,2,Completed" selected="0"/>
+  <displayList>
+    <image id="n20_hgs2" name="n20" src="hgs2i" fileName="Res/tiaozhankuang.png" pkg="gasy8a7f" xy="0,0"/>
+    <text id="n21_hgs2" name="DailyTitle" xy="139,256" pivot="0.5,0.5" size="259,56" font="ui://gasy8a7fn4ah2m" fontSize="42" align="center" vAlign="middle" letterSpacing="-3" text="Daily  Challenge"/>
+    <text id="n23_hgs2" name="DailyDay" xy="218,354" pivot="0.5,0.5" size="99,54" font="ui://gasy8a7fn4ah2m" fontSize="40" align="center" vAlign="middle" letterSpacing="-3" text="April z"/>
+    <image id="n25_hgs2" name="n25" src="hgs2s" fileName="Res/play1.png" xy="168,444" pkg="gwz96r4b">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n22_hgs2" name="n22" src="hgs2b" fileName="Res/meiritiaozhan.png" xy="222,106" pkg="gwz96r4b"/>
+    <component id="n27_hgs2" name="PlayDaily" src="hgs2t" fileName="Entity/PlayDaily-Btn.xml" xy="28,19" size="481,579"/>
+    <image id="n28_c8nj" name="n28" src="c8nj1h" fileName="Res/Completed.png" xy="165,460" pkg="gwz96r4b">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </image>
+    <image id="n29_c8nj" name="n29" src="c8nj1i" fileName="Res/play1.1.png" xy="117,444" pkg="gwz96r4b">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+</component>

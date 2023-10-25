@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="260,157">
+  <displayList>
+    <image id="n106_pm0y" name="n106" src="oa442d" fileName="Res/middle_img_v2_76551101-53b7-43a9-ba1b-c391c766af4g.png" xy="0,0" size="320,157" aspect="true">
+      <relation target="" sidePair="width-width,height-height,left-left"/>
+    </image>
+    <text id="n108_pm0y" name="n108" xy="55,35" pivot="0.5,0.5" size="92,36" font="ui://gasy8a7fn4ah2m" fontSize="26" color="#68492d" align="center" vAlign="middle" letterSpacing="-1" text="Level xx"/>
+    <text id="n109_pm0y" name="n109" xy="19,78" pivot="0.5,0.5" size="166,39" font="ui://gasy8a7fn4ah2m" fontSize="28" color="#68492d" align="center" vAlign="middle" letterSpacing="-1" text="Endless Mode"/>
+  </displayList>
+</component>

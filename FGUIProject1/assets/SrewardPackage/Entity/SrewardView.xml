@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n1_lnib" name="n1" xy="0,0" size="1080,1920" type="rect" lineSize="0" fillColor="#b2000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n0_lnib" name="n0" src="lnibv" fileName="Entity/Component2.xml" xy="84,547">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+  </displayList>
+</component>

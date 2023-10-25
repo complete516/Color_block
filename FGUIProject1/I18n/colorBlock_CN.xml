@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- DailyEndingPackage/Entity/DailyBackBtn.xml -->
+  <string name="qb8erzpkc8njb-n3_c8nj" mz="n3">Daily Challenges</string>
+  <!-- DailyEndingPackage/Entity/DailyEndingView.xml -->
+  <string name="qb8erzpkc8nj0-n8_c8nj" mz="n8">xx%</string>
+  <string name="qb8erzpkc8nj0-n4_c8nj" mz="n4">Level Completed</string>
+  <string name="qb8erzpkc8nj0-n11_sldy" mz="n11">Try Again</string>
+  <string name="qb8erzpkc8nj0-n15_zb1t" mz="n15">Congratulation! You are so good at playing games now.Just enjoy and make square~</string>
+  <!-- DailyEndingPackage/Entity/RestartBtn.xml -->
+  <string name="qb8erzpkc8nj8-n3_c8nj" mz="n3">Restart</string>
+  <!-- DailyGuidePackage/Entity/DailyGuideView.xml -->
+  <string name="n3hyo01hin7y7-n3_in7y" mz="n3">Welcome Challenges</string>
+  <!-- DailyGuidePackage/Entity/GuideList1.xml -->
+  <string name="n3hyo01hin7y8-n2_in7y" mz="n2">Get unique puzzles every day</string>
+  <!-- DailyGuidePackage/Entity/GuideList2.xml -->
+  <string name="n3hyo01hin7y9-n2_in7y" mz="n2">Solve all puzzles for a given month and
+win a unique monthly trophy!</string>
+  <!-- DailyGuidePackage/Entity/GuideList3.xml -->
+  <string name="n3hyo01hin7ya-n2_in7y" mz="n2">Eliminating a square reduces the number
+on a cell until it is eliminated</string>
+  <!-- EventEndingPackage/Entity/ContinueBtn.xml -->
+  <string name="p93f4978ogkhc-n37_es3m" mz="n37">Continue</string>
+  <!-- EventEndingPackage/Entity/EventEndingView.xml -->
+  <string name="p93f4978ewzpd-n23_lhvl" mz="n5">Level Completed</string>
+  <string name="p93f4978ewzpd-n10_lhvl" mz="NewScore">Try Again</string>
+  <string name="p93f4978ewzpd-n43_q91f" mz="n43">Make square to remove same color blocks 
+and get more score</string>
+  <!-- EventEndingPackage/Entity/MainBtn.xml -->
+  <string name="p93f4978ogkha-n3_liub" mz="n3">Main</string>
+  <!-- EventEndingPackage/Entity/RestartBtn.xml -->
+  <string name="p93f4978ogkh9-n37_es3m" mz="n37">Restart</string>
+  <!-- EventGuidePackage/Entity/EventGuideView.xml -->
+  <string name="sii9xerc11wao2-n3_in7y" mz="n3">Welcome Challenges</string>
+  <!-- EventGuidePackage/Entity/GuideList1.xml -->
+  <string name="sii9xerc11wao3-n2_in7y" mz="n2">Get unique puzzles every day</string>
+  <!-- EventGuidePackage/Entity/GuideList2.xml -->
+  <string name="sii9xerc11wao4-n2_in7y" mz="n2">Solve all puzzles for a given month and
+win a unique monthly trophy!</string>
+  <!-- EventGuidePackage/Entity/GuideList3.xml -->
+  <string name="sii9xerc11wao5-n2_in7y" mz="n2">Eliminating a square reduces the number
+on a cell until it is eliminated</string>
+  <!-- EventPackage/Entity/EventView.xml -->
+  <string name="kiodpbexl8b7p-n1_ibud" mz="Title_Text">Monther's Day</string>
+  <string name="kiodpbexl8b7p-n2_ibud" mz="1_Text">Event ends in:</string>
+  <string name="kiodpbexl8b7p-n14_ibud" mz="Open_Text">Play</string>
+  <string name="kiodpbexl8b7p-n17_ibud" mz="Close_Text">Active Postcard</string>
+  <string name="kiodpbexl8b7p-n22_in7y" mz="Finish_Text">Finish</string>
+  <!-- EventPackage/Entity/GetImage.xml -->
+  <string name="kiodpbexogkh18-n14_ogkh" mz="n14">Good Job</string>
+  <string name="kiodpbexogkh18-n18_ogkh" mz="n18">You've completed all the levesls! The
+rewards is yours!</string>
+  <!-- EventPackage/Entity/LevelList1.xml -->
+  <string name="kiodpbexibudv-n44_in7y" mz="n44">Open the previous postcard
+first</string>
+  <!-- EventPackage/Entity/LevelList2.xml -->
+  <string name="kiodpbexpt732l-n44_in7y" mz="n44">Open the previous postcard
+first</string>
+  <!-- EventPackage/Entity/LevelList3.xml -->
+  <string name="kiodpbexl8b7t-n23_ibud" mz="n23">Open the previous postcard
+first</string>
+  <!-- EventPackage/Entity/LevelList4.xml -->
+  <string name="kiodpbexpt732k-n32_in7y" mz="n32">Open the previous postcard
+first</string>
+  <!-- EventPackage/Entity/LevelList5.xml -->
+  <string name="kiodpbexpt732j-n44_in7y" mz="n44">Open the previous postcard
+first</string>
+  <!-- EventPackage/Entity/OK_Btn.xml -->
+  <string name="kiodpbexogkh2f-n2_ogkh" mz="n2">OK</string>
+  <!-- EventPackage/Entity/PlayListView.xml -->
+  <string name="kiodpbexin7y12-n11_in7y" mz="n11">Continue</string>
+  <string name="kiodpbexin7y12-n12_in7y" mz="n12">Restart</string>
+  <string name="kiodpbexin7y12-n13_in7y" mz="n13">Cancel</string>
+  <!-- GameGuidePackage/Entity/99Guide.xml -->
+  <string name="d6jg1khqpm0y5-n6_pm0y" mz="n6">9*9Map-Unlock</string>
+  <string name="d6jg1khqpm0y5-n7_pm0y" mz="n7">The bigger map in the game</string>
+  <string name="d6jg1khqpm0y5-n13_pm0y" mz="n13">OK</string>
+  <!-- GameGuidePackage/Entity/BestScore2.xml -->
+  <string name="d6jg1khqpm0yg-n13_lhvl" mz="n13">Best Score</string>
+  <string name="d6jg1khqpm0yg-n1_lhvl" mz="n1">Today</string>
+  <string name="d6jg1khqpm0yg-n2_lhvl" mz="n2">This Week</string>
+  <string name="d6jg1khqpm0yg-n3_lhvl" mz="n3">This Month</string>
+  <string name="d6jg1khqpm0yg-n4_lhvl" mz="n4">All Time</string>
+  <!-- GameGuidePackage/Entity/BufferGuide.xml -->
+  <string name="d6jg1khqpm0y0-n6_pm0y" mz="n6">BUFFER-Unlock</string>
+  <string name="d6jg1khqpm0y0-n7_pm0y" mz="n7">You can move block into Buffer</string>
+  <string name="d6jg1khqpm0y0-n13_pm0y" mz="n13">OK</string>
+  <!-- GameGuidePackage/Entity/EndlessGuide.xml -->
+  <string name="d6jg1khqpm0yf-n6_pm0y" mz="n6">EndlessMode-Unlock</string>
+  <string name="d6jg1khqpm0yf-n13_pm0y" mz="n13">OK</string>
+  <string name="d6jg1khqpm0yf-n16_pm0y" mz="n16">Now,You can play Endless Mode.</string>
+  <!-- GameGuidePackage/Entity/EventGuide.xml -->
+  <string name="d6jg1khqpm0yd-n6_pm0y" mz="n6">EventMode-Unlock</string>
+  <string name="d6jg1khqpm0yd-n13_pm0y" mz="n13">OK</string>
+  <string name="d6jg1khqpm0yd-n16_pm0y" mz="n16">Solve all puzzles for a given month and
+win a unique monthly trophy!</string>
+  <!-- GameGuidePackage/Entity/NumberedBlockGuide.xml -->
+  <string name="d6jg1khqpm0yc-n6_pm0y" mz="n6">Numbered block-Unlock</string>
+  <string name="d6jg1khqpm0yc-n7_pm0y" mz="n7">Eliminating a square reduces the number
+on a cell until it is eliminated</string>
+  <string name="d6jg1khqpm0yc-n13_pm0y" mz="n13">OK</string>
+  <!-- GameGuidePackage/Entity/RankGuide.xml -->
+  <string name="d6jg1khqpm0yh-n6_pm0y" mz="n6">Rank-Unlock</string>
+  <string name="d6jg1khqpm0yh-n13_pm0y" mz="n13">OK</string>
+  <string name="d6jg1khqpm0yh-n16_pm0y" mz="n16">It is time to enter the competition</string>
+  <!-- GamePackage/Entity/AllTimeScoreTips.xml -->
+  <string name="gt890bbwjvjbt-n3_jvjb" mz="ScoreText">All-Time Best Score</string>
+  <!-- GamePackage/Entity/ComboTips.xml -->
+  <string name="gt890bbwjvjbo-n2_jvjb" mz="ScoreText">3x Combo!</string>
+  <!-- GamePackage/Entity/Game-Daily.xml -->
+  <string name="gt890bbwhgs2b-n7_hgs2" mz="Daily-Ttle">titititi</string>
+  <!-- GamePackage/Entity/Game-Pt.xml -->
+  <string name="gt890bbwhgs24-n1_hgs2" mz="All">All Time</string>
+  <!-- GamePackage/Entity/GameView.xml -->
+  <string name="gt890bbwkdqy0-n23_zb1t" mz="Feedback_Text">Watch out! Sometimes you don't have enough space to move blocks.</string>
+  <string name="gt890bbwkdqy0-n21_lsid" mz="n21">Skip</string>
+  <!-- GamePackage/Entity/GuideAnimation.xml -->
+  <string name="gt890bbwq91fu-n3_nore" mz="n3">Make A Square！</string>
+  <string name="gt890bbwq91fu-n4_nore" mz="n4">Make square to remove same color blocks 
+and get higher score</string>
+  <string name="gt890bbwq91fu-n6_nore" mz="n6">Continue</string>
+  <!-- GamePackage/Entity/RewardView.xml -->
+  <string name="gt890bbwp15b1a-n1_p15b" mz="n1">NO MORE SPACE</string>
+  <string name="gt890bbwp15b1a-n14_p15b" mz="n14">no thanks</string>
+  <string name="gt890bbwp15b1a-n16_p15b" mz="n16">Play on with above blocks</string>
+  <string name="gt890bbwp15b1a-n17_p15b" mz="n17">Go on</string>
+  <!-- JigsawEndingPackage/Entity/JigSawEnding.xml -->
+  <string name="gtuyt9429wq20-n16_ghvy" mz="n16">l12</string>
+  <!-- JigsawGamePackage/Entity/JigsawGameView.xml -->
+  <string name="zpr8x2apinhad-n26_p6g6" mz="n22">l12</string>
+  <!-- LeadersPackage/Entity/Cancel.xml -->
+  <string name="k054lrowd7imw-n1_d7im" mz="n1">Cancel</string>
+  <!-- LeadersPackage/Entity/LeagerView.xml -->
+  <string name="k054lrowmztw0-n11_mztw" mz="Level_W">Level</string>
+  <string name="k054lrowmztw0-n69_gfed" mz="Level_R">Level</string>
+  <string name="k054lrowmztw0-n70_gfed" mz="Level_G">Level</string>
+  <string name="k054lrowmztw0-n10_mztw" mz="Points_W">Points</string>
+  <string name="k054lrowmztw0-n71_gfed" mz="Points_R">Points</string>
+  <string name="k054lrowmztw0-n72_gfed" mz="Points_G">Points</string>
+  <string name="k054lrowmztw0-n65_gfed" mz="Square_W">Square</string>
+  <string name="k054lrowmztw0-n74_gfed" mz="Square_G">Squares</string>
+  <string name="k054lrowmztw0-n73_gfed" mz="Square_R">Square</string>
+  <string name="k054lrowmztw0-n3_mztw" mz="GameName_G">ColorBlock Leaders</string>
+  <string name="k054lrowmztw0-n67_gfed" mz="GameName_R">ColorBlock Leaders</string>
+  <string name="k054lrowmztw0-n59_nu94" mz="ID_txt">Player_000000...</string>
+  <string name="k054lrowmztw0-n83_gfed" mz="Level">Level</string>
+  <string name="k054lrowmztw0-n84_gfed" mz="Points">Points</string>
+  <string name="k054lrowmztw0-n85_gfed" mz="Square">Squares</string>
+  <string name="k054lrowmztw0-n91_gfed" mz="n91">No.</string>
+  <string name="k054lrowmztw0-n52_tiae" mz="Network_Text">Network signal is not good
+Please check your network,Tray again</string>
+  <!-- LeadersPackage/Entity/OK.xml -->
+  <string name="k054lrowd7imv-n1_d7im" mz="n1">Ok</string>
+  <!-- LeadersPackage/Entity/RankItem.xml -->
+  <string name="k054lrowsoac1q-n1_mztw" mz="ID_Text">Murphy Eoin</string>
+  <!-- MainPackage/Entity/ButtonPlay.xml -->
+  <string name="gwz96r4bp8me1d-n1_p8me" mz="n1">Play</string>
+  <!-- MainPackage/Entity/CollectionCupItem.xml -->
+  <string name="gwz96r4blsid1z-n2_lsid" mz="n2">April 77</string>
+  <!-- MainPackage/Entity/ContinueGame.xml -->
+  <string name="gwz96r4bhgs2x-n2_hgs2" mz="n2">Continue Game</string>
+  <!-- MainPackage/Entity/DailyBlock.xml -->
+  <string name="gwz96r4bhgs2u-n21_hgs2" mz="DailyTitle">Daily  Challenge</string>
+  <string name="gwz96r4bhgs2u-n23_hgs2" mz="DailyDay">April z</string>
+  <!-- MainPackage/Entity/EventBlock.xml -->
+  <string name="gwz96r4bhgs2q-n9_hgs2" mz="EventTitle">Event</string>
+  <string name="gwz96r4bhgs2q-n11_hgs2" mz="EventName">Mother's Day</string>
+  <!-- MainPackage/Entity/GetCupView.xml -->
+  <string name="gwz96r4bcwjh22-n1_jisi" mz="n1">Congratulations!</string>
+  <string name="gwz96r4bcwjh22-n3_jisi" mz="n3">You have completed all daily challenges for 
+March 2022 and earned thus reward</string>
+  <string name="gwz96r4bcwjh22-n5_jisi" mz="n5">Collect</string>
+  <!-- MainPackage/Entity/ImageReward.xml -->
+  <string name="gwz96r4blsid20-n4_lsid" mz="n4">Monter</string>
+  <!-- MainPackage/Entity/MainView.xml -->
+  <string name="gwz96r4bhgs2m-n98_bgew" mz="BestScore">Best Score</string>
+  <string name="gwz96r4bhgs2m-n43_p8me" mz="Title">Daily Challenges</string>
+  <string name="gwz96r4bhgs2m-n52_p8me" mz="s">S</string>
+  <string name="gwz96r4bhgs2m-n53_p8me" mz="m">M</string>
+  <string name="gwz96r4bhgs2m-n56_p8me" mz="t">T</string>
+  <string name="gwz96r4bhgs2m-n58_p8me" mz="w">W</string>
+  <string name="gwz96r4bhgs2m-n60_p8me" mz="t2">T</string>
+  <string name="gwz96r4bhgs2m-n61_p8me" mz="f">F</string>
+  <string name="gwz96r4bhgs2m-n62_p8me" mz="s2">S</string>
+  <string name="gwz96r4bhgs2m-n64_p8me" mz="Daliy_Month">April</string>
+  <string name="gwz96r4bhgs2m-n73_rc09" mz="n73">Awards</string>
+  <string name="gwz96r4bhgs2m-n79_lsid" mz="n79">Daily</string>
+  <string name="gwz96r4bhgs2m-n80_lsid" mz="n80">Events</string>
+  <string name="gwz96r4bhgs2m-n81_lsid" mz="n81">Daily</string>
+  <string name="gwz96r4bhgs2m-n92_vqik" mz="n92">Take part in events and collect unique
+reward.Stay tuned!</string>
+  <string name="gwz96r4bhgs2m-n93_vqik" mz="n93">You have no awards yet</string>
+  <string name="gwz96r4bhgs2m-n82_lsid" mz="n82">Events</string>
+  <string name="gwz96r4bhgs2m-n87_lsid" mz="n87">Collected</string>
+  <!-- MainPackage/Entity/NewGame.xml -->
+  <string name="gwz96r4bhgs2w-n2_hgs2" mz="n2">Endless Mode</string>
+  <!-- MainPackage/Entity/Task.xml -->
+  <string name="gwz96r4bpm0y2h-n108_pm0y" mz="n108">Level xx</string>
+  <string name="gwz96r4bpm0y2h-n109_pm0y" mz="n109">Endless Mode</string>
+  <!-- MainPackage/Entity/Time.xml -->
+  <string name="gwz96r4bibud1o-n15_hgs2" mz="EventTime">7d 04h</string>
+  <!-- PtEndingPackage/Entity/BestScore.xml -->
+  <string name="p0sdbstopm0yb-n13_lhvl" mz="n13">Best Score</string>
+  <string name="p0sdbstopm0yb-n1_lhvl" mz="n1">Today</string>
+  <string name="p0sdbstopm0yb-n2_lhvl" mz="n2">This Week</string>
+  <string name="p0sdbstopm0yb-n3_lhvl" mz="n3">This Month</string>
+  <string name="p0sdbstopm0yb-n4_lhvl" mz="n4">All Time</string>
+  <!-- PtEndingPackage/Entity/EndingView.xml -->
+  <string name="p0sdbstolhvl8-n10_lhvl" mz="NewScore">All-Time New Best Score</string>
+  <string name="p0sdbstolhvl8-n23_lhvl" mz="n5">Game Completed</string>
+  <string name="p0sdbstolhvl8-n37_liub" mz="n37">Main</string>
+  <!-- PtEndingPackage/Entity/PlayBtn.xml -->
+  <string name="p0sdbstoes3ma-n37_es3m" mz="n37">New Game</string>
+  <!-- PtGuidePackage/Entity/RestartBtn.xml -->
+  <string name="x8lklu90lsid7-n3_lsid" mz="n3">Restart Tutorial</string>
+  <!-- RepublicPackage/Entity/ContinueBtn.xml -->
+  <string name="gasy8a7fc8nj7-n3_c8nj" mz="n3">Continue</string>
+  <!-- RepublicPackage/Entity/Guide_Btn.xml -->
+  <string name="gasy8a7fin7yc-n2_in7y" mz="n2">Next</string>
+  <string name="gasy8a7fin7yc-n3_in7y" mz="n3">Ok</string>
+  <!-- RepublicPackage/Entity/LevelBtn.xml -->
+  <string name="gasy8a7fbgew2d-n3_c8nj" mz="n3">Level xxx</string>
+  <!-- RepublicPackage/Entity/MainBtn.xml -->
+  <string name="gasy8a7fliubb-n3_liub" mz="n3">Main</string>
+  <!-- RepublicPackage/Entity/Main_Btn.xml -->
+  <string name="gasy8a7fpm0y2f-n2_in7y" mz="n2">Main</string>
+  <string name="gasy8a7fpm0y2f-n3_in7y" mz="n3">Ok</string>
+  <!-- RepublicPackage/Entity/NextLevelBtn.xml -->
+  <string name="gasy8a7fbgew2e-n3_c8nj" mz="n3">Next Level</string>
+  <!-- SetPackage/Entity/SettView.xml -->
+  <string name="1sxftg19uvks7-n3_sldy" mz="n3">Vibration</string>
+  <string name="1sxftg19uvks7-n5_sldy" mz="n5">Sounds</string>
+  <string name="1sxftg19uvks7-n10_sldy" mz="n10">Version:1.0.1</string>
+  <string name="1sxftg19uvks7-n17_mki1" mz="SigninName_Text">Guest</string>
+  <string name="1sxftg19uvks7-n18_mki1" mz="n18_Text">Save Progress</string>
+  <string name="1sxftg19uvks7-n19_mki1" mz="123_Text">Sign in to save your progress and
+never lose it</string>
+  <string name="1sxftg19uvks7-n25_nu94" mz="n18_Text2">Sign Out</string>
+  <string name="1sxftg19uvks7-n29_nu94" mz="SignOutName_Text">Guest</string>
+  <string name="1sxftg19uvks7-n59_a2mw" mz="n59">Settings</string>
+  <string name="1sxftg19uvks7-n45_ghvy" mz="n45">Version:1.0.1</string>
+  <string name="1sxftg19uvks7-n47_ghvy" mz="n18_Text21">Sign Out</string>
+  <string name="1sxftg19uvks7-n50_ghvy" mz="SignOutName2_Text">Guest</string>
+</resources>

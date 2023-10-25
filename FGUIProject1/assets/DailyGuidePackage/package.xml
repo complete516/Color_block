@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="n3hyo01h">
+  <resources>
+    <image id="in7y3" name="pic1.png" path="/Res/"/>
+    <image id="in7y4" name="pic3.png" path="/Res/"/>
+    <component id="in7y7" name="DailyGuideView.xml" path="/Entity/" exported="true"/>
+    <component id="in7y8" name="GuideList1.xml" path="/Entity/"/>
+    <component id="in7y9" name="GuideList2.xml" path="/Entity/"/>
+    <component id="in7ya" name="GuideList3.xml" path="/Entity/"/>
+    <component id="in7yb" name="Page.xml" path="/Entity/"/>
+    <image id="in7yd" name="jb2.png" path="/Res/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

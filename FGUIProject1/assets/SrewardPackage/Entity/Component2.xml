@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="912,826">
+  <controller name="c1" pages="0,coin,1,frame" selected="0"/>
+  <displayList>
+    <image id="n0_tjqt" name="n0" src="tjqti" fileName="Res/底板.png" xy="0,0"/>
+    <image id="n1_tjqt" name="n1" src="tjqt5" fileName="Res/BLOCKCHALLENGE.png" xy="195,97"/>
+    <image id="n2_tjqt" name="n2" src="tjqtj" fileName="Res/season.png" xy="359,179" size="159,37" aspect="true"/>
+    <text id="n3_tjqt" name="n3" xy="521,167" size="92,66" font="ui://r1nmkmgmon0bx" fontSize="50" color="#ffffff" align="center" vAlign="middle" bold="true" text="100"/>
+    <image id="n4_tjqt" name="n4" src="tjqt7" fileName="Res/YOU WIN.png" xy="281,279"/>
+    <component id="n9_tjqt" name="n9" src="tjqtn" fileName="Entity/Button2.xml" xy="234,626"/>
+    <image id="n10_tjqt" name="n10" src="tjqt4" fileName="Res/COIN.png" xy="311,432">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n11_tjqt" name="n11" src="tjqt1" fileName="Res/x.png" xy="507,471">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n12_tjqt" name="n12" src="tjqt7" fileName="Res/YOU WIN.png" xy="279,281"/>
+    <text id="n19_mwyg" name="n19" xy="562,462" size="125,66" font="ui://3mapgb03mwygu" fontSize="30" text="100">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <component id="n20_dlm2" name="n20" src="xz4p2e" fileName="Entity/HeardFrame.xml" pkg="gs6o3ix6" xy="331,359" scale="0.5,0.5">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+  </displayList>
+</component>

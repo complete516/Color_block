@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="918,896" designImage="ui://y4cptdt9xc2i0" designImageOffsetX="-81" designImageOffsetY="-434">
+  <displayList>
+    <image id="n2_xc2i" name="n2" src="xc2i5" fileName="res/版头2.png" xy="0,191"/>
+    <image id="n3_xc2i" name="n3" src="xc2i5" fileName="res/版头2.png" xy="913,191" scale="-1,1"/>
+    <image id="n0_xc2i" name="n0" src="xc2i6" fileName="res/底板.png" xy="107,73"/>
+    <image id="n4_xc2i" name="n4" src="xc2i4" fileName="res/版头1.png" xy="64,145"/>
+    <image id="n6_xc2i" name="n6" src="xc2i1" fileName="res/HAVING FUN.png" xy="235,205"/>
+    <loader id="n14_xc2i" name="touch" xy="119,454" size="680,415"/>
+    <loader id="n9_xc2i" name="n9" xy="155,475" pivot="0.5,0.5" size="109,106" url="ui://y4cptdt9xc2i3"/>
+    <loader id="n10_xc2i" name="n10" xy="278,475" pivot="0.5,0.5" size="109,106" url="ui://y4cptdt9xc2i3"/>
+    <loader id="n11_xc2i" name="n11" xy="403,475" pivot="0.5,0.5" size="109,106" url="ui://y4cptdt9xc2i3"/>
+    <loader id="n12_xc2i" name="n12" xy="526,475" pivot="0.5,0.5" size="109,106" url="ui://y4cptdt9xc2i3"/>
+    <loader id="n13_xc2i" name="n13" xy="648,475" pivot="0.5,0.5" size="109,106" url="ui://y4cptdt9xc2i3"/>
+    <component id="n5_xc2i" name="n5" src="cge5c" fileName="Entity/Close.xml" pkg="gasy8a7f" xy="752,-2" aspect="true" scale="0.65,0.65"/>
+    <component id="n8_xc2i" name="n8" src="xc2ia" fileName="comp/rateBtn.xml" xy="235,694"/>
+    <text id="n7_xc2i" name="n7" xy="156,357" size="619,79" font="ui://gasy8a7fn4ah2m" fontSize="60" color="#404bab" letterSpacing="2" text="TAP STAR TO RATE US"/>
+    <text id="n15_cge5" name="n15" xy="782,0" size="43,85" aspect="true" font="ui://gasy8a7fn4ah2m" fontSize="65" color="#ffffff" text="X"/>
+  </displayList>
+  <transition name="star" autoPlay="true" frameRate="30">
+    <item time="0" type="Icon" target="n10_xc2i" value="ui://y4cptdt9xc2i3"/>
+    <item time="0" type="Icon" target="n11_xc2i" value="ui://y4cptdt9xc2i3"/>
+    <item time="0" type="Icon" target="n12_xc2i" value="ui://y4cptdt9xc2i3"/>
+    <item time="0" type="Icon" target="n13_xc2i" value="ui://y4cptdt9xc2i3"/>
+    <item time="0" type="Icon" target="n9_xc2i" value="ui://y4cptdt9xc2i3"/>
+    <item time="0" type="Scale" target="n10_xc2i" value="1,1"/>
+    <item time="0" type="Scale" target="n11_xc2i" value="1,1"/>
+    <item time="0" type="Scale" target="n12_xc2i" value="1,1"/>
+    <item time="0" type="Scale" target="n13_xc2i" value="1,1"/>
+    <item time="0" type="Scale" target="n9_xc2i" tween="true" startValue="1,1" endValue="1,1" duration="1"/>
+    <item time="1" type="Icon" target="n9_xc2i" value="ui://y4cptdt9xc2i2"/>
+    <item time="1" type="Scale" target="n9_xc2i" tween="true" startValue="1,1" endValue="1.2,1.2" duration="3"/>
+    <item time="4" type="Icon" target="n10_xc2i" value="ui://y4cptdt9xc2i2"/>
+    <item time="4" type="Scale" target="n10_xc2i" tween="true" startValue="1,1" endValue="1.2,1.2" duration="4"/>
+    <item time="4" type="Scale" target="n9_xc2i" tween="true" startValue="1.2,1.2" endValue="1,1" duration="3"/>
+    <item time="8" type="Icon" target="n11_xc2i" value="ui://y4cptdt9xc2i2"/>
+    <item time="8" type="Scale" target="n10_xc2i" tween="true" startValue="1.2,1.2" endValue="1,1" duration="3"/>
+    <item time="8" type="Scale" target="n11_xc2i" tween="true" startValue="1,1" endValue="1.2,1.2" duration="3"/>
+    <item time="11" type="Icon" target="n12_xc2i" value="ui://y4cptdt9xc2i2"/>
+    <item time="11" type="Scale" target="n11_xc2i" tween="true" startValue="1.2,1.2" endValue="1,1" duration="3"/>
+    <item time="11" type="Scale" target="n12_xc2i" tween="true" startValue="1,1" endValue="1.2,1.2" duration="3"/>
+    <item time="14" type="Icon" target="n13_xc2i" value="ui://y4cptdt9xc2i2"/>
+    <item time="14" type="Scale" target="n12_xc2i" tween="true" startValue="1.2,1.2" endValue="1,1" duration="3"/>
+    <item time="14" type="Scale" target="n13_xc2i" tween="true" startValue="1,1" endValue="1.2,1.2" duration="3"/>
+    <item time="17" type="Scale" target="n13_xc2i" tween="true" startValue="1.2,1.2" endValue="1,1" duration="3"/>
+  </transition>
+</component>

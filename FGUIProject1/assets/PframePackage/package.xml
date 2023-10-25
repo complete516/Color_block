@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gs6o3ix6">
+  <resources>
+    <image id="h1zx0" name="大星.png" path="/Res/"/>
+    <image id="h1zx1" name="黄金底框.png" path="/Res/"/>
+    <image id="h1zx2" name="小星.png" path="/Res/"/>
+    <image id="h1zx3" name="大星(1).png" path="/Res/"/>
+    <image id="h1zx4" name="底框.png" path="/Res/"/>
+    <image id="h1zx5" name="小星(1).png" path="/Res/"/>
+    <image id="h1zx6" name="大星(2).png" path="/Res/"/>
+    <image id="h1zx7" name="黄金底框(1).png" path="/Res/"/>
+    <image id="h1zx8" name="小星(2).png" path="/Res/"/>
+    <image id="h1zxg" name="03青铜.png" path="/Res/"/>
+    <image id="h1zxh" name="2001.png" path="/Res/"/>
+    <image id="h1zxi" name="2002.png" path="/Res/"/>
+    <image id="h1zxj" name="2003.png" path="/Res/"/>
+    <image id="h1zxk" name="2004.png" path="/Res/"/>
+    <image id="h1zxl" name="2005.png" path="/Res/"/>
+    <image id="h1zxm" name="2006.png" path="/Res/"/>
+    <component id="h1zxn" name="HeardFrameItem.xml" path="/Entity/"/>
+    <image id="vi1xo" name="基本款01.png" path="/Res/"/>
+    <image id="vi1xp" name="基本款02.png" path="/Res/"/>
+    <image id="vi1xq" name="基本款03.png" path="/Res/"/>
+    <image id="vi1xr" name="基本款04.png" path="/Res/"/>
+    <image id="vi1xs" name="基本款05.png" path="/Res/"/>
+    <image id="vi1xt" name="基本款06.png" path="/Res/"/>
+    <component id="cl1nu" name="HeardFrameItem1.xml" path="/Entity/"/>
+    <image id="cl1n1a" name="光点1.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1b" name="翅膀左.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1c" name="翅膀右.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1d" name="烟花03.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1e" name="烟花02.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1f" name="烟花01.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1g" name="圈04.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1h" name="圈03.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1i" name="圈02.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1j" name="圈01.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1k" name="叶片05.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1l" name="叶片04.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1m" name="叶片03.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1n" name="叶片02.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1o" name="叶片01.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1p" name="光点2.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1q" name="翅膀左01.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1r" name="翅膀左02.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1s" name="Autumn.png" path="/Res/特殊头像框切图/"/>
+    <image id="cl1n1v" name="烟花03.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n1w" name="烟花02.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n1x" name="烟花01.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n1y" name="圈04.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n1z" name="圈03.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n20" name="圈02.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n21" name="圈01.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n22" name="叶片05.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n23" name="叶片04.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n24" name="叶片03.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n25" name="叶片02.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n26" name="叶片01.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n27" name="光点2.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n28" name="光点1.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="cl1n29" name="Summer.png" path="/Res/特殊头像框切图/"/>
+    <component id="8o6b2d" name="HeardFrameItem2.xml" path="/Entity/"/>
+    <component id="xz4p2e" name="HeardFrame.xml" path="/Entity/" exported="true"/>
+    <image id="nnda2f" name="Autumn04.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="nnda2g" name="叶片1.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="nnda2h" name="叶片2.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="nnda2i" name="叶片3.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="nnda2j" name="叶片4.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="nnda2k" name="叶片5.png" path="/Res/特殊头像框切图/特殊头像框切图/"/>
+    <image id="fz552l" name="Autumn1.png" path="/Res/特殊头像框切图/"/>
+    <image id="fz552m" name="Autumn2.png" path="/Res/特殊头像框切图/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

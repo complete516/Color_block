@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kiodpbex">
+  <resources>
+    <image id="l8b71" name="anniubaidi.png" path="/Res/" scale="9grid" scale9grid="108,105,216,210"/>
+    <image id="l8b72" name="dakuang.png" path="/Res/" scale="9grid" scale9grid="121,120,242,240"/>
+    <image id="l8b74" name="help.png" path="/Res/"/>
+    <image id="l8b75" name="jindu-1.png" path="/Res/"/>
+    <image id="l8b76" name="jindu-2.png" path="/Res/"/>
+    <image id="l8b78" name="jindu-4.png" path="/Res/"/>
+    <image id="l8b7b" name="kuang2.png" path="/Res/"/>
+    <image id="l8b7c" name="kuang3.png" path="/Res/"/>
+    <image id="l8b7g" name="suo2.png" path="/Res/" exported="true"/>
+    <image id="l8b7h" name="suo3.png" path="/Res/"/>
+    <image id="l8b7j" name="tupiantubiao.png" path="/Res/"/>
+    <image id="l8b7l" name="事件挑战界面-.png" path="/Design/"/>
+    <component id="l8b7n" name="LevelBar.xml" path="/Entity/" exported="true"/>
+    <component id="l8b7p" name="EventView.xml" path="/Entity/" exported="true"/>
+    <image id="l8b7s" name="baidi.png" path="/Res/"/>
+    <component id="l8b7t" name="LevelList3.xml" path="/Entity/"/>
+    <component id="ibudv" name="LevelList1.xml" path="/Entity/"/>
+    <component id="ibudw" name="Help_Btn.xml" path="/Entity/"/>
+    <component id="ibud10" name="Play_Btn.xml" path="/Entity/"/>
+    <component id="in7y12" name="PlayListView.xml" path="/Entity/"/>
+    <component id="in7y13" name="Continue_Btn.xml" path="/Entity/"/>
+    <component id="in7y17" name="Cancel_Btn.xml" path="/Entity/"/>
+    <component id="ogkh18" name="GetImage.xml" path="/Entity/" exported="true"/>
+    <image id="ogkh26" name="获得图片.png" path="/Design/"/>
+    <image id="ogkh27" name="donghbua6.png" path="/Res/"/>
+    <image id="ogkh28" name="donghua1.png" path="/Res/"/>
+    <image id="ogkh29" name="donghua2.png" path="/Res/"/>
+    <image id="ogkh2a" name="donghua3.png" path="/Res/"/>
+    <image id="ogkh2b" name="donghua4.png" path="/Res/"/>
+    <image id="ogkh2c" name="donghua5.png" path="/Res/"/>
+    <image id="ogkh2d" name="hezidi.png" path="/Res/"/>
+    <image id="ogkh2e" name="hezigai.png" path="/Res/"/>
+    <component id="ogkh2f" name="OK_Btn.xml" path="/Entity/"/>
+    <component id="mipc2g" name="Spot_idel.xml" path="/Entity/"/>
+    <component id="qkml2h" name="Restart_Btn.xml" path="/Entity/"/>
+    <component id="bovf2i" name="EventGameStateView.xml" path="/Entity/" exported="true"/>
+    <component id="pt732j" name="LevelList5.xml" path="/Entity/"/>
+    <component id="pt732k" name="LevelList4.xml" path="/Entity/"/>
+    <component id="pt732l" name="LevelList2.xml" path="/Entity/"/>
+    <image id="cbzx2m" name="064.jpg" path="/Design/"/>
+    <image id="cbzx2o" name="BTB.png" path="/Res/"/>
+    <image id="cbzx2p" name="dakuang2.png" path="/Res/"/>
+    <image id="r1zk2q" name="anniubaidi2.png" path="/Res/"/>
+    <image id="r1zk2s" name="Active Postcard.png" path="/Res/"/>
+    <component id="r1zk2t" name="Page.xml" path="/Entity/"/>
+    <image id="cge52u" name="Bar2.png" path="/Res/"/>
+    <image id="cge52v" name="选中框.png" path="/Res/"/>
+    <image id="cge52x" name="Bar3.png" path="/Res/"/>
+    <component id="rcae2z" name="LevelBtn.xml" path="/Entity/"/>
+    <component id="rcae33" name="ProgressBar1.xml" path="/Entity/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

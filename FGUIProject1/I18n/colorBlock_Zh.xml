@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- DailyEndingPackage/Entity/DailyBackBtn.xml -->
+  <string name="qb8erzpkc8njb-n3_c8nj" mz="n3">每日挑战</string>
+  <!-- DailyEndingPackage/Entity/DailyEndingView.xml -->
+  <string name="qb8erzpkc8nj0-n8_c8nj" mz="n8">xx%</string>
+  <string name="qb8erzpkc8nj0-n4_c8nj" mz="n4">关卡完成</string>
+  <string name="qb8erzpkc8nj0-n11_sldy" mz="n11">重试</string>
+  <string name="qb8erzpkc8nj0-n15_zb1t" mz="n15">Congratulation! You are so good at playing games now.Just enjoy and make square~</string>
+  <!-- DailyEndingPackage/Entity/RestartBtn.xml -->
+  <string name="qb8erzpkc8nj8-n3_c8nj" mz="n3">重新开始</string>
+  <!-- DailyGuidePackage/Entity/DailyGuideView.xml -->
+  <string name="n3hyo01hin7y7-n3_in7y" mz="n3">欢迎挑战</string>
+  <!-- DailyGuidePackage/Entity/GuideList1.xml -->
+  <string name="n3hyo01hin7y8-n2_in7y" mz="n2">Get unique puzzles every day</string>
+  <!-- DailyGuidePackage/Entity/GuideList2.xml -->
+  <string name="n3hyo01hin7y9-n2_in7y" mz="n2">在规定时间内解开所有事件关卡，你将获得一张精美的明信片。</string>
+  <!-- DailyGuidePackage/Entity/GuideList3.xml -->
+  <string name="n3hyo01hin7ya-n2_in7y" mz="n2">含数字的方块需要多次消除，直到数字消失为止。</string>
+  <!-- EventEndingPackage/Entity/ContinueBtn.xml -->
+  <string name="p93f4978ogkhc-n37_es3m" mz="n37">继续</string>
+  <!-- EventEndingPackage/Entity/EventEndingView.xml -->
+  <string name="p93f4978ewzpd-n23_lhvl" mz="n5">关卡完成</string>
+  <string name="p93f4978ewzpd-n10_lhvl" mz="NewScore">重试</string>
+  <string name="p93f4978ewzpd-n43_q91f" mz="n43">Make square to remove same color blocks 
+and get more score</string>
+  <!-- EventEndingPackage/Entity/MainBtn.xml -->
+  <string name="p93f4978ogkha-n3_liub" mz="n3">主页</string>
+  <!-- EventEndingPackage/Entity/RestartBtn.xml -->
+  <string name="p93f4978ogkh9-n37_es3m" mz="n37">重新开始</string>
+  <!-- EventGuidePackage/Entity/EventGuideView.xml -->
+  <string name="sii9xerc11wao2-n3_in7y" mz="n3">欢迎挑战</string>
+  <!-- EventGuidePackage/Entity/GuideList1.xml -->
+  <string name="sii9xerc11wao3-n2_in7y" mz="n2">Get unique puzzles every day</string>
+  <!-- EventGuidePackage/Entity/GuideList2.xml -->
+  <string name="sii9xerc11wao4-n2_in7y" mz="n2">在规定时间内解开所有事件关卡，你将获得一张精美的明信片！</string>
+  <!-- EventGuidePackage/Entity/GuideList3.xml -->
+  <string name="sii9xerc11wao5-n2_in7y" mz="n2">含数字的方块需要多次消除，直到数字消失为止。</string>
+  <!-- EventPackage/Entity/EventView.xml -->
+  <string name="kiodpbexl8b7p-n1_ibud" mz="Title_Text">Monther's Day</string>
+  <string name="kiodpbexl8b7p-n2_ibud" mz="1_Text">结束时间:</string>
+  <string name="kiodpbexl8b7p-n14_ibud" mz="Open_Text">开始</string>
+  <string name="kiodpbexl8b7p-n17_ibud" mz="Close_Text">活动明信片</string>
+  <string name="kiodpbexl8b7p-n22_in7y" mz="Finish_Text">完成</string>
+  <!-- EventPackage/Entity/GetImage.xml -->
+  <string name="kiodpbexogkh18-n14_ogkh" mz="n14">做的好</string>
+  <string name="kiodpbexogkh18-n18_ogkh" mz="n18">You've completed all the levesls! The
+rewards is yours!</string>
+  <!-- EventPackage/Entity/LevelList1.xml -->
+  <string name="kiodpbexibudv-n44_in7y" mz="n44">Open the previous postcard
+first</string>
+  <!-- EventPackage/Entity/LevelList2.xml -->
+  <string name="kiodpbexpt732l-n44_in7y" mz="n44">Open the previous postcard
+first</string>
+  <!-- EventPackage/Entity/LevelList3.xml -->
+  <string name="kiodpbexl8b7t-n23_ibud" mz="n23">Open the previous postcard
+first</string>
+  <!-- EventPackage/Entity/LevelList4.xml -->
+  <string name="kiodpbexpt732k-n32_in7y" mz="n32">Open the previous postcard
+first</string>
+  <!-- EventPackage/Entity/LevelList5.xml -->
+  <string name="kiodpbexpt732j-n44_in7y" mz="n44">Open the previous postcard
+first</string>
+  <!-- EventPackage/Entity/OK_Btn.xml -->
+  <string name="kiodpbexogkh2f-n2_ogkh" mz="n2">确定</string>
+  <!-- EventPackage/Entity/PlayListView.xml -->
+  <string name="kiodpbexin7y12-n11_in7y" mz="n11">继续</string>
+  <string name="kiodpbexin7y12-n12_in7y" mz="n12">重新开始</string>
+  <string name="kiodpbexin7y12-n13_in7y" mz="n13">取消</string>
+  <!-- GameGuidePackage/Entity/99Guide.xml -->
+  <string name="d6jg1khqpm0y5-n6_pm0y" mz="n6">获得新玩法：9*9地图</string>
+  <string name="d6jg1khqpm0y5-n7_pm0y" mz="n7">游戏中有更大的地图</string>
+  <string name="d6jg1khqpm0y5-n13_pm0y" mz="n13">确定</string>
+  <!-- GameGuidePackage/Entity/BestScore2.xml -->
+  <string name="d6jg1khqpm0yg-n13_lhvl" mz="n13">最高分</string>
+  <string name="d6jg1khqpm0yg-n1_lhvl" mz="n1">今日最高</string>
+  <string name="d6jg1khqpm0yg-n2_lhvl" mz="n2">周最高</string>
+  <string name="d6jg1khqpm0yg-n3_lhvl" mz="n3">月最高</string>
+  <string name="d6jg1khqpm0yg-n4_lhvl" mz="n4">历史最高</string>
+  <!-- GameGuidePackage/Entity/BufferGuide.xml -->
+  <string name="d6jg1khqpm0y0-n6_pm0y" mz="n6">获得新玩法：仓库</string>
+  <string name="d6jg1khqpm0y0-n7_pm0y" mz="n7">可以把方块放入仓库</string>
+  <string name="d6jg1khqpm0y0-n13_pm0y" mz="n13">确定</string>
+  <!-- GameGuidePackage/Entity/EndlessGuide.xml -->
+  <string name="d6jg1khqpm0yf-n6_pm0y" mz="n6">获得新玩法：无尽模式</string>
+  <string name="d6jg1khqpm0yf-n13_pm0y" mz="n13">确定</string>
+  <string name="d6jg1khqpm0yf-n16_pm0y" mz="n16">可以进行无尽模式了</string>
+  <!-- GameGuidePackage/Entity/EventGuide.xml -->
+  <string name="d6jg1khqpm0yd-n6_pm0y" mz="n6">获得新玩法：事件模式</string>
+  <string name="d6jg1khqpm0yd-n13_pm0y" mz="n13">确定</string>
+  <string name="d6jg1khqpm0yd-n16_pm0y" mz="n16">在规定时间内解开所有事件关卡，你将获得一张精美的明信片！</string>
+  <!-- GameGuidePackage/Entity/NumberedBlockGuide.xml -->
+  <string name="d6jg1khqpm0yc-n6_pm0y" mz="n6">获得新玩法：数字方块</string>
+  <string name="d6jg1khqpm0yc-n7_pm0y" mz="n7">含数字的方块需要多次消除，直到数字消失为止。</string>
+  <string name="d6jg1khqpm0yc-n13_pm0y" mz="n13">确定</string>
+  <!-- GameGuidePackage/Entity/RankGuide.xml -->
+  <string name="d6jg1khqpm0yh-n6_pm0y" mz="n6">获得新玩法：排行榜</string>
+  <string name="d6jg1khqpm0yh-n13_pm0y" mz="n13">确定</string>
+  <string name="d6jg1khqpm0yh-n16_pm0y" mz="n16">是时候参加比赛了</string>
+  <!-- GamePackage/Entity/AllTimeScoreTips.xml -->
+  <string name="gt890bbwjvjbt-n3_jvjb" mz="ScoreText">历史最高分</string>
+  <!-- GamePackage/Entity/ComboTips.xml -->
+  <string name="gt890bbwjvjbo-n2_jvjb" mz="ScoreText">3x Combo!</string>
+  <!-- GamePackage/Entity/Game-Daily.xml -->
+  <string name="gt890bbwhgs2b-n7_hgs2" mz="Daily-Ttle">titititi</string>
+  <!-- GamePackage/Entity/Game-Pt.xml -->
+  <string name="gt890bbwhgs24-n1_hgs2" mz="All">历史最高</string>
+  <!-- GamePackage/Entity/GameView.xml -->
+  <string name="gt890bbwkdqy0-n23_zb1t" mz="Feedback_Text">Watch out! Sometimes you don't have enough space to move blocks.</string>
+  <string name="gt890bbwkdqy0-n21_lsid" mz="n21">跳过</string>
+  <!-- GamePackage/Entity/GuideAnimation.xml -->
+  <string name="gt890bbwq91fu-n3_nore" mz="n3">Make A Square！</string>
+  <string name="gt890bbwq91fu-n4_nore" mz="n4">Make square to remove same color blocks 
+and get higher score</string>
+  <string name="gt890bbwq91fu-n6_nore" mz="n6">继续</string>
+  <!-- GamePackage/Entity/RewardView.xml -->
+  <string name="gt890bbwp15b1a-n1_p15b" mz="n1">满了</string>
+  <string name="gt890bbwp15b1a-n14_p15b" mz="n14">不用了</string>
+  <string name="gt890bbwp15b1a-n16_p15b" mz="n16">Play on with above blocks</string>
+  <string name="gt890bbwp15b1a-n17_p15b" mz="n17">继续</string>
+  <!-- JigsawEndingPackage/Entity/JigSawEnding.xml -->
+  <string name="gtuyt9429wq20-n16_ghvy" mz="n16">l12</string>
+  <!-- JigsawGamePackage/Entity/JigsawGameView.xml -->
+  <string name="zpr8x2apinhad-n26_p6g6" mz="n22">l12</string>
+  <!-- LeadersPackage/Entity/Cancel.xml -->
+  <string name="k054lrowd7imw-n1_d7im" mz="n1">取消</string>
+  <!-- LeadersPackage/Entity/LeagerView.xml -->
+  <string name="k054lrowmztw0-n11_mztw" mz="Level_W">关卡</string>
+  <string name="k054lrowmztw0-n69_gfed" mz="Level_R">关卡</string>
+  <string name="k054lrowmztw0-n70_gfed" mz="Level_G">关卡</string>
+  <string name="k054lrowmztw0-n10_mztw" mz="Points_W">积分</string>
+  <string name="k054lrowmztw0-n71_gfed" mz="Points_R">积分</string>
+  <string name="k054lrowmztw0-n72_gfed" mz="Points_G">积分</string>
+  <string name="k054lrowmztw0-n65_gfed" mz="Square_W">矩阵</string>
+  <string name="k054lrowmztw0-n74_gfed" mz="Square_G">矩阵</string>
+  <string name="k054lrowmztw0-n73_gfed" mz="Square_R">矩阵</string>
+  <string name="k054lrowmztw0-n3_mztw" mz="GameName_G">排行榜</string>
+  <string name="k054lrowmztw0-n67_gfed" mz="GameName_R">排行榜</string>
+  <string name="k054lrowmztw0-n59_nu94" mz="ID_txt">Player_000000...</string>
+  <string name="k054lrowmztw0-n83_gfed" mz="Level">关卡</string>
+  <string name="k054lrowmztw0-n84_gfed" mz="Points">积分</string>
+  <string name="k054lrowmztw0-n85_gfed" mz="Square">矩阵</string>
+  <string name="k054lrowmztw0-n91_gfed" mz="n91">No.</string>
+  <string name="k054lrowmztw0-n52_tiae" mz="Network_Text">当前网络不好请重试！</string>
+  <!-- LeadersPackage/Entity/OK.xml -->
+  <string name="k054lrowd7imv-n1_d7im" mz="n1">确定</string>
+  <!-- LeadersPackage/Entity/RankItem.xml -->
+  <string name="k054lrowsoac1q-n1_mztw" mz="ID_Text">Murphy Eoin</string>
+  <!-- MainPackage/Entity/ButtonPlay.xml -->
+  <string name="gwz96r4bp8me1d-n1_p8me" mz="n1">开始</string>
+  <!-- MainPackage/Entity/CollectionCupItem.xml -->
+  <string name="gwz96r4blsid1z-n2_lsid" mz="n2">April 77</string>
+  <!-- MainPackage/Entity/ContinueGame.xml -->
+  <string name="gwz96r4bhgs2x-n2_hgs2" mz="n2">继续游戏</string>
+  <!-- MainPackage/Entity/DailyBlock.xml -->
+  <string name="gwz96r4bhgs2u-n21_hgs2" mz="DailyTitle">Daily  Challenge</string>
+  <string name="gwz96r4bhgs2u-n23_hgs2" mz="DailyDay">April z</string>
+  <!-- MainPackage/Entity/EventBlock.xml -->
+  <string name="gwz96r4bhgs2q-n9_hgs2" mz="EventTitle">事件</string>
+  <string name="gwz96r4bhgs2q-n11_hgs2" mz="EventName">Mother's Day</string>
+  <!-- MainPackage/Entity/GetCupView.xml -->
+  <string name="gwz96r4bcwjh22-n1_jisi" mz="n1">恭喜</string>
+  <string name="gwz96r4bcwjh22-n3_jisi" mz="n3">You have completed all daily challenges for 
+March 2022 and earned thus reward</string>
+  <string name="gwz96r4bcwjh22-n5_jisi" mz="n5">收集</string>
+  <!-- MainPackage/Entity/ImageReward.xml -->
+  <string name="gwz96r4blsid20-n4_lsid" mz="n4">月</string>
+  <!-- MainPackage/Entity/MainView.xml -->
+  <string name="gwz96r4bhgs2m-n98_bgew" mz="BestScore">最高分</string>
+  <string name="gwz96r4bhgs2m-n43_p8me" mz="Title">每日挑战</string>
+  <string name="gwz96r4bhgs2m-n52_p8me" mz="s">S</string>
+  <string name="gwz96r4bhgs2m-n53_p8me" mz="m">M</string>
+  <string name="gwz96r4bhgs2m-n56_p8me" mz="t">T</string>
+  <string name="gwz96r4bhgs2m-n58_p8me" mz="w">W</string>
+  <string name="gwz96r4bhgs2m-n60_p8me" mz="t2">T</string>
+  <string name="gwz96r4bhgs2m-n61_p8me" mz="f">F</string>
+  <string name="gwz96r4bhgs2m-n62_p8me" mz="s2">S</string>
+  <string name="gwz96r4bhgs2m-n64_p8me" mz="Daliy_Month">April</string>
+  <string name="gwz96r4bhgs2m-n73_rc09" mz="n73">奖励</string>
+  <string name="gwz96r4bhgs2m-n79_lsid" mz="n79">Daily</string>
+  <string name="gwz96r4bhgs2m-n80_lsid" mz="n80">事件</string>
+  <string name="gwz96r4bhgs2m-n81_lsid" mz="n81">Daily</string>
+  <string name="gwz96r4bhgs2m-n92_vqik" mz="n92">Take part in events and collect unique
+reward.Stay tuned!</string>
+  <string name="gwz96r4bhgs2m-n93_vqik" mz="n93">你还没有获得奖励</string>
+  <string name="gwz96r4bhgs2m-n82_lsid" mz="n82">事件</string>
+  <string name="gwz96r4bhgs2m-n87_lsid" mz="n87">收集</string>
+  <!-- MainPackage/Entity/NewGame.xml -->
+  <string name="gwz96r4bhgs2w-n2_hgs2" mz="n2">无尽模式</string>
+  <!-- MainPackage/Entity/Task.xml -->
+  <string name="gwz96r4bpm0y2h-n108_pm0y" mz="n108">Level xx</string>
+  <string name="gwz96r4bpm0y2h-n109_pm0y" mz="n109">无尽模式</string>
+  <!-- MainPackage/Entity/Time.xml -->
+  <string name="gwz96r4bibud1o-n15_hgs2" mz="EventTime">7d 04h</string>
+  <!-- PtEndingPackage/Entity/BestScore.xml -->
+  <string name="p0sdbstopm0yb-n13_lhvl" mz="n13">最高分</string>
+  <string name="p0sdbstopm0yb-n1_lhvl" mz="n1">今日最高</string>
+  <string name="p0sdbstopm0yb-n2_lhvl" mz="n2">周最高</string>
+  <string name="p0sdbstopm0yb-n3_lhvl" mz="n3">月最高</string>
+  <string name="p0sdbstopm0yb-n4_lhvl" mz="n4">历史最高</string>
+  <!-- PtEndingPackage/Entity/EndingView.xml -->
+  <string name="p0sdbstolhvl8-n10_lhvl" mz="NewScore">新历史最高分</string>
+  <string name="p0sdbstolhvl8-n23_lhvl" mz="n5">游戏结束</string>
+  <string name="p0sdbstolhvl8-n37_liub" mz="n37">主页</string>
+  <!-- PtEndingPackage/Entity/PlayBtn.xml -->
+  <string name="p0sdbstoes3ma-n37_es3m" mz="n37">新游戏</string>
+  <!-- PtGuidePackage/Entity/RestartBtn.xml -->
+  <string name="x8lklu90lsid7-n3_lsid" mz="n3">重新开始</string>
+  <!-- RepublicPackage/Entity/ContinueBtn.xml -->
+  <string name="gasy8a7fc8nj7-n3_c8nj" mz="n3">继续</string>
+  <!-- RepublicPackage/Entity/Guide_Btn.xml -->
+  <string name="gasy8a7fin7yc-n2_in7y" mz="n2">Next</string>
+  <string name="gasy8a7fin7yc-n3_in7y" mz="n3">确定</string>
+  <!-- RepublicPackage/Entity/LevelBtn.xml -->
+  <string name="gasy8a7fbgew2d-n3_c8nj" mz="n3">Level xxx</string>
+  <!-- RepublicPackage/Entity/MainBtn.xml -->
+  <string name="gasy8a7fliubb-n3_liub" mz="n3">主页</string>
+  <!-- RepublicPackage/Entity/Main_Btn.xml -->
+  <string name="gasy8a7fpm0y2f-n2_in7y" mz="n2">主页</string>
+  <string name="gasy8a7fpm0y2f-n3_in7y" mz="n3">确定</string>
+  <!-- RepublicPackage/Entity/NextLevelBtn.xml -->
+  <string name="gasy8a7fbgew2e-n3_c8nj" mz="n3">下一关</string>
+  <!-- SetPackage/Entity/SettView.xml -->
+  <string name="1sxftg19uvks7-n3_sldy" mz="n3">震动</string>
+  <string name="1sxftg19uvks7-n5_sldy" mz="n5">音乐</string>
+  <string name="1sxftg19uvks7-n10_sldy" mz="n10">版本</string>
+  <string name="1sxftg19uvks7-n17_mki1" mz="SigninName_Text">游客</string>
+  <string name="1sxftg19uvks7-n18_mki1" mz="n18_Text">>保存进度</string>
+  <string name="1sxftg19uvks7-n19_mki1" mz="123_Text">Sign in to save your progress and
+never lose it</string>
+  <string name="1sxftg19uvks7-n25_nu94" mz="n18_Text2">登出</string>
+  <string name="1sxftg19uvks7-n29_nu94" mz="SignOutName_Text">游客</string>
+  <string name="1sxftg19uvks7-n59_a2mw" mz="n59">设置</string>
+  <string name="1sxftg19uvks7-n45_ghvy" mz="n45">版本</string>
+  <string name="1sxftg19uvks7-n47_ghvy" mz="n18_Text21">登出</string>
+  <string name="1sxftg19uvks7-n50_ghvy" mz="SignOutName2_Text">游客</string>
+</resources>

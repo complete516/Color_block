@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <controller name="c1" pages="0,完成,1,未完成,2,主页" selected="0"/>
+  <displayList>
+    <loader id="n22_jxmz" name="BG" xy="0,0" size="1080,1920" fill="scaleFree"/>
+    <image id="n31_ft29" name="n31" src="9wq27" fileName="Res/遮罩.png" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n17_pm0y" name="Main_Btn" src="pm0y2f" fileName="Entity/Main_Btn.xml" pkg="gasy8a7f" xy="294,1388">
+      <gearDisplay controller="c1" pages="2"/>
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+    <component id="n23_h3s9" name="GuideUI_1" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <component id="n25_n9h0" name="n25" src="doffd" fileName="Entity/GetGoldView.xml" pkg="uuybwu4x" xy="0,0">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <text id="n8_c8nj" name="n8" xy="539,868" pivot="0.5,0.5" anchor="true" size="173,124" group="n26_n9h0" font="ui://gasy8a7fn4ah2m" fontSize="96" color="#ffffff" align="center" vAlign="middle" leading="-6" letterSpacing="-3" text="xx%">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </text>
+    <text id="n4_c8nj" name="n4" xy="540,400" pivot="0.5,0.5" anchor="true" size="682,122" group="n26_n9h0" font="ui://gasy8a7fn4ah2m" fontSize="94" color="#ffffff" align="center" vAlign="middle" leading="-6" letterSpacing="-2" text="Level Completed">
+      <gearDisplay controller="c1" pages="0,2"/>
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </text>
+    <component id="n5_c8nj" name="n5" src="c8nj8" fileName="Entity/RestartBtn.xml" xy="295,1303" group="n26_n9h0">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+    <text id="n11_sldy" name="n11" xy="539,616" pivot="0.5,0.5" anchor="true" size="491,154" group="n26_n9h0" font="ui://gasy8a7fn4ah2m" fontSize="120" color="#ffffff" align="center" vAlign="middle" leading="-6" letterSpacing="-3" text="Try Again">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </text>
+    <text id="n30_ft29" name="n30" xy="214,1111" pivot="0.5,0.5" size="669,98" group="n26_n9h0" font="ui://gasy8a7fn4ah2m" fontSize="37" color="#ffffff" align="center" letterSpacing="-1" text="Make square to remove same color blocks &#xA;and get more score">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <group id="n26_n9h0" name="n26" xy="199,339" size="684,1109"/>
+  </displayList>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="mi6uf1ur">
+  <resources>
+    <image id="n4ah0" name="章节页面木质.jpg" path="/Design/"/>
+    <image id="n4ah1" name="星星.png" path="/Res/"/>
+    <image id="n4ah2" name="星星底座.png" path="/Res/"/>
+    <image id="n4ah3" name="标题.png" path="/Res/"/>
+    <image id="n4ah4" name="猫猫.png" path="/Res/"/>
+    <image id="n4ah5" name="猫猫底座.png" path="/Res/"/>
+    <image id="n4ah6" name="锁.png" path="/Res/"/>
+    <component id="n4ah7" name="JigsawSelectListView.xml" path="/Entity/" exported="true"/>
+    <component id="n4ah8" name="LevelItem.xml" path="/Entity/" exported="true"/>
+    <image id="cznqa" name="皇冠.png" path="/Res/"/>
+    <image id="o2nzb" name="中文标题.png" path="/Res/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

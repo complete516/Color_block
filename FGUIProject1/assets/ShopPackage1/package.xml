@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5373ewx2">
+  <resources>
+    <component id="mwyg0" name="StoreView.xml" path="/Entity/" exported="true"/>
+    <image id="mwyg1" name="free.png" path="/Res/"/>
+    <image id="mwyg2" name="7.png" path="/Res/"/>
+    <image id="mwyg3" name="6.png" path="/Res/"/>
+    <image id="mwyg4" name="5.png" path="/Res/"/>
+    <image id="mwyg5" name="4.png" path="/Res/"/>
+    <image id="mwyg6" name="3.png" path="/Res/"/>
+    <image id="mwyg7" name="2.png" path="/Res/"/>
+    <image id="mwyg8" name="1.png" path="/Res/"/>
+    <image id="mwyg9" name="0.png" path="/Res/"/>
+    <image id="mwyga" name="商城.jpg" path="/Res/"/>
+    <image id="mwygb" name="去广告底.png" path="/Res/"/>
+    <image id="mwygc" name="8.png" path="/Res/"/>
+    <image id="mwygd" name="去广告按钮.png" path="/Res/"/>
+    <image id="mwyge" name="礼包.png" path="/Res/"/>
+    <image id="mwygf" name="蓝色按钮.png" path="/Res/"/>
+    <image id="mwygg" name="更多头像.png" path="/Res/"/>
+    <image id="mwygh" name="更多金币.png" path="/Res/"/>
+    <image id="mwygi" name="更多道具.png" path="/Res/"/>
+    <image id="mwygj" name="更多边框.png" path="/Res/"/>
+    <image id="mwygk" name="底.png" path="/Res/"/>
+    <image id="mwygl" name="x.png" path="/Res/"/>
+    <image id="mwygm" name="tip.png" path="/Res/"/>
+    <image id="mwygn" name="store.png" path="/Res/"/>
+    <image id="mwygo" name="绿色按钮.png" path="/Res/"/>
+    <image id="mwygp" name="9.png" path="/Res/"/>
+    <component id="mwygq" name="Tagitem.xml" path="/Entity/"/>
+    <component id="mwygr" name="FreeBth.xml" path="/Entity/Tag/"/>
+    <font id="mwygs" name="Font1.fnt" path="/Res/" exported="true"/>
+    <component id="mwygu" name="Morecoins.xml" path="/Entity/Tag/"/>
+    <component id="mwygv" name="NoadsTag.xml" path="/Entity/Tag/"/>
+    <component id="mwygw" name="MoneyBth.xml" path="/Entity/Tag/"/>
+    <component id="mwygx" name="CoinsBth.xml" path="/Entity/Tag/"/>
+    <component id="mwygy" name="PromptTag.xml" path="/Entity/Tag/"/>
+    <component id="mwygz" name="Morebulbs.xml" path="/Entity/Tag/"/>
+    <component id="mwyg10" name="SeasideTag.xml" path="/Entity/Tag/"/>
+    <component id="mwyg11" name="HeadTag.xml" path="/Entity/Tag/"/>
+    <component id="mwyg12" name="Moreframes.xml" path="/Entity/Tag/"/>
+    <component id="mwyg13" name="Moreavatars.xml" path="/Entity/Tag/"/>
+    <component id="mwyg15" name="CoinsTag.xml" path="/Entity/Tag/"/>
+    <image id="mwyg16" name="收起.png" path="/Res/"/>
+    <component id="mwyg17" name="CloseBth.xml" path="/Entity/Tag/"/>
+    <font id="gr6e1n" name="Font1.fnt" path="/Entity/Tag/"/>
+    <image id="shik1q" name="watch.png" path="/Res/" exported="true"/>
+    <component id="kizd1r" name="Btn_Gold4.xml" path="/Entity/Tag/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

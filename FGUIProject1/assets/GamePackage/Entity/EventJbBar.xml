@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="782,81" extention="ProgressBar">
+  <displayList>
+    <image id="n7_nore" name="n7" src="nore13" fileName="Res/目标底.png" xy="703,1"/>
+    <image id="n8_nore" name="n8" src="nore15" fileName="Res/进度条底的底.png" xy="1,15" size="735,56"/>
+    <image id="n9_nore" name="n9" src="hgs2i" fileName="Res/每日挑战进度条背景.png" xy="11,25" size="725,37"/>
+    <image id="n10_nore" name="bar" src="nore14" fileName="Res/进度条.png" xy="11,25" fillMethod="hz" fillClockwise="false"/>
+    <image id="n11_nore" name="1" src="nore11" fileName="Res/目标.png" xy="713,10"/>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

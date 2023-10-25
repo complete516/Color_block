@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="276,422">
+  <displayList>
+    <loader id="n1_lsid" name="n1" xy="138,151" pivot="0.5,0.5" anchor="true" size="276,302" url="ui://br5vvhb9p8mem" align="center" vAlign="middle" shrinkOnly="true"/>
+    <text id="n2_lsid" name="n2" xy="138,364" pivot="0.5,0.5" anchor="true" size="129,59" font="ui://gasy8a7fn4ah2m" fontSize="44" align="center" vAlign="middle" letterSpacing="-3" text="April 77"/>
+  </displayList>
+</component>

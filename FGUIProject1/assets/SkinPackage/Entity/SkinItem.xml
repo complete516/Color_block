@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="425,540" designImageOffsetX="43" designImageAlpha="0" designImageLayer="1">
+  <controller name="Select" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n1_q895" name="n1" src="h3s93i" fileName="Res/shijiankuangpingpu.png" pkg="gasy8a7f" xy="-2,-5" size="427,546"/>
+    <text id="n2_q895" name="n2" xy="153,10" size="119,44" font="ui://gasy8a7fn4ah2m" fontSize="32" color="#404bab" text="Autumn"/>
+    <component id="n3_q895" name="n3" src="q895e" fileName="Entity/Button.xml" xy="105,436"/>
+    <loader id="n4_q895" name="n4" xy="59,63" pivot="0.5,0.5" size="314,346" url="ui://4gavvzprq895d" autoSize="true"/>
+    <image id="n5_plgx" name="n5" src="q8958" fileName="Res/选中框.png" xy="23,5">
+      <gearDisplay controller="Select" pages="1"/>
+    </image>
+  </displayList>
+</component>

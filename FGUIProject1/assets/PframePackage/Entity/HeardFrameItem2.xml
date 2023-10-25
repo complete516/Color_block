@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="512,512">
+  <controller name="c1" pages="1,summer" selected="0"/>
+  <displayList>
+    <image id="n9_cl1n" name="n9" src="cl1n29" fileName="Res/特殊头像框切图/Summer.png" xy="0,0">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n16_cl1n" name="n16" src="cl1n26" fileName="Res/特殊头像框切图/特殊头像框切图/叶片01.png" xy="54,162" pivot="1,1">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n17_cl1n" name="n17" src="cl1n25" fileName="Res/特殊头像框切图/特殊头像框切图/叶片02.png" xy="23,181" pivot="1,1">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n18_cl1n" name="n18" src="cl1n24" fileName="Res/特殊头像框切图/特殊头像框切图/叶片03.png" xy="113,199">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n19_cl1n" name="n19" src="cl1n23" fileName="Res/特殊头像框切图/特殊头像框切图/叶片04.png" xy="40,199" pivot="1,0">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n20_cl1n" name="n20" src="cl1n22" fileName="Res/特殊头像框切图/特殊头像框切图/叶片05.png" xy="108,199">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n21_cl1n" name="n21" src="cl1n1x" fileName="Res/特殊头像框切图/特殊头像框切图/烟花01.png" xy="281,70" pivot="0.5,0.444">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n22_cl1n" name="n22" src="cl1n1w" fileName="Res/特殊头像框切图/特殊头像框切图/烟花02.png" xy="334,101" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n23_cl1n" name="n23" src="cl1n1v" fileName="Res/特殊头像框切图/特殊头像框切图/烟花03.png" xy="240,120" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n24_cl1n" name="n24" src="cl1n21" fileName="Res/特殊头像框切图/特殊头像框切图/圈01.png" xy="362,66" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n25_cl1n" name="n25" src="cl1n1z" fileName="Res/特殊头像框切图/特殊头像框切图/圈03.png" xy="272,69" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n26_cl1n" name="n26" src="cl1n1y" fileName="Res/特殊头像框切图/特殊头像框切图/圈04.png" xy="267,112" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n27_cl1n" name="n27" src="cl1n20" fileName="Res/特殊头像框切图/特殊头像框切图/圈02.png" xy="392,131" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+  <transition name="head2_an" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Alpha" target="n21_cl1n" value="1"/>
+    <item time="0" type="Alpha" target="n22_cl1n" value="1"/>
+    <item time="0" type="Alpha" target="n23_cl1n" value="1"/>
+    <item time="0" type="Alpha" target="n24_cl1n" value="1"/>
+    <item time="0" type="Alpha" target="n25_cl1n" value="1"/>
+    <item time="0" type="Alpha" target="n26_cl1n" value="1"/>
+    <item time="0" type="Alpha" target="n27_cl1n" value="1"/>
+    <item time="0" type="Rotation" target="n16_cl1n" tween="true" startValue="0" endValue="-2" duration="12" ease="Linear"/>
+    <item time="0" type="Rotation" target="n18_cl1n" tween="true" startValue="0" endValue="-1" duration="12" ease="Linear"/>
+    <item time="0" type="Rotation" target="n19_cl1n" tween="true" startValue="0" endValue="-5.23" duration="12" ease="Linear"/>
+    <item time="0" type="Scale" target="n21_cl1n" tween="true" startValue="0,0" endValue="1,1" duration="18" ease="Linear"/>
+    <item time="0" type="Scale" target="n24_cl1n" value="0,0"/>
+    <item time="0" type="Scale" target="n25_cl1n" value="0,0"/>
+    <item time="0" type="Scale" target="n26_cl1n" value="0,0"/>
+    <item time="0" type="Scale" target="n27_cl1n" value="0,0"/>
+    <item time="1" type="Scale" target="n22_cl1n" tween="true" startValue="0,0" endValue="1,1" duration="17" ease="Linear"/>
+    <item time="2" type="Scale" target="n23_cl1n" tween="true" startValue="0,0" endValue="1,1" duration="16" ease="Linear"/>
+    <item time="4" type="Rotation" target="n17_cl1n" tween="true" startValue="0" endValue="-3" duration="12" ease="Linear"/>
+    <item time="4" type="Rotation" target="n20_cl1n" tween="true" startValue="0" endValue="4.86" duration="12" ease="Linear"/>
+    <item time="7" type="Scale" target="n24_cl1n" tween="true" startValue="0,0" endValue="1,1" duration="6" ease="Linear"/>
+    <item time="9" type="Scale" target="n25_cl1n" tween="true" startValue="0,0" endValue="1,1" duration="7" ease="Linear"/>
+    <item time="11" type="Scale" target="n26_cl1n" tween="true" startValue="0,0" endValue="1,1" duration="6" ease="Linear"/>
+    <item time="12" type="Rotation" target="n16_cl1n" tween="true" startValue="-2" endValue="0" duration="12" ease="Linear"/>
+    <item time="12" type="Rotation" target="n18_cl1n" tween="true" startValue="-1" endValue="0" duration="12" ease="Linear"/>
+    <item time="12" type="Rotation" target="n19_cl1n" tween="true" startValue="-5.23" endValue="0" duration="12" ease="Linear"/>
+    <item time="13" type="Scale" target="n27_cl1n" tween="true" startValue="0,0" endValue="1,1" duration="6" ease="Linear"/>
+    <item time="16" type="Rotation" target="n17_cl1n" tween="true" startValue="-3" endValue="0" duration="12" ease="Linear"/>
+    <item time="16" type="Rotation" target="n20_cl1n" tween="true" startValue="4.86" endValue="0" duration="12" ease="Linear"/>
+    <item time="17" type="Alpha" target="n26_cl1n" tween="true" startValue="0" endValue="0" duration="9" ease="Linear"/>
+    <item time="18" type="Alpha" target="n21_cl1n" tween="true" startValue="1" endValue="0" duration="10" ease="Linear"/>
+    <item time="18" type="Alpha" target="n22_cl1n" tween="true" startValue="1" endValue="0" duration="10" ease="Linear"/>
+    <item time="18" type="Alpha" target="n23_cl1n" tween="true" startValue="1" endValue="0" duration="10" ease="Linear"/>
+    <item time="18" type="Alpha" target="n24_cl1n" tween="true" startValue="0" endValue="0" duration="8" ease="Linear"/>
+    <item time="18" type="Alpha" target="n25_cl1n" tween="true" startValue="0" endValue="0" duration="8" ease="Linear"/>
+    <item time="19" type="Alpha" target="n27_cl1n" tween="true" startValue="0" endValue="0" duration="7" ease="Linear"/>
+  </transition>
+</component>

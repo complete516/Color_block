@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="dd7xwbgg">
+  <resources>
+    <component id="nv0b0" name="ColorRollSelectListView.xml" path="/Entity/" exported="true"/>
+    <image id="nv0b2" name="中文标题.png" path="/Res/"/>
+    <image id="nv0b3" name="章节页面木质.jpg" path="/Res/"/>
+    <component id="nv0b4" name="LevelItem.xml" path="/Entity/" exported="true"/>
+    <image id="nv0b7" name="星星底座.png" path="/Res/" exported="true"/>
+    <image id="nv0b9" name="锁.png" path="/Res/"/>
+    <component id="nv0bb" name="Lvlist_View.xml" path="/Entity/"/>
+  </resources>
+  <publish name="" path="..\project\assets\ColorRollBundle\UI" packageCount="2"/>
+</packageDescription>

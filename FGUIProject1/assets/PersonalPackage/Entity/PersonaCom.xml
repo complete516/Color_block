@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="866,1326" designImageLayer="1">
+  <controller name="c1" pages="0,name,1,image,4,frame" selected="2"/>
+  <displayList>
+    <image id="n2_hg87" name="n2" src="hg877" fileName="Res/底板.png" xy="0,0"/>
+    <image id="n39_vp2d" name="n39" src="vp2d1b" fileName="Res/底板(2).png" xy="53,508" size="760,596">
+      <gearDisplay controller="c1" pages="1,4"/>
+    </image>
+    <image id="n0_hg87" name="n0" src="hg870" fileName="Res/personaldata.png" xy="272,65"/>
+    <image id="n9_hg87" name="n9" src="hg876" fileName="Res/姓名栏.png" xy="215,289">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <text id="n11_hg87" name="n11" xy="223,296" size="419,97" font="ui://r1nmkmgmon0bx" fontSize="55" color="#473ee5" align="center" vAlign="middle" autoSize="none" text="Lovely Dog">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <image id="n1_hg87" name="n1" src="hg871" fileName="Res/标题板.png" xy="328,262">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <text id="n21_hg87" name="n21" xy="331,263" size="203,42" font="ui://r1nmkmgmon0bx" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="Your Name">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <image id="n3_hg87" name="n3" src="hg872" fileName="Res/分割线.png" xy="144,453">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <component id="n6_hg87" name="n6" src="hg87e" fileName="Entity/RandomBth.xml" xy="667,320">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <image id="n7_hg87" name="n7" src="hg874" fileName="Res/随机底板.png" xy="133,527">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <component id="n8_hg87" name="n8" src="ljuz1i" fileName="Entity/NameBtnitem.xml" xy="223,643">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n29_hg87" name="n29" src="hg87u" fileName="Entity/OKBth.xml" xy="243,1115">
+      <gearDisplay controller="c1" pages="0,1,4"/>
+    </component>
+    <list id="n31_mwyg" name="n31" xy="33,508" size="800,596" layout="flow_hz" overflow="scroll" defaultItem="ui://t8s4ezh4mwygv" align="center">
+      <gearDisplay controller="c1" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n42_vp2d" name="n42" src="vp2d1c" fileName="Res/圆框.png" xy="311,251" size="248,248" aspect="true">
+      <gearDisplay controller="c1" pages="1,4"/>
+    </image>
+    <loader id="n30_mwyg" name="n30" xy="320,261" size="228,228" aspect="true" url="ui://gtlknu5kmwyg1e" align="center" vAlign="middle" fill="scale">
+      <gearDisplay controller="c1" pages="1,4"/>
+    </loader>
+    <list id="n38_vp2d" name="n38" xy="33,508" size="800,596" layout="flow_hz" overflow="scroll" defaultItem="ui://t8s4ezh4vp2dz" align="center">
+      <gearDisplay controller="c1" pages="4"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n44_ljuz" name="n44" src="vp2dw" fileName="Res/选择页01(1).png" xy="210,170">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n47_ljuz" name="n47" src="vp2dx" fileName="Res/选择页02(1).png" xy="210,170">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n48_ljuz" name="n48" src="vp2dy" fileName="Res/选择页03.png" xy="210,170">
+      <gearDisplay controller="c1" pages="4"/>
+    </image>
+    <text id="n16_hg87" name="n16" xy="211,170" size="146,66" font="ui://r1nmkmgmon0bx" fontSize="40" color="#473ee5" align="center" vAlign="middle" autoSize="none" text="Name"/>
+    <text id="n17_hg87" name="n17" xy="366,170" size="146,66" font="ui://r1nmkmgmon0bx" fontSize="40" color="#473ee5" align="center" vAlign="middle" autoSize="none" text="Image"/>
+    <text id="n32_vp2d" name="n32" xy="527,170" size="146,66" font="ui://r1nmkmgmon0bx" fontSize="40" color="#473ee5" align="center" vAlign="middle" autoSize="none" text="Frame"/>
+    <component id="n43_ljuz" name="n43" src="ljuz1h" fileName="Entity/PagBth.xml" xy="221,170" size="140,66" alpha="0"/>
+    <component id="n45_ljuz" name="n45" src="ljuz1h" fileName="Entity/PagBth.xml" xy="375,170" size="140,66" alpha="0"/>
+    <component id="n46_ljuz" name="n46" src="ljuz1h" fileName="Entity/PagBth.xml" xy="529,170" size="140,66" alpha="0"/>
+    <component id="n50_ljuz" name="n50" src="ljuz1i" fileName="Entity/NameBtnitem.xml" xy="223,809">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n51_htg3" name="n51" src="xz4p2e" fileName="Entity/HeardFrame.xml" pkg="gs6o3ix6" xy="306,249" size="512,512" scale="0.5,0.5">
+      <gearDisplay controller="c1" pages="1,4"/>
+    </component>
+  </displayList>
+</component>

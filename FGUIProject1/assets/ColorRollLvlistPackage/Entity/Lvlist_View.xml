@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <controller name="language" pages="0,Cn,1,Zh" selected="0"/>
+  <displayList>
+    <component id="n0_n4ah" name="n0" src="inhae" fileName="Entity/Btn_JigBack.xml" pkg="gasy8a7f" xy="23,23" scale="0.6,0.6"/>
+    <image id="n1_n4ah" name="n1" src="inhaa" fileName="Res/退出.png" pkg="zpr8x2ap" xy="78,73"/>
+    <list id="n3_n4ah" name="n3" xy="35,354" size="1008,1537" layout="flow_hz" overflow="scroll" lineGap="51" colGap="65" lineItemCount="3" align="center">
+      <item url="ui://dd7xwbggnv0b4"/>
+      <item url="ui://dd7xwbggnv0b4"/>
+      <item url="ui://dd7xwbggnv0b4"/>
+      <item url="ui://dd7xwbggnv0b4"/>
+      <item url="ui://dd7xwbggnv0b4"/>
+      <item url="ui://dd7xwbggnv0b4"/>
+      <item url="ui://dd7xwbggnv0b4"/>
+      <item url="ui://dd7xwbggnv0b4"/>
+      <item url="ui://dd7xwbggnv0b4"/>
+      <item url="ui://dd7xwbggnv0b4"/>
+      <item url="ui://dd7xwbggnv0b4"/>
+      <item url="ui://dd7xwbggnv0b4"/>
+    </list>
+    <image id="n4_o2nz" name="n4" src="nv0b2" fileName="Res/中文标题.png" xy="402,69">
+      <gearDisplay controller="language" pages="1"/>
+    </image>
+  </displayList>
+</component>

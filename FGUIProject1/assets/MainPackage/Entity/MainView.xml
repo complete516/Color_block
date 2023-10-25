@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImage="ui://gwz96r4boa442g" designImageAlpha="0" designImageLayer="1">
+  <controller name="viewControl" pages="0,Main,1,Event" selected="0"/>
+  <controller name="Reward" pages="1,Event,2,NoImage" selected="0"/>
+  <controller name="c2" pages="3,Star,0,Event,1,Endless Mode,2,Ranking" selected="3"/>
+  <displayList>
+    <loader id="n113_gvwb" name="BG" xy="0,0" size="1080,1920" fill="scaleFree"/>
+    <component id="n31_hgs2" name="n31" src="hgs2v" fileName="Entity/BestScore.xml" xy="499,388" size="142,116" group="n37_hgs2" touchable="false">
+      <gearDisplay controller="viewControl" pages="0"/>
+      <gearLook controller="c2" pages="3,0" values="0,0,0,0|0,0,0,0" default="1,0,0,0" tween="true" delay=".5"/>
+      <gearDisplay2 controller="c2" pages="1,2" condition="0"/>
+      <Button title="123"/>
+    </component>
+    <text id="n98_bgew" name="BestScore" xy="425,323" pivot="0.5,0.5" size="230,63" group="n37_hgs2" font="ui://gasy8a7fn4ah2m" fontSize="47" align="center" vAlign="middle" letterSpacing="-1" bold="true" text="Best Score">
+      <gearDisplay controller="viewControl" pages="0"/>
+      <gearLook controller="c2" pages="3,0" values="0,0,0,0|0,0,0,0" default="1,0,0,0" tween="true" delay=".6"/>
+      <gearDisplay2 controller="c2" pages="1,2" condition="0"/>
+    </text>
+    <list id="n34_hgs2" name="n34" xy="253,1390" size="574,169" group="n37_hgs2" layout="flow_hz" selectionMode="none" overflow="hidden" lineGap="35" align="center" vAlign="middle">
+      <gearDisplay controller="viewControl" pages="0"/>
+      <gearLook controller="c2" pages="3,0" values="0,0,0,1|0,0,0,1" default="1,0,0,1" tween="true" delay=".3"/>
+      <gearDisplay2 controller="c2" pages="1,2" condition="0"/>
+      <item url="ui://gwz96r4bhgs2w"/>
+    </list>
+    <component id="n91_fbd7" name="RankBtn" src="cwjh23" fileName="Entity/RankBtn.xml" xy="471,519" size="137,138" group="n37_hgs2">
+      <gearDisplay controller="viewControl" pages="0"/>
+      <gearLook controller="c2" pages="3,0,1" values="0,0,0,1|0,0,0,1|0,0,0,1" default="1,0,0,1" tween="true" duration=".5" delay=".1"/>
+      <gearDisplay2 controller="c2" pages="2" condition="0"/>
+    </component>
+    <list id="n35_hgs2" name="Main_Block1" xy="1,650" size="1195,861" group="n37_hgs2" aspect="true" scale="0.9,0.9" layout="row" selectionMode="none" overflow="hidden" colGap="-18" align="center" vAlign="middle">
+      <gearDisplay controller="viewControl" pages="0"/>
+      <gearLook controller="c2" pages="3" values="0,0,0,0" default="1,0,0,1" tween="true" duration=".5" delay=".8"/>
+      <gearDisplay2 controller="c2" pages="0,1,2" condition="0"/>
+      <item url="ui://gwz96r4bhgs2q"/>
+    </list>
+    <component id="n106_pm0y" name="Task" src="pm0y2h" fileName="Entity/Task.xml" xy="0,408" group="n37_hgs2">
+      <gearDisplay controller="viewControl" pages="0"/>
+    </component>
+    <component id="n29_hgs2" name="ColorBlock" src="hgs2y" fileName="Entity/MainTitle.xml" xy="224,200" group="n37_hgs2">
+      <gearDisplay controller="viewControl" pages="0"/>
+      <gearXY controller="c2" pages="3,0,1,2" values="217,593|217,265|217,200|224,200" tween="true" delay=".3"/>
+    </component>
+    <image id="n102_zb1t" name="n102" src="oa442e" fileName="Res/middle_img_v2_77916ab5-d442-46d0-9e0a-b8d0f95da33g.png" xy="235,815" pivot="0.5,0.5" group="n37_hgs2" alpha="0">
+      <gearDisplay controller="viewControl" pages="0"/>
+      <gearLook controller="c2" pages="0,1,2" values="0,0,0,0|0,0,0,0|0,0,0,0" default="1,0,0,0" tween="true" duration=".5"/>
+      <gearDisplay2 controller="c2" pages="0,3" condition="0"/>
+    </image>
+    <component id="n99_bgew" name="Level_Btn" src="bgew2d" fileName="Entity/LevelBtn.xml" pkg="gasy8a7f" xy="305,1568" group="n37_hgs2">
+      <gearDisplay controller="viewControl" pages="0"/>
+      <gearXY controller="c2" pages="3,0,1,2" values="305,1400|305,1440|305,1568|305,1568" tween="true"/>
+    </component>
+    <group id="n37_hgs2" name="Main_Block2" xy="0,200" size="1196,1520" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <text id="n73_rc09" name="n73" xy="422,176" size="234,94" group="n83_lsid" font="ui://gasy8a7fn4ah2m" fontSize="72" align="center" vAlign="middle" letterSpacing="-3" text="Awards">
+      <gearDisplay controller="viewControl" pages="1"/>
+      <relation target="" sidePair="width-width,center-center"/>
+    </text>
+    <text id="n92_vqik" name="n92" xy="179,848" size="721,110" group="n83_lsid" alpha="0.5" font="ui://gasy8a7fn4ah2m" fontSize="42" color="#666666" align="center" vAlign="middle" text="Take part in events and collect unique&#xA;reward.Stay tuned!">
+      <gearDisplay controller="Reward" pages="2"/>
+    </text>
+    <text id="n93_vqik" name="n93" xy="271,735" size="537,66" group="n83_lsid" alpha="0.9" font="ui://gasy8a7fn4ah2m" fontSize="50" text="You have no awards yet">
+      <gearDisplay controller="Reward" pages="2"/>
+    </text>
+    <group id="n83_lsid" name="Rewar_Block1" xy="179,176" size="721,782" advanced="true">
+      <gearDisplay controller="viewControl" pages="1"/>
+      <relation target="n89_lsid" sidePair=""/>
+    </group>
+    <text id="n87_lsid" name="n87" xy="87,403" size="239,80" group="n89_lsid" font="ui://gasy8a7fn4ah2m" fontSize="61" letterSpacing="-3" text="Collected">
+      <gearDisplay controller="viewControl" pages="1"/>
+      <gearDisplay2 controller="Reward" pages="1" condition="0"/>
+    </text>
+    <list id="n88_lsid" name="ImageList" xy="558,1118" pivot="0.5,0.5" anchor="true" size="903,1192" group="n89_lsid" layout="flow_hz" overflow="scroll" lineGap="55" colGap="85" lineItemCount="3" defaultItem="ui://gwz96r4blsid20" autoClearItems="true">
+      <gearDisplay controller="viewControl" pages="1"/>
+      <gearDisplay2 controller="Reward" pages="1" condition="0"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n89_lsid" name="n89" xy="87,403" size="922,1311" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n100_bgew" name="n100" src="ibudx" fileName="Entity/Back_Btn.xml" pkg="gasy8a7f" xy="52,165" group="n101_bgew">
+      <gearDisplay controller="viewControl" pages="1"/>
+    </component>
+    <group id="n101_bgew" name="n101" xy="52,165" size="90,110" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <component id="n116_h3s9" name="GuideUI_8" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <gearDisplay controller="viewControl" pages="0"/>
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1"/>
+  <transition name="t1">
+    <item time="0" type="Alpha" target="n102_zb1t" tween="true" startValue="1" endValue="0" duration="12"/>
+    <item time="0" type="Visible" target="n35_hgs2" value="false"/>
+    <item time="12" type="XY" target="n29_hgs2" tween="true" startValue="217,417" endValue="217,988" duration="12"/>
+    <item time="12" type="XY" target="n35_hgs2" tween="true" startValue="-28,-617.6" endValue="-28,242.4" duration="12"/>
+    <item time="24" type="Visible" target="n35_hgs2" value="true"/>
+  </transition>
+</component>

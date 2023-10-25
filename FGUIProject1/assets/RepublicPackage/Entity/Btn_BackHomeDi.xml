@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="157,158" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1_gvwb" name="n1" src="gvwbf" fileName="Res/Button_Blue.png" xy="0,0"/>
+    <image id="n0_inha" name="n0" src="9wq23" fileName="Res/主页.png" pkg="gtuyt942" xy="31,25"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

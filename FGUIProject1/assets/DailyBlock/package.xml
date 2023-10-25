@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="br5vvhb9">
+  <resources>
+    <component id="gvwb35" name="Daily.xml" path="/Entity/"/>
+    <component id="gvwb36" name="Daily2.xml" path="/Entity/"/>
+    <component id="gvwb37" name="Daily3.xml" path="/Entity/"/>
+    <image id="hmvk26" name="baiguang.png" path="/Res/" exported="true"/>
+    <image id="p8mem" name="tiancong-jiangbei.png" path="/Res/" exported="true"/>
+    <image id="823i21" name="tiancong-jiangbei2.png" path="/Res/" exported="true"/>
+    <image id="823i22" name="tiancong-jiangbei3.png" path="/Res/" exported="true"/>
+    <image id="823i23" name="tiancong-jiangbei4.png" path="/Res/" exported="true"/>
+    <image id="823i24" name="tiancong-jiangbei5.png" path="/Res/" exported="true"/>
+    <image id="p8men" name="weitiancong-jiangbei.png" path="/Res/" exported="true"/>
+    <image id="p8meo" name="每日挑战进度条填充.png" path="/Res/" exported="true"/>
+    <component id="hgs2u" name="DailyBlock.xml" path="/Entity/"/>
+    <component id="p8me1a" name="DailyReward.xml" path="/Entity/"/>
+    <component id="p8me17" name="LeftBtn.xml" path="/Entity/"/>
+    <component id="hgs2t" name="PlayDaily-Btn.xml" path="/Entity/"/>
+    <component id="jisi1m" name="GetCupBtn.xml" path="/Entity/"/>
+    <component id="ei171f" name="DateRoot.xml" path="/Entity/"/>
+    <component id="cwjh22" name="GetCupView.xml" path="/Entity/"/>
+    <component id="lhvl1e" name="LevelBar.xml" path="/Entity/"/>
+    <component id="lhvlo" name="LevelItem.xml" path="/Entity/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

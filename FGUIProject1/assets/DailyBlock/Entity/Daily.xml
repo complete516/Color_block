@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1510">
+  <controller name="viewControl" pages="0,Main,2,Daily,1,Event" selected="0"/>
+  <controller name="c1" alias="Reward" pages="0,First,1,End,2,Normal" selected="0"/>
+  <displayList>
+    <image id="n90_mwlh" name="n90" src="hmvk26" fileName="Res/baiguang.png" xy="542,318" pivot="0.5,0.5" anchor="true" group="n51_p8me" scale="1.2,1.2"/>
+    <list id="n50_p8me" name="n50" xy="0,124" size="1080,1386" group="n51_p8me" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="8" align="center" vAlign="middle">
+      <item url="ui://gwz96r4bei171g"/>
+      <item url="ui://gwz96r4bei171g"/>
+      <item url="ui://gwz96r4bei171g"/>
+      <item url="ui://gwz96r4bei171g"/>
+    </list>
+    <text id="n43_p8me" name="Title" xy="363,0" pivot="0.5,0.5" size="353,70" group="n51_p8me" font="ui://gasy8a7fn4ah2m" fontSize="53" color="#ffffff" align="center" vAlign="middle" letterSpacing="-3" text="Daily Challenges">
+      <gearDisplay controller="viewControl" pages="2"/>
+    </text>
+    <component id="n40_p8me" name="LeftBtn" src="p8me17" fileName="Entity/LeftBtn.xml" xy="80,246" group="n51_p8me">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </component>
+    <component id="n41_p8me" name="RightBtn" src="p8me18" fileName="Entity/RightBtn.xml" xy="955,246" group="n51_p8me" pkg="gwz96r4b">
+      <gearDisplay controller="c1" pages="0,2"/>
+    </component>
+    <group id="n51_p8me" name="Daily_Block1" xy="0,0" size="1080,1510" advanced="true">
+      <gearDisplay controller="viewControl" pages="2"/>
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+  </displayList>
+</component>

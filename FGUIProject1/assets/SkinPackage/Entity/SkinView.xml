@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImageAlpha="100" designImageLayer="1">
+  <displayList>
+    <loader id="n5_q895" name="BG" xy="0,0" size="1080,1920" fill="scaleFree"/>
+    <text id="n4_q895" name="n4" xy="540,296" pivot="0.5,0.5" anchor="true" size="337,122" font="ui://gasy8a7fn4ah2m" fontSize="94" color="#ffffff" align="center" vAlign="middle" leading="-6" letterSpacing="-2" text="THEMES">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </text>
+    <list id="n6_q895" name="n6" xy="58,501" size="992,1160" layout="pagination" overflow="scroll" scroll="horizontal" scrollBarFlags="72" lineGap="71" colGap="112" defaultItem="ui://4gavvzprq895a" autoClearItems="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n7_h3s9" name="GuideUI_7" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+</component>

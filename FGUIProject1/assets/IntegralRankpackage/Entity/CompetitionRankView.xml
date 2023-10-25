@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n68_on0b" name="n68" xy="0,0" size="1080,1920" type="rect" lineSize="0" lineColor="#b2000000" fillColor="#b2000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n29_on0b" name="n29" src="on0b19" fileName="Entity/countdown.xml" xy="280,1735">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+    <image id="n6_on0b" name="n6" src="on0b2" fileName="Res/Ranking List.png" xy="348,74"/>
+    <component id="n11_on0b" name="n11" src="on0b18" fileName="Entity/TipsItem.xml" xy="113,194"/>
+    <list id="n61_on0b" name="ListView" xy="78,472" pivot="0.5,0.5" size="924,1092" overflow="scroll" lineGap="4" defaultItem="ui://r1nmkmgmon0b10" align="center" autoClearItems="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n70_h1zx" name="GuideUI_7" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,2">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <image id="n71_ijmm" name="n71" src="hg871b" fileName="Res/十字光.png" xy="382,113" pivot="0.5,0.5"/>
+    <image id="n72_ijmm" name="n72" src="hg871c" fileName="Res/十字光02.png" xy="462,173" pivot="0.5,0.5"/>
+    <component id="n73_wmte" name="n73" src="on0b10" fileName="Entity/CompetitionItem.xml" xy="78,1565" pivot="0.5,0.5" size="924,178">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+  </displayList>
+  <transition name="light_an" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Alpha" target="n71_ijmm" tween="true" startValue="1" endValue="0" duration="12" ease="Linear"/>
+    <item time="0" type="Alpha" target="n72_ijmm" tween="true" startValue="0" endValue="1" duration="12" ease="Linear"/>
+    <item time="0" type="Rotation" target="n71_ijmm" tween="true" startValue="0" endValue="360" duration="24" ease="Linear"/>
+    <item time="0" type="Rotation" target="n72_ijmm" tween="true" startValue="0" endValue="360" duration="24" ease="Linear"/>
+    <item time="12" type="Alpha" target="n71_ijmm" tween="true" startValue="0" endValue="1" duration="12" ease="Linear"/>
+    <item time="12" type="Alpha" target="n72_ijmm" tween="true" startValue="1" endValue="0" duration="12" ease="Linear"/>
+  </transition>
+</component>

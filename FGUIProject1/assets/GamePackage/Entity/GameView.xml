@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false" designImage="ui://gt890bbwhgs2j" designImageAlpha="0">
+  <controller name="Gametype" pages="0,普通模式,1,每日挑战,2,事件模式,3,新手引导,4,关卡模式" selected="4"/>
+  <displayList>
+    <component id="n4_hgs2" name="Game-Pt" src="hgs24" fileName="Entity/Game-Pt.xml" xy="879,342" group="n22_zb1t" touchable="false">
+      <gearDisplay controller="Gametype" pages="0"/>
+      <Button title="123"/>
+    </component>
+    <component id="n7_hgs2" name="Game-Daily" src="hgs2b" fileName="Entity/Game-Daily.xml" xy="75,163" size="927,193" group="n22_zb1t" touchable="false">
+      <gearDisplay controller="Gametype" pages="1,4"/>
+    </component>
+    <component id="n6_hgs2" name="Game-Event" src="hgs2n" fileName="Entity/Game-Event.xml" xy="78,160" group="n22_zb1t">
+      <gearDisplay controller="Gametype" pages="2"/>
+    </component>
+    <image id="n16_hgs2" name="n16" src="hgs2m" fileName="Res/xian.png" xy="77,445" group="n22_zb1t">
+      <gearDisplay controller="Gametype" pages="0,1,2,4"/>
+    </image>
+    <text id="n23_zb1t" name="Feedback_Text" xy="105,340" pivot="0.5,0.5" size="864,98" group="n22_zb1t" font="ui://gasy8a7fn4ah2m" fontSize="37" color="#ffffff" align="center" vAlign="middle" letterSpacing="-2" autoSize="height" text="Watch out! Sometimes you don&apos;t have enough space to move blocks.">
+      <gearDisplay controller="Gametype" pages="4"/>
+    </text>
+    <text id="n18_hgs2" name="title" xy="494,216" pivot="0.5,0.5" size="84,78" group="n22_zb1t" font="ui://gasy8a7fn4ah2m" fontSize="59" color="#12214a" vAlign="middle" letterSpacing="-2" text="123">
+      <gearDisplay controller="Gametype" pages="0"/>
+    </text>
+    <image id="n19_hgs2" name="Pt-Jb" src="hgs2d" fileName="Res/jiangbei.png" pkg="gasy8a7f" xy="460,255" pivot="0.5,0.5" anchor="true" size="83,67" group="n22_zb1t">
+      <gearDisplay controller="Gametype" pages="0"/>
+      <relation target="n18_hgs2" sidePair="right-left"/>
+    </image>
+    <image id="n20_jvjb" name="BigTrophy" src="hgs2d" fileName="Res/jiangbei.png" pkg="gasy8a7f" xy="459,454" pivot="0.5,0.5" anchor="true" group="n22_zb1t" aspect="true" scale="1.5,1.5" visible="false">
+      <gearDisplay controller="Gametype" pages="0"/>
+      <relation target="n18_hgs2" sidePair="right-left"/>
+    </image>
+    <text id="n21_lsid" name="n21" xy="915,187" size="93,62" group="n22_zb1t" font="ui://gasy8a7fn4ah2m" fontSize="46" color="#666666" align="center" vAlign="middle" text="Skip">
+      <gearDisplay controller="Gametype" pages="3"/>
+      <relation target="" sidePair="right-right,top-top"/>
+    </text>
+    <group id="n22_zb1t" name="n22" xy="75,160" size="932,334" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <component id="n24_h3s9" name="GuideUI_6" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+</component>

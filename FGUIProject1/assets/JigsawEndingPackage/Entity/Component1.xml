@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <loader id="n3_p6g6" name="Image" xy="-80,-180" pivot="0.5,0.5" size="960,960" url="ui://gtuyt942p6g611">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n4_p6g6" name="Bk" xy="-80,-180" pivot="0.5,0.5" size="960,960" clearOnPublish="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+  </displayList>
+</component>

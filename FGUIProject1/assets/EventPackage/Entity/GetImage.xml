@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="852,800" designImage="ui://kiodpbexogkh26" designImageOffsetX="-105" designImageOffsetY="-920" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <graph id="n38_r1zk" name="n38" xy="-93,-681" pivot="0.5,0.5" size="1080,2000" alpha="0.6" type="rect" lineColor="#ff090909" fillColor="#99000000">
+      <relation target="" sidePair="width-width"/>
+    </graph>
+    <image id="n39_r1zk" name="n39" src="hgs2e" fileName="Res/shijiankuang.png" pkg="gasy8a7f" xy="-2,-195" size="889,1040" group="n35_ogkh"/>
+    <image id="n40_r1zk" name="n40" src="r1zk1q" fileName="Res/标题底板.png" pkg="gasy8a7f" xy="159,-167" size="560,109" group="n35_ogkh" aspect="true"/>
+    <text id="n14_ogkh" name="n14" xy="425,-117" pivot="0.5,0.5" anchor="true" size="215,72" group="n35_ogkh" font="ui://gasy8a7fn4ah2m" fontSize="54" color="#5869d0" align="center" vAlign="middle" letterSpacing="-2" text="Good Job"/>
+    <image id="n19_ogkh" name="n19" src="ogkh2d" fileName="Res/hezidi.png" xy="369,429" pivot="0.5,0" group="n35_ogkh"/>
+    <image id="n20_ogkh" name="n20" src="ogkh2e" fileName="Res/hezigai.png" xy="449,433" pivot="0.5,1" anchor="true" group="n35_ogkh"/>
+    <loader id="n34_ogkh" name="Image" xy="442,170" pivot="0.5,0.5" anchor="true" size="912,908" group="n35_ogkh" scale="0.22,0.22" url="ui://gasy8a7flsidw" autoSize="true"/>
+    <loader id="n33_ogkh" name="kuang" xy="441,169" pivot="0.5,0.5" anchor="true" size="245,245" group="n35_ogkh" url="ui://gasy8a7frc091v" shrinkOnly="true" autoSize="true"/>
+    <component id="n36_ogkh" name="n36" src="ogkh2f" fileName="Entity/OK_Btn.xml" xy="255,677" group="n35_ogkh"/>
+    <group id="n35_ogkh" name="n35" xy="-14,-284" size="912,1129"/>
+    <component id="n22_ogkh" name="n22" src="mipc2g" fileName="Entity/Spot_idel.xml" xy="161,-111"/>
+  </displayList>
+  <transition name="box_an">
+    <item time="0" type="Scale" target="n19_ogkh" tween="true" startValue="0,0" endValue="1,1" duration="24" ease="Linear"/>
+    <item time="0" type="Scale" target="n20_ogkh" tween="true" startValue="0,0" endValue="1,1" duration="24" ease="Linear"/>
+    <item time="0" type="Scale" target="n33_ogkh" value="0,0"/>
+    <item time="0" type="Scale" target="n34_ogkh" value="0,0"/>
+    <item time="24" type="XY" target="n20_ogkh" tween="true" startValue="449,433" endValue="449,424" duration="6" ease="Linear"/>
+    <item time="30" type="XY" target="n20_ogkh" tween="true" startValue="449,424" endValue="449,433" duration="6" ease="Linear"/>
+    <item time="36" type="XY" target="n20_ogkh" tween="true" startValue="449,433" endValue="449,428" duration="3" ease="Linear"/>
+    <item time="39" type="XY" target="n20_ogkh" tween="true" startValue="449,428" endValue="449,433" duration="3" ease="Linear"/>
+    <item time="42" type="Rotation" target="n20_ogkh" tween="true" startValue="0" endValue="-72.81" duration="12" ease="Linear"/>
+    <item time="42" type="XY" target="n20_ogkh" tween="true" startValue="449,433" endValue="363,465" duration="12" ease="Linear"/>
+    <item time="54" type="Scale" target="n33_ogkh" tween="true" startValue="0,0" endValue="1,1" duration="18" ease="Linear"/>
+    <item time="54" type="Scale" target="n34_ogkh" tween="true" startValue="0,0" endValue="0.22,0.22" duration="18" ease="Linear"/>
+    <item time="54" type="Size" target="n34_ogkh" tween="true" startValue="912,908" endValue="912,908" duration="18" ease="Linear"/>
+    <item time="54" type="XY" target="n33_ogkh" tween="true" startValue="441,425" endValue="441,99" duration="18" ease="Linear"/>
+    <item time="54" type="XY" target="n34_ogkh" tween="true" startValue="442,427" endValue="442,100" duration="18" ease="Linear"/>
+  </transition>
+</component>

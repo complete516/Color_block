@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false" designImage="ui://x8lklu90lsid1" designImageAlpha="0" designImageLayer="1">
+  <controller name="language" pages="0,Cn,1,Zh" selected="0"/>
+  <displayList>
+    <loader id="n8_i5n7" name="BG" xy="0,0" size="1080,1920" fill="scaleFree"/>
+    <image id="n2_lsid" name="n2" src="lsid3" fileName="Res/guang-4.png" xy="0,0" pivot="0.5,0.415">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n3_lsid" name="n3" src="lsid6" fileName="Res/TutorialCompleted!.png" xy="313,675">
+      <gearDisplay controller="language" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n4_lsid" name="n4" src="c8nj7" fileName="Entity/ContinueBtn.xml" pkg="gasy8a7f" xy="114,1442">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n5_lsid" name="n5" src="lsid7" fileName="Entity/RestartBtn.xml" xy="412,1619" size="256,54">
+      <relation target="n4_lsid" sidePair="top-bottom"/>
+    </component>
+    <component id="n6_q91f" name="SquareAn" src="h35r19" fileName="Entity/SquareAn.xml" pkg="gt890bbw" xy="485,849" size="107,110" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n7_o2nz" name="n7" src="o2nza" fileName="Res/TutorialCompleted_Zh.png" xy="410,673">
+      <gearDisplay controller="language" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+  </displayList>
+</component>

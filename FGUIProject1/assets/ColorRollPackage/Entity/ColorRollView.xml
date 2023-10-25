@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false" designImage="ui://87gbetfgdbiql" designImageAlpha="0" designImageLayer="1">
+  <controller name="Language" pages="0,Cn,1,Zh" selected="0"/>
+  <displayList>
+    <text id="n27_o2nz" name="n23" xy="500,257" pivot="0.5,0.5" size="78,42" group="n10_inha" font="ui://zpr8x2apj79016" fontSize="30" align="center" vAlign="middle" text="第1关">
+      <gearDisplay controller="Language" pages="1"/>
+    </text>
+    <component id="n30_vgqc" name="n30" src="ejtoo" fileName="Entity/Component1.xml" xy="425,331" pivot="0.5,0" group="n10_inha"/>
+    <text id="n34_r1zk" name="n34" xy="630,207" pivot="0,1" size="86,118" group="n10_inha" font="ui://gasy8a7fn4ah2m" fontSize="91" color="#ffffff" vAlign="middle" text="12"/>
+    <image id="n35_r1zk" name="n35" src="r1zk35" fileName="Res/level.png" pkg="gasy8a7f" xy="410,243" group="n10_inha"/>
+    <group id="n10_inha" name="n10" xy="410,207" size="306,441" advanced="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </group>
+    <component id="n11_inha" name="n11" src="inhah" fileName="Entity/Btn_JigReset.xml" pkg="zpr8x2ap" xy="834,1269" size="126,139" group="n15_inha"/>
+    <text id="n31_dkka" name="n31" xy="318,1285" pivot="0.5,0.5" size="458,104" group="n15_inha" visible="false" font="ui://gasy8a7fn4ah2m" fontSize="80" color="#ffffff" text="TAP TO PLAY"/>
+    <component id="n37_ketv" name="n37" src="inhai" fileName="Entity/Btn_JigHelp.xml" pkg="zpr8x2ap" xy="78,1269" group="n15_inha"/>
+    <image id="n32_dkka" name="n32" src="lsidz" fileName="Res/img_hand.png" pkg="gasy8a7f" xy="896,1369" pivot="0.5,0.5" size="170,170" group="n15_inha"/>
+    <group id="n15_inha" name="n15" xy="78,1269" size="987,270" advanced="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </group>
+    <component id="n36_h3s9" name="GuideUI_4" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+  <transition name="t0" autoPlayRepeat="-1">
+    <item time="0" type="Scale" target="n31_dkka" tween="true" startValue="1,1" endValue="1.35,1.35" duration="12"/>
+    <item time="0" type="Visible" target="n31_dkka" value="true"/>
+    <item time="12" type="Scale" target="n31_dkka" tween="true" startValue="1.35,1.35" endValue="1,1" duration="12"/>
+    <item time="24" type="Visible" target="n31_dkka" value="true"/>
+  </transition>
+  <transition name="Hand" autoPlayRepeat="-1">
+    <item time="0" type="Scale" target="n32_dkka" tween="true" startValue="0.9,0.9" endValue="1,1" duration="18"/>
+  </transition>
+  <transition name="t2">
+    <item time="0" type="Scale" target="n30_vgqc" tween="true" startValue="1,1" endValue="1.3,1.3" duration="12"/>
+    <item time="12" type="Scale" target="n30_vgqc" tween="true" startValue="1.3,1.3" endValue="1.3,1.3" duration="36"/>
+    <item time="48" type="Scale" target="n30_vgqc" tween="true" startValue="1.3,1.3" endValue="1,1" duration="12"/>
+  </transition>
+</component>

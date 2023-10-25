@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImageAlpha="39" bgColorEnabled="true" bgColor="#4b8ce7">
+  <displayList>
+    <graph id="n6_823i" name="Background" xy="0,0" size="1080,1920" type="rect" fillColor="#ff4b8ce7">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </graph>
+    <text id="n1_jisi" name="n1" xy="167,78" size="720,129" font="ui://gasy8a7fn4ah2m" fontSize="100" color="#ffffff" align="center" vAlign="middle" letterSpacing="-3" text="Congratulations!">
+      <relation target="" sidePair="width-width,height-height,top-top%"/>
+    </text>
+    <loader id="n2_jisi" name="n2" xy="540,753" pivot="0.5,0.5" anchor="true" size="276,302" scale="2,2" url="ui://br5vvhb9p8mem" align="center" vAlign="middle">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </loader>
+    <text id="n3_jisi" name="n3" xy="97,1244" size="860,130" font="ui://gasy8a7fn4ah2m" fontSize="50" color="#ffffff" align="center" vAlign="middle" letterSpacing="-3" text="You have completed all daily challenges for &#xA;March 2022 and earned thus reward">
+      <relation target="" sidePair="width-width,height-height,center-center"/>
+    </text>
+    <component id="n4_jisi" name="n4" src="jisi1m" fileName="Entity/GetCupBtn.xml" xy="114,1473">
+      <relation target="" sidePair="center-center"/>
+    </component>
+    <text id="n5_jisi" name="n5" xy="456,1514" size="142,66" font="ui://gasy8a7fn4ah2m" fontSize="50" color="#ffffff" align="center" vAlign="middle" letterSpacing="-3" text="Collect">
+      <relation target="n4_jisi" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

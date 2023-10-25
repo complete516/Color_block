@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImage="ui://t24hgpw0iira5">
+  <controller name="c1" pages="0,coins,1,head,2,frame" selected="1"/>
+  <displayList>
+    <graph id="n10_oodl" name="n10" xy="0,0" size="1080,1920" type="rect" lineSize="0" fillColor="#b2000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <image id="n15_qjiv" name="n15" src="iira6" fileName="Res/底板.png" xy="76,500" group="n21_ljuz"/>
+    <image id="n17_qjiv" name="n17" src="iira3" fileName="Res/背景光.png" xy="248,694" pivot="0.5,0.5" group="n21_ljuz"/>
+    <component id="n4_iira" name="n4" src="iirab" fileName="Entity/watch.xml" xy="320,1128" group="n21_ljuz">
+      <relation target="" sidePair="center-center%"/>
+    </component>
+    <image id="n16_qjiv" name="n16" src="iira8" fileName="Res/礼包.png" xy="371,815" group="n21_ljuz">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <component id="n9_iira" name="n9" src="iirad" fileName="Entity/close.xml" xy="854,452" group="n21_ljuz"/>
+    <image id="n20_ljuz" name="n20" src="iira0" fileName="Res/freegift.png" xy="375,637" group="n21_ljuz"/>
+    <loader id="n22_ljuz" name="n22" xy="328,787" size="335,287" group="n21_ljuz" aspect="true" scale="1.2,1.2" url="ui://gtlknu5kvi1x1n" align="center" vAlign="middle" fill="scale">
+      <gearDisplay controller="c1" pages="1"/>
+    </loader>
+    <component id="n24_xz4p" name="n24" src="xz4p2e" fileName="Entity/HeardFrame.xml" pkg="gs6o3ix6" xy="361,784" group="n21_ljuz" scale="0.7,0.7">
+      <gearDisplay controller="c1" pages="2"/>
+    </component>
+    <group id="n21_ljuz" name="n21" xy="76,452" size="912,874" advanced="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </group>
+  </displayList>
+  <transition name="move_an" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n17_qjiv" tween="true" startValue="0" endValue="360" duration="48" ease="Linear"/>
+  </transition>
+</component>

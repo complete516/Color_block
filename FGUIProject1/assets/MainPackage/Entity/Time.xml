@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="164,48">
+  <displayList>
+    <text id="n15_hgs2" name="EventTime" xy="44,-6" pivot="0.5,0.5" size="118,55" font="ui://gasy8a7fn4ah2m" fontSize="41" color="#7998f7" align="center" vAlign="middle" letterSpacing="-2" text="7d 04h"/>
+    <component id="n13_hgs2" name="n13" src="ibud1n" fileName="Entity/Component1.xml" xy="-5,2" pivot="0.5,0.5" scale="0.7,0.7">
+      <relation target="n15_hgs2" sidePair="right-left"/>
+    </component>
+  </displayList>
+</component>

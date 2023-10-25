@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="263,270" pivot="0.5,0.5" extention="Button">
+  <controller name="c2" pages="0,Lock,1,Unlock" selected="0"/>
+  <displayList>
+    <image id="n2_n4ah" name="n2" src="nv0b7" fileName="Res/星星底座.png" xy="0,0"/>
+    <loader id="n10_j1m2" name="n10" xy="30,27" pivot="0.5,0.5" size="202,200" align="center" vAlign="middle" fill="scale"/>
+    <graph id="n9_nv0b" name="n9" xy="21,18" size="218,218" type="rect" lineColor="#7f666666" fillColor="#cc666666">
+      <gearDisplay controller="c2" pages="0"/>
+    </graph>
+    <image id="n5_n4ah" name="n5" src="nv0b9" fileName="Res/锁.png" xy="102,85">
+      <gearDisplay controller="c2" pages="0"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

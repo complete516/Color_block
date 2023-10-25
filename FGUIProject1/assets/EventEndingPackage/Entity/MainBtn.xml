@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="103,64" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <text id="n3_liub" name="n3" xy="0,0" size="103,64" alpha="0.713" font="ui://gasy8a7fn4ah2m" fontSize="48" color="#ffffff" align="center" vAlign="middle" letterSpacing="-2" text="Main"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

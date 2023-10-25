@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="138,170" pivot="0.5,0.5" extention="Button">
+  <controller name="c1" pages="0,Pt,1,Dw" selected="1"/>
+  <controller name="c2" pages="0,Lock,1,Unlock" selected="0"/>
+  <displayList>
+    <image id="n0_n4ah" name="n0" src="n4ah5" fileName="Res/猫猫底座.png" xy="1,23">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n2_n4ah" name="n2" src="n4ah2" fileName="Res/星星底座.png" xy="1,23">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n5_n4ah" name="n5" src="n4ah6" fileName="Res/锁.png" xy="55,72">
+      <gearDisplay controller="c2" pages="0"/>
+    </image>
+    <text id="n6_n4ah" name="n6" xy="39,52" pivot="0.5,0.5" size="59,74" font="ui://gasy8a7fn4ah2m" fontSize="40" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="99">
+      <gearDisplay controller="c2" pages="1"/>
+      <gearColor controller="c1" pages="0,1" values="#ffffff,#000000|#ffffff,#000000"/>
+    </text>
+    <image id="n8_cznq" name="n8" src="cznqa" fileName="Res/皇冠.png" xy="84,-4">
+      <gearDisplay controller="c1" pages="1"/>
+      <gearDisplay2 controller="c2" pages="1" condition="0"/>
+    </image>
+    <image id="n9_qxdo" name="n9" src="iirac" fileName="Res/播放.png" pkg="t24hgpw0" xy="89,1" size="70,68" aspect="true">
+      <gearDisplay controller="c2" pages="0"/>
+      <gearDisplay2 controller="c1" pages="1" condition="0"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

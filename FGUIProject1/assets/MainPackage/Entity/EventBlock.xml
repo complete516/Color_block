@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="646,821">
+  <controller name="language" pages="0,Cn,1,Zh" selected="0"/>
+  <displayList>
+    <image id="n7_hgs2" name="n7" src="hgs2e" fileName="Res/shijiankuang.png" pkg="gasy8a7f" xy="0,0"/>
+    <image id="n20_gvwb" name="n20" src="gvwb3c" fileName="Res/标头.png" xy="115,21"/>
+    <image id="n21_gvwb" name="n21" src="gvwb38" fileName="Res/主题.png" xy="94,166"/>
+    <text id="n11_hgs2" name="EventName" xy="164,16" pivot="0.5,0.5" size="318,73" font="ui://gasy8a7fn4ah2m" fontSize="55" color="#5869d0" align="center" vAlign="middle" letterSpacing="-1" text="Mother&apos;s Day"/>
+    <loader id="n12_hgs2" name="n12" xy="94,166" size="457,457" aspect="true" url="ui://gasy8a7fuoj82j" align="center" vAlign="middle" fill="scale"/>
+    <image id="n17_hgs2" name="n17" src="gvwb39" fileName="Res/按钮紫.png" xy="158,665">
+      <gearDisplay controller="language" pages="0"/>
+    </image>
+    <component id="n16_hgs2" name="n16" src="hgs2p" fileName="Entity/PlayEvent-Btn.xml" xy="3,19" size="642,578"/>
+    <component id="n18_ibud" name="n18" src="ibud1o" fileName="Entity/Time.xml" xy="241,86"/>
+    <image id="n19_o2nz" name="n19" src="o2nz2r" fileName="Res/play1_zh.png" xy="217,692">
+      <gearDisplay controller="language" pages="1"/>
+    </image>
+    <image id="n24_r1zk" name="n24" src="r1zk32" fileName="Res/play.png" pkg="gasy8a7f" xy="240,688" size="168,60" aspect="true"/>
+  </displayList>
+</component>

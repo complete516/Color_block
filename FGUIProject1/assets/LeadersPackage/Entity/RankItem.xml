@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="871,156">
+  <controller name="c1" pages="0,top1,1,top2,2,top3,3,topn" selected="3"/>
+  <controller name="c2" pages="0,Self,1,Other" selected="0"/>
+  <displayList>
+    <image id="n12_soac" name="n12" src="gfed19" fileName="Res/榜1.png" xy="0,0">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n10_d7im" name="your_bg" src="gfed1a" fileName="Res/榜2.png" xy="0,0">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n13_soac" name="n13" src="gfed1b" fileName="Res/榜3.png" xy="0,0">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <image id="n14_soac" name="n14" src="gfed1c" fileName="Res/榜n.png" xy="0,0">
+      <gearDisplay controller="c1" pages="3"/>
+    </image>
+    <image id="n18_soac" name="n18" src="soac1s" fileName="Res/paihang_diban.png" xy="31,25">
+      <gearDisplay controller="c2" pages="0"/>
+    </image>
+    <image id="n17_soac" name="n17" src="soac1u" fileName="Res/paihang_zuanshi.png" xy="50,34">
+      <gearDisplay controller="c2" pages="0"/>
+      <gearDisplay2 controller="c1" pages="3" condition="0"/>
+    </image>
+    <text id="n1_mztw" name="ID_Text" xy="210,45" pivot="0,1" size="275,64" font="ui://gasy8a7fn4ah2m" fontSize="48" color="#ffffff" vAlign="middle" text="Murphy Eoin"/>
+    <text id="n2_mztw" name="Score" xy="687,45" pivot="0,1" size="103,64" font="ui://gasy8a7fn4ah2m" fontSize="48" color="#ffffff" align="right" vAlign="middle" text="1426"/>
+    <text id="n15_soac" name="Rank_Text" xy="61,50" pivot="0.5,0.5" size="56,54" font="ui://gasy8a7fn4ah2m" fontSize="40" color="#ffffff" align="center" vAlign="middle" leading="0" letterSpacing="-3" autoSize="shrink" text="999">
+      <gearDisplay controller="c1" pages="3"/>
+    </text>
+    <image id="n19_soac" name="n19" src="soac1t" fileName="Res/paihang_xing.png" xy="614,53">
+      <gearDisplay controller="c2" pages="0"/>
+    </image>
+    <image id="n20_ho9b" name="n20" src="ho9b1v" fileName="Res/1.png" xy="19,10">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n21_ho9b" name="n21" src="ho9b1w" fileName="Res/2.png" xy="19,10">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n22_ho9b" name="n22" src="ho9b1x" fileName="Res/3.png" xy="19,10">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+  </displayList>
+</component>

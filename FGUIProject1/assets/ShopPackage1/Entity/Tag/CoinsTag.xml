@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="919,233">
+  <controller name="c1" pages="0,free,1,watch" selected="0"/>
+  <displayList>
+    <image id="n2_mwyg" name="n2" src="mwygk" fileName="Res/底.png" xy="0,0" size="919,223" aspect="true">
+      <gearDisplay controller="c1" pages="0,1"/>
+    </image>
+    <component id="n1_mwyg" name="BuyBtn" src="mwygr" fileName="Entity/Tag/FreeBth.xml" xy="603,46">
+      <gearDisplay controller="c1" pages="0,1"/>
+    </component>
+    <image id="n3_mwyg" name="n3" src="mwygm" fileName="Res/tip.png" xy="593,184">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <text id="n4_mwyg" name="n4" xy="631,188" size="284,48" font="ui://r1nmkmgmon0bx" fontSize="30" align="center" vAlign="middle" autoSize="none" text="ONE TIME A DAY">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <image id="n5_mwyg" name="n5" src="mwyge" fileName="Res/礼包.png" xy="49,34" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="0,1"/>
+    </image>
+    <text id="n10_mwyg" name="Text" xy="250,74" size="268,66" font="ui://r1nmkmgmon0bx" fontSize="50" color="#ffffff" vAlign="middle" bold="true" text="X100 Coins">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <relation target="" sidePair=""/>
+    </text>
+  </displayList>
+</component>

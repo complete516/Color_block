@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="971,322">
+  <displayList>
+    <image id="n0_mwyg" name="n0" src="mwygb" fileName="Res/去广告底.png" xy="0,0" group="n7_mwyg"/>
+    <image id="n2_mwyg" name="n2" src="h3s94" fileName="Res/AD.png" pkg="372yazlc" xy="97,54" size="168,177" group="n7_mwyg" aspect="true"/>
+    <component id="n4_mwyg" name="n4" src="mwygw" fileName="Entity/Tag/MoneyBth.xml" xy="656,95" size="217,96" group="n7_mwyg" aspect="true" scale="1.2,1.1"/>
+    <text id="n5_mwyg" name="n5" xy="134,253" size="726,43" group="n7_mwyg" font="ui://gasy8a7fn4ah2m" fontSize="31" color="#ffffff" align="center" vAlign="middle" text="You will still be able to watch to earn enter rewards."/>
+    <text id="n6_mwyg" name="n6" xy="299,103" size="304,74" group="n7_mwyg" font="ui://gasy8a7fn4ah2m" fontSize="56" color="#ffcc00" letterSpacing="-3" text="REMOVE ADS"/>
+    <group id="n7_mwyg" name="n7" xy="0,0" size="971,322"/>
+  </displayList>
+</component>

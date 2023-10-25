@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1051,1763" designImage="ui://gt890bbwnorev" designImageOffsetX="-13" designImageOffsetY="-64" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <graph id="n7_nore" name="n7" xy="1,-630" pivot="0.5,0.5" size="1080,3000" alpha="0.6" type="rect" lineColor="#ff090909" fillColor="#99090909">
+      <relation target="" sidePair="width-width"/>
+    </graph>
+    <image id="n0_nore" name="n0" src="in7y2" fileName="Res/mianban-yindao.png" pkg="gasy8a7f" xy="1,142" size="1049,1621"/>
+    <image id="n2_nore" name="n2" src="norew" fileName="Res/middle_img_v2_aceb2c82-0b0f-4985-9adc-b664c5d8980g.png" xy="392,-1"/>
+    <text id="n3_nore" name="n3" xy="372,240" pivot="0.5,0.5" size="307,59" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#ffffff" align="center" vAlign="middle" letterSpacing="1" text="Make A Square！"/>
+    <text id="n4_nore" name="n4" xy="135,1426" size="766,102" font="ui://gasy8a7fn4ah2m" fontSize="38" color="#959595" align="center" letterSpacing="1" text="Make square to remove same color blocks &#xA;and get higher score"/>
+    <image id="n5_nore" name="n5" src="hgs21" fileName="Res/anniu1.png" pkg="gasy8a7f" xy="-10,1553" pivot="0.5,0.5" size="1072,186" aspect="true" scale="0.7,0.7"/>
+    <text id="n6_nore" name="n6" xy="439,1613" size="176,56" font="ui://gasy8a7fn4ah2m" fontSize="42" color="#ffffff" align="center" text="Continue"/>
+  </displayList>
+</component>

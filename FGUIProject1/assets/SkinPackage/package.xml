@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4gavvzpr">
+  <resources>
+    <component id="q8950" name="SkinView.xml" path="/Entity/" exported="true"/>
+    <image id="q8951" name="origin_img_v2_5a2aabf9-ca58-41f3-8048-455f1d20c76g.jpg" path="/Design/"/>
+    <image id="q8953" name="inuse.png" path="/Res/"/>
+    <image id="q8954" name="Select.png" path="/Res/"/>
+    <image id="q8955" name="点1.png" path="/Res/"/>
+    <image id="q8956" name="点2.png" path="/Res/"/>
+    <image id="q8957" name="选中按钮.png" path="/Res/"/>
+    <image id="q8958" name="选中框.png" path="/Res/"/>
+    <image id="q8959" name="遮罩.png" path="/Res/"/>
+    <component id="q895a" name="SkinItem.xml" path="/Entity/"/>
+    <component id="q895e" name="Button.xml" path="/Entity/"/>
+    <image id="q895g" name="watch.png" path="/Res/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

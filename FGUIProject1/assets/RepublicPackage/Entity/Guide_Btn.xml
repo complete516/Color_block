@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="381,103" pivot="0.5,0.5" extention="Button" designImageOffsetX="-335">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="c1" pages="0,Next,1,Ok" selected="1"/>
+  <displayList>
+    <image id="n0_in7y" name="n0" src="r1zk1p" fileName="Res/按钮1.png" xy="0,0" size="381,103"/>
+    <text id="n2_in7y" name="n2" xy="190,51" pivot="0.5,0.5" anchor="true" size="104,66" font="ui://gasy8a7fn4ah2m" fontSize="50" color="#ffffff" align="center" vAlign="middle" letterSpacing="-2" text="Next">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <text id="n3_in7y" name="n3" xy="190,51" pivot="0.5,0.5" anchor="true" size="64,66" font="ui://gasy8a7fn4ah2m" fontSize="50" color="#ffffff" align="center" vAlign="middle" letterSpacing="-2" text="Ok">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

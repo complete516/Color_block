@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gwz96r4b">
+  <resources>
+    <image id="hgs20" name="color block主页.png" path="/Design/"/>
+    <image id="hgs24" name="ColorBlock_Cn.png" path="/Res/"/>
+    <image id="hgs2b" name="meiritiaozhan.png" path="/Res/"/>
+    <image id="hgs2f" name="sz.png" path="/Res/"/>
+    <component id="hgs2m" name="MainView.xml" path="/Entity/" exported="true"/>
+    <image id="hgs25" name="daohanglan.png" path="/Res/"/>
+    <component id="hgs2p" name="PlayEvent-Btn.xml" path="/Entity/"/>
+    <component id="hgs2q" name="EventBlock.xml" path="/Entity/"/>
+    <image id="hgs2s" name="play1.png" path="/Res/"/>
+    <component id="hgs2v" name="BestScore.xml" path="/Entity/"/>
+    <component id="hgs2w" name="NewGame.xml" path="/Entity/"/>
+    <component id="hgs2x" name="ContinueGame.xml" path="/Entity/"/>
+    <component id="hgs2y" name="MainTitle.xml" path="/Entity/"/>
+    <image id="p8me11" name="lvyuan.png" path="/Res/"/>
+    <image id="p8me12" name="weixuan1.png" path="/Res/"/>
+    <image id="p8me13" name="weixuan2.png" path="/Res/"/>
+    <image id="p8me16" name="挑战界面.png" path="/Design/"/>
+    <component id="p8me18" name="RightBtn.xml" path="/Entity/"/>
+    <image id="p8me1c" name="xiangzuo.png" path="/Res/"/>
+    <component id="ei171g" name="RewardItem.xml" path="/Entity/"/>
+    <image id="c8nj1h" name="Completed.png" path="/Res/"/>
+    <image id="c8nj1i" name="play1.1.png" path="/Res/"/>
+    <image id="jisi1k" name="获得奖杯.png" path="/Design/"/>
+    <component id="ibud1n" name="Component1.xml" path="/Entity/"/>
+    <component id="ibud1o" name="Time.xml" path="/Entity/" exported="true"/>
+    <image id="ibud1p" name="anniu2.png" path="/Res/"/>
+    <image id="rc091r" name="收藏-2.png" path="/Design/"/>
+    <image id="rc091s" name="收藏奖杯.png" path="/Design/"/>
+    <image id="rc091t" name="biaoti-hui.png" path="/Res/"/>
+    <image id="rc091u" name="biaoti-lv.png" path="/Res/"/>
+    <component id="rc091y" name="Collection_Btn.xml" path="/Entity/"/>
+    <component id="lsid1z" name="CollectionCupItem.xml" path="/Entity/"/>
+    <component id="lsid20" name="ImageReward.xml" path="/Entity/"/>
+    <component id="cwjh21" name="runk.xml" path="/Entity/"/>
+    <image id="cwjh24" name="hong3.png" path="/Res/"/>
+    <image id="cwjh25" name="huang2.png" path="/Res/"/>
+    <image id="cwjh26" name="lan4.png" path="/Res/"/>
+    <image id="cwjh27" name="quandi1.png" path="/Res/"/>
+    <image id="cwjh29" name="xing5.png" path="/Res/"/>
+    <image id="zb1t2a" name="rUrQaBcfXg.png" path="/Res/"/>
+    <image id="oa442c" name="middle_img_v2_30d3f690-84a0-4409-995a-b861e58f73bg.png" path="/Res/"/>
+    <image id="oa442d" name="middle_img_v2_76551101-53b7-43a9-ba1b-c391c766af4g.png" path="/Res/" scale9grid="2,39,14,78"/>
+    <image id="oa442e" name="middle_img_v2_77916ab5-d442-46d0-9e0a-b8d0f95da33g.png" path="/Res/"/>
+    <image id="oa442g" name="80800a61ac99b18a30a2e4a0a293352.png" path="/Design/"/>
+    <component id="pm0y2h" name="Task.xml" path="/Entity/"/>
+    <image id="ho9b2i" name="middle_img_v2_04a72b60-88b4-4fba-a472-33a06452031g.png" path="/Res/"/>
+    <image id="ho9b2j" name="middle_img_v2_134eb730-448c-4e1e-9f6f-25360729109g.png" path="/Res/"/>
+    <component id="pua32l" name="Component2.xml" path="/Entity/"/>
+    <image id="o2nz2n" name="ColorBlock_Zh.png" path="/Res/"/>
+    <image id="o2nz2p" name="play2.png" path="/Res/" exported="true"/>
+    <image id="o2nz2r" name="play1_zh.png" path="/Res/"/>
+    <component id="dbiq2t" name="Btn_EnterColorRoll.xml" path="/Entity/"/>
+    <image id="qvs12v" name="origin_img_v2_5f7bd85c-0c73-43b8-ac39-2053d8480bdg.png" path="/Res/" exported="true"/>
+    <component id="gfdg2w" name="MainGameListView.xml" path="/Entity/" exported="true"/>
+    <component id="gfdg2x" name="Btn_EnterColorBlock.xml" path="/Entity/"/>
+    <image id="m0yr2y" name="Color.png" path="/Res/"/>
+    <image id="m0yr2z" name="Jigsaw.png" path="/Res/"/>
+    <image id="m0yr30" name="LOGO.png" path="/Res/"/>
+    <image id="m0yr31" name="Shape.png" path="/Res/"/>
+    <image id="m0yr33" name="068新主页.png" path="/Design/"/>
+    <component id="m0yr34" name="Btn_EnterJigsaw.xml" path="/Entity/"/>
+    <image id="gvwb38" name="主题.png" path="/Res/"/>
+    <image id="gvwb39" name="按钮紫.png" path="/Res/"/>
+    <image id="gvwb3a" name="按钮绿.png" path="/Res/" exported="true"/>
+    <image id="gvwb3b" name="按钮蓝.png" path="/Res/" exported="true"/>
+    <image id="gvwb3c" name="标头.png" path="/Res/"/>
+    <image id="q8953d" name="skin.png" path="/Res/"/>
+    <component id="q8953f" name="Skin.xml" path="/Entity/"/>
+    <image id="s1uj3g" name="进度框.png" path="/Res/"/>
+    <image id="s1uj3h" name="按钮白.png" path="/Res/"/>
+    <component id="ljuz3i" name="Frame.xml" path="/Entity/"/>
+    <image id="ljuz3j" name="示意图.jpg" path="/Res/"/>
+    <image id="ljuz3k" name="排行榜.png" path="/Res/"/>
+    <component id="ljuz3l" name="RankBth.xml" path="/Entity/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

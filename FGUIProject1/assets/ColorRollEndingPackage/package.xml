@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kb5yh75c">
+  <resources>
+    <component id="qslef" name="ColorRollEndingView.xml" path="/Entity/" exported="true"/>
+  </resources>
+  <publish name="" path="..\project\assets\ColorRollBundle\UI" packageCount="2"/>
+</packageDescription>

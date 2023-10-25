@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="278,121">
+  <displayList>
+    <image id="n19_on0b" name="n19" src="on0bj" fileName="Res/金币底.png" xy="6,31"/>
+    <component id="n13_on0b" name="n13" src="on0bv" fileName="Entity/Button1.xml" xy="206,50"/>
+    <image id="n18_on0b" name="n18" src="on0bk" fileName="Res/金币.png" xy="9,47"/>
+    <text id="n20_on0b" name="n20" xy="76,46" size="113,58" font="ui://r1nmkmgmon0bx" fontSize="43" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="9999"/>
+  </displayList>
+</component>

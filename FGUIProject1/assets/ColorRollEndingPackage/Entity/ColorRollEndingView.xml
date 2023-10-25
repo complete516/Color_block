@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImage="ui://kb5yh75cqsleg" designImageAlpha="1" designImageLayer="1">
+  <controller name="last" alias="最后一关" pages="0,,1," selected="0"/>
+  <controller name="language" alias="语言" pages="0,Cn,1,Zh" selected="0"/>
+  <displayList>
+    <image id="n0_9wq2" name="n0" src="9wq27" fileName="Res/遮罩.png" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n5_9wq2" name="n5" src="9wq29" fileName="Entity/Btn_NextLv.xml" pkg="gtuyt942" xy="285,1517" group="n11_9wq2">
+      <gearDisplay controller="last" pages="0"/>
+    </component>
+    <image id="n6_9wq2" name="n6" src="9wq22" fileName="Res/next.png" pkg="gtuyt942" xy="406,1561" pivot="0.5,0.5" group="n11_9wq2">
+      <gearDisplay controller="last" pages="0"/>
+      <gearDisplay2 controller="language" pages="0" condition="0"/>
+    </image>
+    <component id="n7_9wq2" name="n7" src="gvwb1c" fileName="Entity/Btn_LevelListDI.xml" pkg="gasy8a7f" xy="806,1517" group="n11_9wq2"/>
+    <component id="n8_9wq2" name="n8" src="gvwb1b" fileName="Entity/Btn_BackHomeDi.xml" pkg="gasy8a7f" xy="111,1517" group="n11_9wq2"/>
+    <image id="n23_o2nz" name="n23" src="j790d" fileName="Res/next_cn.png" pkg="gtuyt942" xy="395,1555" group="n11_9wq2">
+      <gearDisplay controller="last" pages="0"/>
+      <gearDisplay2 controller="language" pages="1" condition="0"/>
+    </image>
+    <group id="n11_9wq2" name="Btn" xy="111,1517" size="852,158" visible="false" advanced="true"/>
+    <image id="n1_9wq2" name="n1" src="9wq21" fileName="Res/complete.png" pkg="gtuyt942" xy="187,330" pivot="0.5,0.5" size="705,124" group="n15_n4ah">
+      <gearDisplay controller="language" pages="0"/>
+    </image>
+    <text id="n16_ghvy" name="n16" xy="600,464" pivot="0,0.5" size="86,118" group="n15_n4ah" font="ui://gasy8a7fn4ah2m" fontSize="91" color="#ffffff" vAlign="middle" text="12"/>
+    <image id="n22_o2nz" name="n22" src="j790e" fileName="Res/你真棒.png" pkg="gtuyt942" xy="203,298" size="673,164" group="n15_n4ah">
+      <gearDisplay controller="language" pages="1"/>
+    </image>
+    <image id="n27_r1zk" name="n27" src="r1zk35" fileName="Res/level.png" pkg="gasy8a7f" xy="398,499" size="195,62" group="n15_n4ah"/>
+    <group id="n15_n4ah" name="n15" xy="187,298" size="705,284" advanced="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </group>
+    <loader id="n26_qsle" name="n29" xy="465,769" pivot="0.5,0.5" size="150,150" scale="2.5,2.5" visible="false" align="center" vAlign="middle" autoSize="true"/>
+    <image id="n24_qsle" name="n24" src="nv0b7" fileName="Res/星星底座.png" pkg="dd7xwbgg" xy="408,728" pivot="0.5,0.5" scale="2,2" visible="false">
+      <relation target="" sidePair="center-center"/>
+    </image>
+    <component id="n29_h3s9" name="GuideUI_9" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,2">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <component id="n30_n9h0" name="n30" src="doffd" fileName="Entity/GetGoldView.xml" pkg="uuybwu4x" xy="0,0">
+      <relation target="n15_n4ah" sidePair="center-center%,top-top"/>
+    </component>
+  </displayList>
+</component>

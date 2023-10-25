@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1022,623">
+  <displayList>
+    <image id="n14_lhvl" name="n14" src="lhvl2" fileName="Res/fenshukuang.png" xy="0,88" size="998,506" group="n33_es3m"/>
+    <image id="n15_lhvl" name="n15" src="lhvl7" fileName="Res/xian-.png" xy="49,468" group="n33_es3m"/>
+    <image id="n17_lhvl" name="n17" src="lhvl7" fileName="Res/xian-.png" xy="49,210" group="n33_es3m"/>
+    <image id="n16_lhvl" name="n16" src="lhvl7" fileName="Res/xian-.png" xy="49,338" group="n33_es3m"/>
+    <text id="n13_lhvl" name="n13" xy="2,0" size="226,69" group="n33_es3m" font="ui://gasy8a7fn4ah2m" fontSize="52" color="#ffffff" vAlign="middle" letterSpacing="-3" text="Best Score"/>
+    <text id="n1_lhvl" name="n1" xy="45,121" size="117,56" group="n33_es3m" font="ui://gasy8a7fn4ah2m" fontSize="42" color="#ffffff" vAlign="middle" letterSpacing="-1" text="Today"/>
+    <text id="n2_lhvl" name="n2" xy="45,248" size="188,56" group="n33_es3m" font="ui://gasy8a7fn4ah2m" fontSize="42" color="#ffffff" vAlign="middle" letterSpacing="-1" text="This Week"/>
+    <text id="n3_lhvl" name="n3" xy="45,374" size="205,56" group="n33_es3m" font="ui://gasy8a7fn4ah2m" fontSize="42" color="#ffffff" vAlign="middle" letterSpacing="-1" text="This Month"/>
+    <text id="n4_lhvl" name="n4" xy="45,504" size="147,56" group="n33_es3m" font="ui://gasy8a7fn4ah2m" fontSize="42" color="#ffffff" vAlign="middle" letterSpacing="-1" text="All Time"/>
+    <text id="n5_lhvl" name="DayScore" xy="937,177" pivot="1,1" anchor="true" size="86,66" group="n33_es3m" font="ui://gasy8a7fn4ah2m" fontSize="50" color="#ffffff" align="right" vAlign="middle" letterSpacing="-1" text="208"/>
+    <text id="n7_lhvl" name="WeekScore" xy="937,304" pivot="1,1" anchor="true" size="86,66" group="n33_es3m" font="ui://gasy8a7fn4ah2m" fontSize="50" color="#ffffff" align="right" vAlign="middle" letterSpacing="-1" text="208"/>
+    <text id="n8_lhvl" name="MonthScore" xy="937,430" pivot="1,1" anchor="true" size="86,66" group="n33_es3m" font="ui://gasy8a7fn4ah2m" fontSize="50" color="#ffffff" align="right" vAlign="middle" letterSpacing="-1" text="208"/>
+    <text id="n9_lhvl" name="AllScore" xy="937,560" pivot="1,1" anchor="true" size="86,66" group="n33_es3m" font="ui://gasy8a7fn4ah2m" fontSize="50" color="#ffffff" align="right" vAlign="middle" letterSpacing="-1" text="208"/>
+    <component id="n25_lhvl" name="DayPlus" src="lhvl9" fileName="Entity/PlusScore.xml" xy="702,120" group="n33_es3m" touchable="false"/>
+    <component id="n29_lhvl" name="WeekPlus" src="lhvl9" fileName="Entity/PlusScore.xml" xy="702,247" group="n33_es3m" touchable="false"/>
+    <component id="n30_lhvl" name="MonthPlus" src="lhvl9" fileName="Entity/PlusScore.xml" xy="702,373" group="n33_es3m" touchable="false"/>
+    <component id="n31_lhvl" name="AllTimePlus" src="lhvl9" fileName="Entity/PlusScore.xml" xy="702,503" group="n33_es3m" touchable="false"/>
+    <group id="n33_es3m" name="n33" xy="0,0" size="998,594" advanced="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </group>
+  </displayList>
+</component>

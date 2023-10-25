@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="919,314">
+  <controller name="c1" pages="0,coins,1,bulbs,2,frarmes,3,avatars" selected="1"/>
+  <controller name="c2" pages="0,open,1,close,2,zero" selected="1"/>
+  <displayList>
+    <component id="n2_mwyg" name="n2" src="mwyg15" fileName="Entity/Tag/CoinsTag.xml" xy="0,0">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n12_mwyg" name="n12" src="mwygu" fileName="Entity/Tag/Morecoins.xml" xy="5,255">
+      <gearDisplay controller="c1" pages="0"/>
+      <gearDisplay2 controller="c2" pages="0" condition="0"/>
+    </component>
+    <component id="n13_mwyg" name="n13" src="mwygz" fileName="Entity/Tag/Morebulbs.xml" xy="5,255">
+      <gearDisplay controller="c1" pages="1"/>
+      <gearDisplay2 controller="c2" pages="0" condition="0"/>
+    </component>
+    <component id="n14_mwyg" name="n14" src="mwygy" fileName="Entity/Tag/PromptTag.xml" xy="0,0">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <component id="n15_mwyg" name="n15" src="mwyg12" fileName="Entity/Tag/Moreframes.xml" xy="5,254">
+      <gearDisplay controller="c1" pages="2"/>
+      <gearDisplay2 controller="c2" pages="0" condition="0"/>
+    </component>
+    <component id="n16_mwyg" name="n16" src="mwyg10" fileName="Entity/Tag/SeasideTag.xml" xy="0,0">
+      <gearDisplay controller="c1" pages="2"/>
+    </component>
+    <component id="n17_mwyg" name="n17" src="mwyg13" fileName="Entity/Tag/Moreavatars.xml" xy="5,255">
+      <gearDisplay controller="c1" pages="3"/>
+      <gearDisplay2 controller="c2" pages="0" condition="0"/>
+    </component>
+    <component id="n19_mwyg" name="n19" src="mwyg11" fileName="Entity/Tag/HeadTag.xml" xy="0,0">
+      <gearDisplay controller="c1" pages="3"/>
+    </component>
+    <component id="n20_mwyg" name="n20" src="mwyg17" fileName="Entity/Tag/CloseBth.xml" xy="5,255">
+      <gearDisplay controller="c2" pages="1"/>
+    </component>
+  </displayList>
+</component>

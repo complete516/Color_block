@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="45,45">
+  <displayList>
+    <image id="n13_hgs2" name="n13" src="ibudu" fileName="Res/shijian.png" pkg="gasy8a7f" xy="0,0"/>
+    <image id="n14_hgs2" name="n14" src="ibudt" fileName="Res/fenzhen.png" pkg="gasy8a7f" xy="22,20" pivot="0.5,0.1"/>
+  </displayList>
+  <transition name="shizhen_move" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n14_hgs2" tween="true" startValue="0" endValue="360" duration="48" ease="Linear"/>
+  </transition>
+</component>

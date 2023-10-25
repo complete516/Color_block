@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false" designImage="ui://uuybwu4xdoff0" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n0_doff" name="n0" src="doffb" fileName="Res/进度条凹槽.png" xy="111,967" group="n17_n9h0"/>
+    <image id="n1_doff" name="n1" src="doffa" fileName="Res/红.png" xy="128,979" group="n17_n9h0"/>
+    <image id="n2_doff" name="n2" src="doffa" fileName="Res/红.png" xy="785,979" group="n17_n9h0"/>
+    <image id="n3_doff" name="n3" src="doff9" fileName="Res/橙.png" xy="292,979" group="n17_n9h0"/>
+    <image id="n4_doff" name="n4" src="doff9" fileName="Res/橙.png" xy="621,979" group="n17_n9h0"/>
+    <image id="n5_doff" name="n5" src="doffc" fileName="Res/黄.png" xy="456,979" group="n17_n9h0"/>
+    <image id="n14_n9h0" name="n14" src="q8952" fileName="Res/Coin.png" pkg="gasy8a7f" xy="322,697" size="145,149" group="n17_n9h0" aspect="true"/>
+    <image id="n6_doff" name="n6" src="doff6" fileName="Res/指针.png" xy="192,1049" group="n17_n9h0"/>
+    <component id="n16_n9h0" name="Btn_Ads" src="dofff" fileName="Entity/Btn_Get.xml" xy="289,1422" group="n17_n9h0"/>
+    <component id="n8_doff" name="Btn_Claim" src="doffe" fileName="Entity/Btn_Ads.xml" xy="295,1216" group="n17_n9h0"/>
+    <text id="n9_n9h0" name="n9" xy="180,981" size="60,46" group="n17_n9h0" font="ui://gasy8a7fn4ah2m" fontSize="34" color="#ffffff" text="x1.5"/>
+    <text id="n10_n9h0" name="n10" xy="837,981" size="60,46" group="n17_n9h0" font="ui://gasy8a7fn4ah2m" fontSize="34" color="#ffffff" text="x1.5"/>
+    <text id="n11_n9h0" name="n11" xy="354,980" size="39,46" group="n17_n9h0" font="ui://gasy8a7fn4ah2m" fontSize="34" color="#ffffff" text="x2"/>
+    <text id="n12_n9h0" name="n12" xy="683,980" size="39,46" group="n17_n9h0" font="ui://gasy8a7fn4ah2m" fontSize="34" color="#ffffff" text="x2"/>
+    <text id="n13_n9h0" name="n13" xy="518,980" size="39,46" group="n17_n9h0" font="ui://gasy8a7fn4ah2m" fontSize="34" color="#ffffff" text="x3"/>
+    <text id="n15_n9h0" name="GoldNumber" xy="504,666" size="260,192" group="n17_n9h0" font="ui://gasy8a7fn4ah2m" fontSize="150" color="#ffffff" vAlign="middle" text="x40"/>
+    <group id="n17_n9h0" name="n17" xy="111,666" size="857,914"/>
+  </displayList>
+</component>

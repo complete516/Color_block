@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,103" overflow="hidden">
+  <displayList>
+    <image id="n0_h35r" name="n0" src="nore18" fileName="Res/middle_img_v2_f9906136-b55b-43ff-bb5f-f0b4b7c54ebg.png" xy="-52,2" pivot="0.5,0.5" rotation="-45"/>
+    <image id="n1_h35r" name="n1" src="nore18" fileName="Res/middle_img_v2_f9906136-b55b-43ff-bb5f-f0b4b7c54ebg.png" xy="48,12" pivot="0.5,0.5"/>
+    <image id="n2_h35r" name="n2" src="nore18" fileName="Res/middle_img_v2_f9906136-b55b-43ff-bb5f-f0b4b7c54ebg.png" xy="0,60" pivot="0.5,0.5"/>
+    <image id="n4_h35r" name="n4" src="nore18" fileName="Res/middle_img_v2_f9906136-b55b-43ff-bb5f-f0b4b7c54ebg.png" xy="48,60" pivot="0.5,0.5"/>
+  </displayList>
+  <transition name="SquareAn" autoPlayRepeat="0">
+    <item time="0" type="Alpha" target="n0_h35r" value="1"/>
+    <item time="0" type="Alpha" target="n1_h35r" tween="true" startValue="0" endValue="1" duration="12" ease="Linear"/>
+    <item time="0" type="Alpha" target="n2_h35r" tween="true" startValue="0" endValue="1" duration="12" ease="Linear"/>
+    <item time="0" type="Alpha" target="n4_h35r" tween="true" startValue="0" endValue="1" duration="12" ease="Linear"/>
+    <item time="0" type="Rotation" target="n0_h35r" value="-45"/>
+    <item time="0" type="Scale" target="n0_h35r" value="1,1"/>
+    <item time="0" type="Scale" target="n1_h35r" value="1,1"/>
+    <item time="0" type="Scale" target="n2_h35r" value="1,1"/>
+    <item time="0" type="Scale" target="n4_h35r" value="1,1"/>
+    <item time="0" type="XY" target="n0_h35r" value="-52,2"/>
+    <item time="13" type="XY" target="n0_h35r" tween="true" startValue="-52,2" endValue="-20,2" duration="5" ease="Linear"/>
+    <item time="16" type="Rotation" target="n0_h35r" tween="true" startValue="-45" endValue="0" duration="5" ease="Linear"/>
+    <item time="18" type="XY" target="n0_h35r" tween="true" startValue="-20,2" endValue="0,12" duration="3" ease="Linear"/>
+    <item time="35" type="Alpha" target="n0_h35r" tween="true" startValue="1" endValue="0" duration="8" ease="Linear"/>
+    <item time="35" type="Scale" target="n0_h35r" tween="true" startValue="1,1" endValue="0.5,0.5" duration="8" ease="Linear"/>
+    <item time="39" type="Alpha" target="n1_h35r" tween="true" startValue="1" endValue="0" duration="8" ease="Linear"/>
+    <item time="39" type="Alpha" target="n2_h35r" tween="true" startValue="1" endValue="0" duration="8" ease="Linear"/>
+    <item time="39" type="Scale" target="n1_h35r" tween="true" startValue="1,1" endValue="0.5,0.5" duration="8" ease="Linear"/>
+    <item time="39" type="Scale" target="n2_h35r" tween="true" startValue="1,1" endValue="0.5,0.5" duration="8" ease="Linear"/>
+    <item time="44" type="Alpha" target="n4_h35r" tween="true" startValue="1" endValue="0" duration="8" ease="Linear"/>
+    <item time="44" type="Scale" target="n4_h35r" tween="true" startValue="1,1" endValue="0.5,0.5" duration="8" ease="Linear"/>
+  </transition>
+</component>

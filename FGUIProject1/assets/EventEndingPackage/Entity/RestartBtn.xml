@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="489,146" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n36_es3m" name="n36" src="ibudv" fileName="Res/anniu2.png" pkg="gasy8a7f" xy="0,1"/>
+    <text id="n37_es3m" name="n37" xy="244,69" pivot="0.5,0.5" anchor="true" size="153,64" font="ui://gasy8a7fn4ah2m" fontSize="48" color="#ffffff" vAlign="middle" letterSpacing="-2" text="Restart"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

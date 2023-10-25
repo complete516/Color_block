@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="900,440" designImageLayer="1">
+  <displayList>
+    <text id="n2_in7y" name="n2" xy="185,457" pivot="0.5,0.5" size="529,59" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#5869d0" align="center" vAlign="middle" letterSpacing="-2" text="Get unique puzzles every day">
+      <relation target="" sidePair="width-width"/>
+    </text>
+    <image id="n3_r1zk" name="n3" src="r1zk38" fileName="Res/红.png" pkg="gasy8a7f" xy="277,45"/>
+    <image id="n4_r1zk" name="n4" src="r1zk39" fileName="Res/绿.png" pkg="gasy8a7f" xy="395,45"/>
+    <image id="n5_r1zk" name="n5" src="r1zk3a" fileName="Res/蓝.png" pkg="gasy8a7f" xy="513,45"/>
+    <image id="n7_r1zk" name="n7" src="r1zk3b" fileName="Res/黄.png" pkg="gasy8a7f" xy="277,167"/>
+    <image id="n8_r1zk" name="n8" src="r1zk3b" fileName="Res/黄.png" pkg="gasy8a7f" xy="396,167"/>
+    <image id="n9_r1zk" name="n9" src="r1zk38" fileName="Res/红.png" pkg="gasy8a7f" xy="513,167"/>
+    <image id="n10_r1zk" name="n10" src="r1zk3b" fileName="Res/黄.png" pkg="gasy8a7f" xy="395,288"/>
+    <image id="n11_r1zk" name="n11" src="r1zk3a" fileName="Res/蓝.png" pkg="gasy8a7f" xy="277,288"/>
+    <image id="n12_r1zk" name="n12" src="r1zk39" fileName="Res/绿.png" pkg="gasy8a7f" xy="513,288"/>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="229,236">
+  <displayList>
+    <loader id="n1_ljuz" name="n1" xy="9,21" size="212,194" url="ui://gtlknu5kvi1x1p" align="center" vAlign="middle" fill="scale"/>
+    <component id="n3_xz4p" name="n3" src="xz4p2e" fileName="Entity/HeardFrame.xml" pkg="gs6o3ix6" xy="-141,-138" pivot="0.5,0.5" size="512,512" scale="0.4,0.4"/>
+  </displayList>
+</component>

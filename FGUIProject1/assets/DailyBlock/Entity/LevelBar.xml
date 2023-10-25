@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="95,95" extention="ProgressBar">
+  <displayList>
+    <image id="n0_lhvl" name="n0" src="p8me12" fileName="Res/weixuan1.png" xy="0,0" size="95,95" pkg="gwz96r4b">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_lhvl" name="bar" src="p8me13" fileName="Res/weixuan2.png" xy="0,0" size="95,95" fillMethod="radial360" fillClockwise="false" fillAmount="" pkg="gwz96r4b"/>
+  </displayList>
+  <ProgressBar/>
+</component>

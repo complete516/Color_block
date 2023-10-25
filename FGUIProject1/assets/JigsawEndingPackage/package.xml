@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gtuyt942">
+  <resources>
+    <component id="9wq20" name="JigSawEnding.xml" path="/Entity/" exported="true"/>
+    <image id="9wq21" name="complete.png" path="/Res/" exported="true"/>
+    <image id="9wq22" name="next.png" path="/Res/" exported="true"/>
+    <image id="9wq23" name="主页.png" path="/Res/" exported="true"/>
+    <image id="9wq24" name="托盘.png" path="/Res/" exported="true" scale="9grid" scale9grid="237,238,474,476"/>
+    <image id="9wq25" name="结算页面木质.jpg" path="/Design/"/>
+    <image id="9wq28" name="长按钮.png" path="/Res/" exported="true"/>
+    <component id="9wq29" name="Btn_NextLv.xml" path="/Entity/" exported="true"/>
+    <component id="p6g6a" name="Component1.xml" path="/Entity/" exported="true"/>
+    <image id="oh1lc" name="liuguang.png" path="/Res/" exported="true"/>
+    <image id="j790d" name="next_cn.png" path="/Res/" exported="true"/>
+    <image id="j790e" name="你真棒.png" path="/Res/" exported="true"/>
+    <image id="mlfff" name="遮罩.png" path="/Res/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

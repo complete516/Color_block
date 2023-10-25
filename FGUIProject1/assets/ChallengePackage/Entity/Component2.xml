@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="910,1428">
+  <displayList>
+    <image id="n0_h1zx" name="n0" src="h1zxd" fileName="Res/底板.png" xy="25,0"/>
+    <image id="n12_dbvo" name="n12" src="fz5517" fileName="Res/背景.png" xy="110,234"/>
+    <image id="n1_iira" name="n1" src="h1zxa" fileName="Res/BLOCK CHALLENGE.png" xy="250,49"/>
+    <image id="n5_iira" name="n5" src="h1zxf" fileName="Res/画框.png" xy="90,213"/>
+    <image id="n6_iira" name="n6" src="h1zxb" fileName="Res/season.png" xy="381,119"/>
+    <text id="n7_iira" name="n7" xy="501,110" size="40,46" font="ui://r1nmkmgmon0bx" fontSize="34" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="1"/>
+    <text id="n8_iira" name="n8" xy="0,616" size="910,590" font="ui://r1nmkmgmon0bx" fontSize="43" color="#330066" align="center" autoSize="none" bold="true" text="  Welcome to join Block Challenge&#xA;&#xA;HOW to WIN:&#xA;Pass more levels to win more scores.&#xA;&#xA;Color Shape : 10 points/level&#xA;Jigsaw: 20 points/level&#xA;Color Block:  30 points/level&#xA;&#xA;GOOD LUCK~"/>
+    <image id="n18_dbvo" name="n18" src="fz5512" fileName="Res/十字光.png" xy="281,281"/>
+    <image id="n13_dbvo" name="n13" src="fz5515" fileName="Res/礼盒堆.png" xy="234,337"/>
+    <image id="n15_dbvo" name="n15" src="fz5513" fileName="Res/十字光02.png" xy="495,259" pivot="0.5,0.5"/>
+    <image id="n16_dbvo" name="n16" src="fz5510" fileName="Res/十字光(1).png" xy="269,302" pivot="0.5,0.5"/>
+    <image id="n19_tgwq" name="n19" src="fz55z" fileName="Res/光.png" xy="-33,232"/>
+  </displayList>
+  <transition name="light_an" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Alpha" target="n15_dbvo" tween="true" startValue="1" endValue="0.5" duration="7" ease="Linear"/>
+    <item time="0" type="Alpha" target="n16_dbvo" tween="true" startValue="1" endValue="0.767" duration="7" ease="Linear"/>
+    <item time="0" type="Alpha" target="n19_tgwq" tween="true" startValue="1" endValue="0.3" duration="15" ease="Linear"/>
+    <item time="0" type="Rotation" target="n15_dbvo" tween="true" startValue="0" endValue="360" duration="32" ease="Linear"/>
+    <item time="0" type="Rotation" target="n16_dbvo" tween="true" startValue="0" endValue="360" duration="32" ease="Linear"/>
+    <item time="7" type="Alpha" target="n15_dbvo" tween="true" startValue="0.5" endValue="1" duration="8" ease="Linear"/>
+    <item time="7" type="Alpha" target="n16_dbvo" tween="true" startValue="0.767" endValue="1" duration="8" ease="Linear"/>
+    <item time="15" type="Alpha" target="n15_dbvo" tween="true" startValue="1" endValue="0.5" duration="9" ease="Linear"/>
+    <item time="15" type="Alpha" target="n16_dbvo" tween="true" startValue="1" endValue="0.5" duration="9" ease="Linear"/>
+    <item time="15" type="Alpha" target="n19_tgwq" tween="true" startValue="0.3" endValue="1" duration="17" ease="Linear"/>
+    <item time="24" type="Alpha" target="n15_dbvo" tween="true" startValue="0.5" endValue="1" duration="8" ease="Linear"/>
+    <item time="24" type="Alpha" target="n16_dbvo" tween="true" startValue="0.5" endValue="1" duration="8" ease="Linear"/>
+  </transition>
+</component>

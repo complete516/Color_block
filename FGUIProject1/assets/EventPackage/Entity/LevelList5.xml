@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="963,963" designImage="ui://kiodpbexl8b70" designImageAlpha="0">
+  <controller name="c1" pages="0,Open,1,Close" selected="0"/>
+  <displayList>
+    <image id="n0_l8b7" name="n0" src="l8b72" fileName="Res/dakuang.png" xy="0,1" size="963,963"/>
+    <loader id="n41_ibud" name="Image" xy="45,51" size="893,893" scale="0.97,0.97" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </loader>
+    <component id="n4_l8b7" name="Item1_1" src="l8b7n" fileName="Entity/LevelBar.xml" xy="481,178" aspect="true" scale="0.66,0.66" controller="c1,0">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n14_l8b7" name="Item1_2" src="l8b7n" fileName="Entity/LevelBar.xml" xy="181,478" aspect="true" scale="0.66,0.66" controller="c1,0">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n18_l8b7" name="Item1_3" src="l8b7n" fileName="Entity/LevelBar.xml" xy="331,178" aspect="true" scale="0.66,0.66" controller="c1,0">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n20_l8b7" name="Item1_4" src="l8b7n" fileName="Entity/LevelBar.xml" xy="331,628" aspect="true" scale="0.66,0.66" controller="c1,0">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n23_l8b7" name="Item1_5" src="l8b7n" fileName="Entity/LevelBar.xml" xy="481,628" aspect="true" scale="0.66,0.66" controller="c1,0">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n17_l8b7" name="Item1_6" src="l8b7n" fileName="Entity/LevelBar.xml" xy="181,328" aspect="true" scale="0.66,0.66" controller="c1,0">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n25_l8b7" name="Item1_7" src="l8b7n" fileName="Entity/LevelBar.xml" xy="631,328" aspect="true" scale="0.66,0.66" controller="c1,0">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n27_l8b7" name="Item1_8" src="l8b7n" fileName="Entity/LevelBar.xml" xy="631,478" aspect="true" scale="0.66,0.66" controller="c1,0">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n26_l8b7" name="Item3_13" src="l8b7n" fileName="Entity/LevelBar.xml" xy="631,28" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n21_l8b7" name="Item3_14" src="l8b7n" fileName="Entity/LevelBar.xml" xy="31,628" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n8_l8b7" name="Item3_16" src="l8b7n" fileName="Entity/LevelBar.xml" xy="181,28" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n3_l8b7" name="Item3_15" src="l8b7n" fileName="Entity/LevelBar.xml" xy="331,28" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n11_l8b7" name="Item3_12" src="l8b7n" fileName="Entity/LevelBar.xml" xy="481,28" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n12_l8b7" name="Item3_11" src="l8b7n" fileName="Entity/LevelBar.xml" xy="31,178" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n13_l8b7" name="Item3_10" src="l8b7n" fileName="Entity/LevelBar.xml" xy="31,328" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n7_l8b7" name="Item3_9" src="l8b7n" fileName="Entity/LevelBar.xml" xy="31,478" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n30_ibud" name="Item3_8" src="l8b7n" fileName="Entity/LevelBar.xml" xy="781,628" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n31_ibud" name="Item3_7" src="l8b7n" fileName="Entity/LevelBar.xml" xy="781,178" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n32_ibud" name="Item3_6" src="l8b7n" fileName="Entity/LevelBar.xml" xy="781,328" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n33_ibud" name="Item3_5" src="l8b7n" fileName="Entity/LevelBar.xml" xy="781,478" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n36_ibud" name="Item3_4" src="l8b7n" fileName="Entity/LevelBar.xml" xy="631,778" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n37_ibud" name="Item3_1" src="l8b7n" fileName="Entity/LevelBar.xml" xy="181,778" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n38_ibud" name="Item3_2" src="l8b7n" fileName="Entity/LevelBar.xml" xy="331,778" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n39_ibud" name="Item3_3" src="l8b7n" fileName="Entity/LevelBar.xml" xy="481,778" aspect="true" scale="0.66,0.66" controller="c1,2">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n1_l8b7" name="Item2_1" src="l8b7n" fileName="Entity/LevelBar.xml" xy="31,28" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n19_l8b7" name="Item2_2" src="l8b7n" fileName="Entity/LevelBar.xml" xy="181,178" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n16_l8b7" name="Item2_3" src="l8b7n" fileName="Entity/LevelBar.xml" xy="331,328" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n15_l8b7" name="Item2_4" src="l8b7n" fileName="Entity/LevelBar.xml" xy="481,478" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n28_l8b7" name="Item2_5" src="l8b7n" fileName="Entity/LevelBar.xml" xy="631,628" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n6_l8b7" name="Item2_6" src="l8b7n" fileName="Entity/LevelBar.xml" xy="331,478" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n22_l8b7" name="Item2_7" src="l8b7n" fileName="Entity/LevelBar.xml" xy="181,628" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n24_l8b7" name="Item2_8" src="l8b7n" fileName="Entity/LevelBar.xml" xy="631,178" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n5_l8b7" name="Item2_9" src="l8b7n" fileName="Entity/LevelBar.xml" xy="481,328" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n29_ibud" name="Item2_10" src="l8b7n" fileName="Entity/LevelBar.xml" xy="781,28" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n35_ibud" name="Item2_11" src="l8b7n" fileName="Entity/LevelBar.xml" xy="31,778" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n40_ibud" name="Item2_12" src="l8b7n" fileName="Entity/LevelBar.xml" xy="781,778" aspect="true" scale="0.66,0.66" controller="c1,1">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <graph id="n42_in7y" name="n42" xy="35,32" size="893,893" type="rect" lineSize="0" fillColor="#ff8c8c8c">
+      <gearDisplay controller="c1" pages="1"/>
+    </graph>
+    <image id="n43_in7y" name="n43" src="l8b7g" fileName="Res/suo2.png" xy="481,402" pivot="0.5,0.5" anchor="true" scale="2,2" color="#cccccc">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <text id="n44_in7y" name="n44" xy="229,530" size="505,122" font="ui://gasy8a7fn4ah2m" fontSize="46" color="#cccccc" align="center" vAlign="middle" letterSpacing="-3" text="Open the previous postcard&#xA;first">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="p0sdbsto">
+  <resources>
+    <image id="lhvl0" name="普通挑战.png" path="/Design/"/>
+    <component id="lhvl8" name="EndingView.xml" path="/Entity/" exported="true"/>
+    <component id="lhvl9" name="PlusScore.xml" path="/Entity/"/>
+    <image id="lhvl2" name="fenshukuang.png" path="/Res/" scale="9grid" scale9grid="93,76,186,152"/>
+    <image id="lhvl3" name="guangxiao2.png" path="/Res/"/>
+    <image id="lhvl4" name="quyuxianshi.png" path="/Res/" scale="9grid" scale9grid="162,163,324,326"/>
+    <image id="lhvl5" name="shang.png" path="/Res/"/>
+    <image id="lhvl6" name="shuzidikuang.png" path="/Res/"/>
+    <image id="lhvl7" name="xian-.png" path="/Res/"/>
+    <component id="es3ma" name="PlayBtn.xml" path="/Entity/"/>
+    <component id="pm0yb" name="BestScore.xml" path="/Entity/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

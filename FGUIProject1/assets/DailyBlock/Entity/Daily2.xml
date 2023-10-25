@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,679">
+  <controller name="viewControl" pages="0,Main,2,Daily,1,Event" selected="0"/>
+  <displayList>
+    <text id="n52_p8me" name="s" xy="105,33" pivot="0.5,0.5" anchor="true" size="26,54" group="n63_p8me" font="ui://gasy8a7fn4ah2m" fontSize="40" color="#bcc1cb" align="center" letterSpacing="-3" text="S"/>
+    <text id="n53_p8me" name="m" xy="247,27" pivot="0.5,0.5" anchor="true" size="36,54" group="n63_p8me" font="ui://gasy8a7fn4ah2m" fontSize="40" color="#bcc1cb" align="center" letterSpacing="-3" text="M"/>
+    <text id="n56_p8me" name="t" xy="389,27" pivot="0.5,0.5" anchor="true" size="26,54" group="n63_p8me" font="ui://gasy8a7fn4ah2m" fontSize="40" color="#bcc1cb" align="center" letterSpacing="-3" text="T"/>
+    <text id="n58_p8me" name="w" xy="531,27" pivot="0.5,0.5" anchor="true" size="38,54" group="n63_p8me" font="ui://gasy8a7fn4ah2m" fontSize="40" color="#bcc1cb" align="center" letterSpacing="-3" text="W"/>
+    <text id="n60_p8me" name="t2" xy="673,27" pivot="0.5,0.5" anchor="true" size="26,54" group="n63_p8me" font="ui://gasy8a7fn4ah2m" fontSize="40" color="#bcc1cb" align="center" letterSpacing="-3" text="T"/>
+    <text id="n61_p8me" name="f" xy="815,27" pivot="0.5,0.5" anchor="true" size="25,54" group="n63_p8me" font="ui://gasy8a7fn4ah2m" fontSize="40" color="#bcc1cb" align="center" letterSpacing="-3" text="F"/>
+    <text id="n62_p8me" name="s2" xy="957,27" pivot="0.5,0.5" anchor="true" size="26,54" group="n63_p8me" font="ui://gasy8a7fn4ah2m" fontSize="40" color="#bcc1cb" align="center" letterSpacing="-3" text="S"/>
+    <component id="n72_ei17" name="DateRoot" src="ei171f" fileName="Entity/DateRoot.xml" xy="0,79" size="1080,600" group="n63_p8me" touchable="false"/>
+    <group id="n63_p8me" name="Daily_Block2" xy="0,0" size="1080,679" advanced="true">
+      <gearDisplay controller="viewControl" pages="2"/>
+      <relation target="" sidePair="center-center%,top-top%"/>
+    </group>
+  </displayList>
+</component>

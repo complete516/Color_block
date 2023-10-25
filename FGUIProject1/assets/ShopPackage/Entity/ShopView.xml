@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImage="ui://372yazlch3s90" designImageOffsetX="-740" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n35_ft29" name="n35" src="9wq27" fileName="Res/遮罩.png" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n33_h3s9" name="GuideUI_0" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <image id="n0_h3s9" name="n0" src="hgs2e" fileName="Res/shijiankuang.png" pkg="gasy8a7f" xy="105,374" size="870,1268" group="n34_h3s9"/>
+    <image id="n2_h3s9" name="n2" src="h3s97" fileName="Res/底板灰.png" xy="172,1367" group="n34_h3s9"/>
+    <image id="n3_h3s9" name="n3" src="h3s97" fileName="Res/底板灰.png" xy="172,1202" group="n34_h3s9"/>
+    <image id="n4_h3s9" name="n4" src="h3s99" fileName="Res/底板绿.png" xy="172,1012" group="n34_h3s9"/>
+    <image id="n5_h3s9" name="n5" src="h3s99" fileName="Res/底板绿.png" xy="172,820" group="n34_h3s9"/>
+    <image id="n7_h3s9" name="n7" src="h3s98" fileName="Res/底板紫.png" xy="172,551" group="n34_h3s9"/>
+    <image id="n8_h3s9" name="n8" src="h3s9d" fileName="Res/灯泡.png" xy="224,1379" group="n34_h3s9"/>
+    <text id="n15_h3s9" name="n15" xy="374,1075" size="193,58" group="n34_h3s9" font="ui://gasy8a7fn4ah2m" fontSize="43" color="#ffffff" text="x 10 Coins"/>
+    <image id="n9_h3s9" name="n9" src="h3s9d" fileName="Res/灯泡.png" xy="224,1214" group="n34_h3s9"/>
+    <image id="n10_h3s9" name="n10" src="h3s95" fileName="Res/Coin.png" xy="233,1055" group="n34_h3s9"/>
+    <image id="n11_h3s9" name="n11" src="h3s9e" fileName="Res/礼包.png" xy="204,841" group="n34_h3s9"/>
+    <component id="n13_h3s9" name="n13" src="h3s9j" fileName="Entity/Btn_Gold1.xml" xy="585,1232" group="n34_h3s9"/>
+    <component id="n14_h3s9" name="n14" src="h3s9k" fileName="Entity/Btn_Gold2.xml" xy="584,1395" group="n34_h3s9"/>
+    <component id="n18_h3s9" name="n18" src="h3s9l" fileName="Entity/Btn_Gold3.xml" xy="652,860" group="n34_h3s9"/>
+    <component id="n26_h3s9" name="n26" src="h3s9h" fileName="Entity/Btn_BugAds.xml" xy="652,612" group="n34_h3s9"/>
+    <component id="n29_h3s9" name="n29" src="cge5c" fileName="Entity/Close.xml" pkg="gasy8a7f" xy="872,303" group="n34_h3s9"/>
+    <text id="n16_h3s9" name="n16" xy="374,879" size="181,58" group="n34_h3s9" font="ui://gasy8a7fn4ah2m" fontSize="43" color="#ffffff" text="x 5  Coins"/>
+    <text id="n19_h3s9" name="n19" xy="670,943" pivot="0.5,0.5" size="180,38" group="n34_h3s9" font="ui://gasy8a7fn4ah2m" fontSize="27" color="#0e7584" letterSpacing="-1" text="One Time A Day"/>
+    <component id="n20_h3s9" name="n20" src="h3s9m" fileName="Entity/Btn_Gold4.xml" xy="652,1053" group="n34_h3s9"/>
+    <text id="n21_h3s9" name="n21" xy="374,1247" size="51,58" group="n34_h3s9" font="ui://gasy8a7fn4ah2m" fontSize="43" color="#3951ba" text="x 1"/>
+    <text id="n22_h3s9" name="n22" xy="374,1412" size="77,58" group="n34_h3s9" font="ui://gasy8a7fn4ah2m" fontSize="43" color="#3951ba" text="x 10"/>
+    <image id="n23_h3s9" name="n23" src="h3s94" fileName="Res/AD.png" xy="216,587" group="n34_h3s9"/>
+    <text id="n24_h3s9" name="n24" xy="373,631" size="246,62" group="n34_h3s9" font="ui://gasy8a7fn4ah2m" fontSize="46" color="#ffffff" letterSpacing="-3" text="REMOVE ADS"/>
+    <text id="n25_h3s9" name="n25" xy="244,747" size="591,36" group="n34_h3s9" font="ui://gasy8a7fn4ah2m" fontSize="26" color="#ffffff" text="You will still be able to watch to earn enter reward"/>
+    <image id="n27_h3s9" name="n27" src="r1zk1q" fileName="Res/标题底板.png" pkg="gasy8a7f" xy="260,398" size="560,109" group="n34_h3s9" aspect="true"/>
+    <text id="n28_h3s9" name="n28" xy="476,414" size="128,62" group="n34_h3s9" font="ui://gasy8a7fn4ah2m" fontSize="46" color="#4867d1" letterSpacing="-3" text="STORE"/>
+    <text id="n31_h3s9" name="n31" xy="899,301" size="48,95" group="n34_h3s9" font="ui://gasy8a7fn4ah2m" fontSize="73" color="#ffffff" text="X"/>
+    <group id="n34_h3s9" name="n34" xy="105,301" size="870,1341" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false" designImage="ui://zpr8x2apinha0" designImageAlpha="0" designImageLayer="1">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <text id="n26_p6g6" name="n22" xy="608,356" pivot="0,1" anchor="true" size="229,118" group="n10_inha" font="ui://gasy8a7fn4ah2m" fontSize="91" color="#ffffff" vAlign="middle" text="12144">
+      <relation target="n29_gvwb" sidePair=""/>
+    </text>
+    <component id="n11_inha" name="n11" src="inhah" fileName="Entity/Btn_JigReset.xml" xy="798,1520" group="n15_inha"/>
+    <component id="n12_inha" name="n12" src="inhai" fileName="Entity/Btn_JigHelp.xml" xy="53,1520" group="n15_inha"/>
+    <group id="n15_inha" name="n15" xy="53,1520" size="945,150" group="n10_inha" advanced="true"/>
+    <text id="n27_o2nz" name="n23" xy="499,181" pivot="0.5,0.5" size="78,42" group="n10_inha" font="ui://zpr8x2apj79016" fontSize="30" align="center" vAlign="middle" text="第1关"/>
+    <image id="n29_gvwb" name="n29" src="r1zk35" fileName="Res/level.png" pkg="gasy8a7f" xy="391,273" group="n10_inha"/>
+    <group id="n10_inha" name="n10" xy="53,181" size="945,1489" advanced="true">
+      <relation target="" sidePair="top-top%"/>
+    </group>
+    <component id="n30_h3s9" name="GuideUI_4" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+</component>

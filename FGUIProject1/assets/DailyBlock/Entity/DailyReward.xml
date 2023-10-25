@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="386,422">
+  <controller name="界面控制" pages="0,Main,2,Daily,1,Event" selected="0"/>
+  <controller name="trophy" pages="0,light,1,gary" selected="1"/>
+  <displayList>
+    <loader id="n43_p8me" name="n43" xy="0,0" size="276,302" aspect="true" scale="1.4,1.4" url="ui://br5vvhb9p8mem" align="center" vAlign="middle">
+      <gearDisplay controller="trophy" pages="0"/>
+    </loader>
+    <loader id="n44_rlu9" name="n44" xy="0,0" size="276,302" aspect="true" scale="1.4,1.4" url="ui://br5vvhb9p8men" align="center" vAlign="middle">
+      <gearDisplay controller="trophy" pages="1"/>
+    </loader>
+  </displayList>
+</component>

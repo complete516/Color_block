@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="87gbetfg">
+  <resources>
+    <component id="dbiqb" name="ColorRollView.xml" path="/Entity/" exported="true"/>
+    <image id="dbiqc" name="章节选择.png" path="/Res/"/>
+    <image id="dbiqd" name="等级槽.png" path="/Res/" scale="9grid" scale9grid="101,26,202,52"/>
+    <image id="dbiqf" name="按钮.png" path="/Res/"/>
+    <image id="dbiqg" name="设置.png" path="/Res/"/>
+    <image id="dbiqj" name="提示.png" path="/Res/"/>
+    <image id="dbiqk" name="重置.png" path="/Res/"/>
+    <image id="dbiql" name="飞书20220613-171007.jpg" path="/Res/"/>
+    <image id="nv0bn" name="目标图底板.png" path="/Res/"/>
+    <component id="ejtoo" name="Component1.xml" path="/Entity/"/>
+    <image id="ejtop" name="lightc.png" path="/Res/"/>
+    <image id="ejtoq" name="lihtx.png" path="/Res/"/>
+  </resources>
+  <publish name="" path="..\project\assets\ColorRollBundle\UI" packageCount="2"/>
+</packageDescription>

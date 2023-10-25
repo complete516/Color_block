@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="qb8erzpk">
+  <resources>
+    <component id="c8nj0" name="DailyEndingView.xml" path="/Entity/" exported="true"/>
+    <component id="c8nj8" name="RestartBtn.xml" path="/Entity/"/>
+    <component id="c8nja" name="FinishBar.xml" path="/Entity/"/>
+    <component id="c8njb" name="DailyBackBtn.xml" path="/Entity/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" pivot="0.5,0.5" mask="n0_pua3" reversedMask="true" bgColor="#006600">
+  <displayList>
+    <graph id="n0_pua3" name="n0" xy="873,1185" size="200,200" type="rect" fillColor="#ff000000">
+      <relation target="" sidePair="top-top"/>
+    </graph>
+    <graph id="n1_pua3" name="n1" xy="0,0" pivot="0.5,0.5" size="1080,1920" type="rect" fillColor="#7f333333">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+  </displayList>
+</component>

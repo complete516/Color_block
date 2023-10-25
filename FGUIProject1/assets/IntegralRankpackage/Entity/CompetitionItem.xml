@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="924,178">
+  <controller name="c1" pages="0,first,1,second,2,third,3,self,4,other" selected="4"/>
+  <controller name="c2" alias="bg" pages="0,first,1,second,2,third,3,self,4,other1,6,other2" selected="0"/>
+  <displayList>
+    <image id="n10_on0b" name="n10" src="on0be" fileName="Res/top.png" xy="0,0"/>
+    <image id="n69_on0b" name="n69" src="on0b3" fileName="Res/mid02.png" xy="0,0">
+      <gearDisplay controller="c2" pages="0,2,4"/>
+    </image>
+    <image id="n62_on0b" name="n62" src="on0b4" fileName="Res/mid01.png" xy="0,0">
+      <gearDisplay controller="c2" pages="1,6"/>
+    </image>
+    <image id="n17_on0b" name="n17" src="on0bp" fileName="Res/分数板01.png" xy="595,62">
+      <gearDisplay controller="c2" pages="0,2,4"/>
+    </image>
+    <image id="n66_on0b" name="n66" src="on0bd" fileName="Res/特殊mid.png" xy="-27,-5">
+      <gearDisplay controller="c2" pages="3"/>
+    </image>
+    <image id="n61_on0b" name="n61" src="on0bo" fileName="Res/分数板02.png" xy="595,62">
+      <gearDisplay controller="c2" pages="1,6"/>
+    </image>
+    <image id="n65_on0b" name="n65" src="on0bn" fileName="Res/分数板03.png" xy="595,62">
+      <gearDisplay controller="c2" pages="3"/>
+    </image>
+    <text id="n43_on0b" name="n43" xy="601,65" size="124,51" font="ui://r1nmkmgmon0bx" fontSize="33" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="99999">
+      <gearDisplay controller="c1" pages="0,1,2,3,4,5"/>
+    </text>
+    <text id="n64_on0b" name="n64" xy="269,43" size="259,96" font="ui://r1nmkmgmon0bx" fontSize="46" align="center" vAlign="middle" autoSize="none" bold="true" text="Angry dog">
+      <gearDisplay controller="c1" pages="0,1,2,3,4,5"/>
+    </text>
+    <image id="n34_on0b" name="n34" src="on0bl" fileName="Res/光.png" xy="745,0" pivot="0.5,0.5" size="172,173" aspect="true">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+    </image>
+    <image id="n1_on0b" name="n1" src="on0bi" fileName="Res/金色星星.png" xy="31,58">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n60_on0b" name="n60" src="on0ba" fileName="Res/银色星星.png" xy="31,58">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n71_on0b" name="n71" src="on0bb" fileName="Res/铜色星星.png" xy="31,58">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <image id="n2_on0b" name="n2" src="on0bh" fileName="Res/礼包01.png" xy="780,36">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n58_on0b" name="n58" src="on0bg" fileName="Res/礼包02.png" xy="780,42">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n72_on0b" name="n72" src="on0bs" fileName="Res/礼包03.png" xy="780,47">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <text id="n74_on0b" name="n74" xy="31,59" size="73,64" font="ui://r1nmkmgmon0bx" fontSize="48" color="#ffffff" align="center" autoSize="none" bold="true" text="99">
+      <gearDisplay controller="c1" pages="3,4,5"/>
+    </text>
+    <image id="n75_on0b" name="n75" src="on0bk" fileName="Res/金币.png" xy="757,61">
+      <gearDisplay controller="c1" pages="3,4,5"/>
+    </image>
+    <text id="n76_on0b" name="n76" xy="834,67" size="72,42" font="ui://r1nmkmgmon0bx" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="x100">
+      <gearDisplay controller="c1" pages="3,4,5"/>
+    </text>
+    <image id="n85_on0b" name="n85" src="on0b12" fileName="Res/分割线.png" xy="749,26">
+      <gearDisplay controller="c1" pages="0,1,2,3,4,5"/>
+    </image>
+    <loader id="n90_h1zx" name="n90" xy="118,12" size="250,250" aspect="true" scale="0.55,0.55" url="ui://gtlknu5kmwyg1g" align="center" vAlign="middle" fill="scale" clearOnPublish="true"/>
+    <component id="n91_kizd" name="n86" src="xz4p2e" fileName="Entity/HeardFrame.xml" pkg="gs6o3ix6" xy="-69,-168" pivot="0.5,0.5" scale="0.3,0.3"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n34_on0b" tween="true" startValue="0" endValue="360" duration="24" ease="Linear"/>
+  </transition>
+</component>

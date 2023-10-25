@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="t24hgpw0">
+  <resources>
+    <image id="iira0" name="freegift.png" path="/Res/"/>
+    <image id="iira1" name="watchvedio.png" path="/Res/"/>
+    <image id="iira2" name="按钮.png" path="/Res/"/>
+    <image id="iira3" name="背景光.png" path="/Res/"/>
+    <image id="iira5" name="弹窗看广告.jpg" path="/Res/"/>
+    <image id="iira6" name="底板.png" path="/Res/"/>
+    <image id="iira7" name="关闭.png" path="/Res/"/>
+    <image id="iira8" name="礼包.png" path="/Res/"/>
+    <component id="iira9" name="WatchAdView.xml" path="/Entity/" exported="true"/>
+    <component id="iirab" name="watch.xml" path="/Entity/"/>
+    <image id="iirac" name="播放.png" path="/Res/" exported="true"/>
+    <component id="iirad" name="close.xml" path="/Entity/"/>
+    <component id="iirae" name="winds.xml" path="/Entity/"/>
+    <image id="qjivh" name="n12.png" path="/"/>
+    <image id="qjivj" name="n12(1).png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

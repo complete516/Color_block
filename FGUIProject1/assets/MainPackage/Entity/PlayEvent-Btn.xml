@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,500" extention="Button">
+  <controller name="button" pages="4,1,5,2" selected="0"/>
+  <displayList/>
+  <Button mode="Radio"/>
+</component>

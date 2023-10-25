@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,110" extention="Button">
+  <controller name="c1" pages="0,up,1,down" selected="0"/>
+  <displayList/>
+  <Button/>
+</component>

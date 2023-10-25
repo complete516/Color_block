@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1000">
+  <displayList>
+    <component id="n0_ei17" name="n0" src="p8me1a" fileName="Entity/DailyReward.xml" xy="539,211" pivot="0.5,0.5" anchor="true" pkg="br5vvhb9"/>
+  </displayList>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="d6jg1khq">
+  <resources>
+    <component id="pm0y0" name="BufferGuide.xml" path="/Entity/" exported="true"/>
+    <image id="pm0y1" name="99da1825676ae773e3ad531e27a3ded.png" path="/Res/"/>
+    <image id="pm0y2" name="5d4399f29e9c303fcc8fca110e69a2a.png" path="/Res/"/>
+    <image id="pm0y3" name="a4b762c9b62c725d2966e69049655e1.png" path="/Res/"/>
+    <component id="pm0y5" name="99Guide.xml" path="/Entity/" exported="true"/>
+    <image id="pm0y6" name="7e2a71240fb23db2806112d73078154.png" path="/Res/"/>
+    <image id="pm0y7" name="fdade36d86e858df49ab4dad3920b2f.png" path="/Res/"/>
+    <component id="pm0yb" name="OK_Btn.xml" path="/Entity/"/>
+    <component id="pm0yc" name="NumberedBlockGuide.xml" path="/Entity/" exported="true"/>
+    <component id="pm0yd" name="EventGuide.xml" path="/Entity/" exported="true"/>
+    <component id="pm0yf" name="EndlessGuide.xml" path="/Entity/" exported="true"/>
+    <component id="pm0yg" name="BestScore2.xml" path="/Entity/" exported="true"/>
+    <component id="pm0yh" name="RankGuide.xml" path="/Entity/" exported="true"/>
+    <image id="pm0yi" name="s12_1.png" path="/Res/"/>
+    <image id="pm0yj" name="s12_2.png" path="/Res/"/>
+    <image id="pm0yk" name="s12_3.png" path="/Res/"/>
+    <image id="pm0yl" name="s13_2.png" path="/Res/"/>
+    <image id="pm0ym" name="s13_3.png" path="/Res/"/>
+    <image id="pm0yn" name="s1_3.png" path="/Res/"/>
+    <image id="pm0yo" name="s13_1.png" path="/Res/"/>
+    <image id="pm0yp" name="s1_1.png" path="/Res/"/>
+    <image id="pm0yq" name="s1_2.png" path="/Res/"/>
+    <component id="dkkar" name="JigsawGuide.xml" path="/Entity/" exported="true"/>
+    <component id="dkkas" name="ColorRollGuide.xml" path="/Entity/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

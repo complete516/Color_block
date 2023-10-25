@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImage="ui://kiodpbexcbzx2m" designImageAlpha="0" designImageLayer="1">
+  <controller name="c1" pages="0,Close,1,open,2,Finish" selected="0"/>
+  <displayList>
+    <loader id="n31_jxmz" name="BG" xy="0,0" size="1080,1920" fill="scaleFree"/>
+    <image id="n25_cbzx" name="n25" src="cbzx2o" fileName="Res/BTB.png" xy="236,229" group="n10_ibud"/>
+    <component id="n0_ibud" name="n0" src="ibudw" fileName="Entity/Help_Btn.xml" xy="951,258" size="70,70" group="n10_ibud">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <text id="n1_ibud" name="Title_Text" xy="543,275" pivot="0.5,0.5" anchor="true" size="380,93" group="n10_ibud" font="ui://gasy8a7fn4ah2m" fontSize="71" color="#5869d0" align="center" vAlign="middle" letterSpacing="-2" text="Father&apos;s Day"/>
+    <component id="n8_ibud" name="n8" src="ibud1o" fileName="Entity/Time.xml" pkg="gwz96r4b" xy="532,358" pivot="0.5,0.5" anchor="true" group="n10_ibud" scale="1.5,1.5"/>
+    <group id="n10_ibud" name="n10" xy="236,228" size="785,170" advanced="true">
+      <relation target="" sidePair="width-width,height-height,center-center"/>
+    </group>
+    <text id="n11_ibud" name="Number_Text" xy="1021,451" pivot="1,1" anchor="true" size="90,62" group="n19_ibud" font="ui://gasy8a7fn4ah2m" fontSize="46" color="#5869d0" align="right" vAlign="middle" letterSpacing="-2" text="11/16">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <image id="n12_ibud" name="n12" src="l8b7j" fileName="Res/tupiantubiao.png" xy="815,390" group="n19_ibud">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <group id="n19_ibud" name="n19" xy="815,389" size="206,65" advanced="true">
+      <relation target="n20_ibud" sidePair="bottom-top"/>
+    </group>
+    <list id="n20_ibud" name="n20" xy="41,467" size="997,1009" layout="pagination" overflow="scroll" scroll="horizontal" scrollBarFlags="8" align="center" vAlign="middle">
+      <relation target="" sidePair="width-width,center-center"/>
+      <item url="ui://kiodpbexibudv"/>
+      <item url="ui://kiodpbexpt732l"/>
+      <item url="ui://kiodpbexl8b7t"/>
+    </list>
+    <component id="n15_ibud" name="n15" src="ibud10" fileName="Entity/Play_Btn.xml" xy="296,1520" size="488,145" group="n23_in7y"/>
+    <image id="n26_r1zk" name="n26" src="r1zk2s" fileName="Res/Active Postcard.png" xy="360,1573" pivot="0.5,0.5" size="360,49" group="n23_in7y" aspect="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n24_cbzx" name="n24" src="r1zk32" fileName="Res/play.png" pkg="gasy8a7f" xy="446,1564" group="n23_in7y">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n30_r1zk" name="n30" src="r1zk3c" fileName="Res/Finish.png" pkg="gasy8a7f" xy="446,1565" size="188,65" group="n23_in7y" aspect="true">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <group id="n23_in7y" name="n23" xy="296,1520" size="488,145" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n33_h3s9" name="GuideUI_5" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+</component>

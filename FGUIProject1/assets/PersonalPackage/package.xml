@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="t8s4ezh4">
+  <resources>
+    <image id="hg870" name="personaldata.png" path="/Res/"/>
+    <image id="hg871" name="标题板.png" path="/Res/"/>
+    <image id="hg872" name="分割线.png" path="/Res/"/>
+    <image id="hg873" name="随机.png" path="/Res/"/>
+    <image id="hg874" name="随机底板.png" path="/Res/"/>
+    <image id="hg875" name="随机栏.png" path="/Res/"/>
+    <image id="hg876" name="姓名栏.png" path="/Res/"/>
+    <image id="hg877" name="底板.png" path="/Res/"/>
+    <image id="hg878" name="确认按钮.png" path="/Res/"/>
+    <image id="hg87b" name="个人资料示意图01.jpg" path="/Design/"/>
+    <image id="hg87c" name="个人资料示意图02.jpg" path="/Design/"/>
+    <component id="hg87d" name="PersonalView.xml" path="/Entity/" exported="true"/>
+    <component id="hg87e" name="RandomBth.xml" path="/Entity/"/>
+    <component id="hg87q" name="PersonaCom.xml" path="/Entity/"/>
+    <image id="hg87r" name="头像底.png" path="/Res/"/>
+    <image id="hg87s" name="未选择底.png" path="/Res/"/>
+    <component id="hg87u" name="OKBth.xml" path="/Entity/"/>
+    <component id="mwygv" name="Headitem.xml" path="/Entity/"/>
+    <image id="vp2dw" name="选择页01(1).png" path="/Res/"/>
+    <image id="vp2dx" name="选择页02(1).png" path="/Res/"/>
+    <image id="vp2dy" name="选择页03.png" path="/Res/"/>
+    <component id="vp2dz" name="Frame.xml" path="/Entity/"/>
+    <image id="vp2d10" name="01黄金.png" path="/Res/"/>
+    <image id="vp2d11" name="02白银.png" path="/Res/"/>
+    <image id="vp2d12" name="03青铜.png" path="/Res/"/>
+    <image id="vp2d13" name="基本款01.png" path="/Res/"/>
+    <image id="vp2d14" name="基本款02.png" path="/Res/"/>
+    <image id="vp2d15" name="基本款03.png" path="/Res/"/>
+    <image id="vp2d16" name="基本款04.png" path="/Res/"/>
+    <image id="vp2d17" name="基本款05.png" path="/Res/"/>
+    <image id="vp2d18" name="基本款06.png" path="/Res/"/>
+    <image id="vp2d1b" name="底板(2).png" path="/Res/"/>
+    <image id="vp2d1c" name="圆框.png" path="/Res/"/>
+    <image id="vp2d1d" name="个人资料示意图03.jpg" path="/Res/"/>
+    <component id="ljuz1h" name="PagBth.xml" path="/Entity/"/>
+    <component id="ljuz1i" name="NameBtnitem.xml" path="/Entity/"/>
+    <image id="ljuz1j" name="选中框(1).png" path="/Res/"/>
+    <image id="qxdo1k" name="选中框.png" path="/Res/"/>
+    <image id="gspc1m" name="圆框.png" path="/Entity/"/>
+    <image id="gspc1n" name="头像比例图(1).png" path="/Entity/"/>
+    <image id="gspc1o" name="头像比例图.png" path="/Entity/"/>
+    <image id="gspc1p" name="未选择底.png" path="/Entity/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

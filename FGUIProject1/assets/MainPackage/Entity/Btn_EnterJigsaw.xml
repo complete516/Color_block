@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,192" extention="Button">
+  <controller name="RedPoint" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n6_m0yr" name="n6" src="s1uj3h" fileName="Res/按钮白.png" xy="120,2"/>
+    <image id="n11_s1uj" name="n11" src="s1uj3g" fileName="Res/进度框.png" xy="606,17"/>
+    <text id="n9_m0yr" name="n9" xy="302,38" pivot="0.5,0" size="190,73" font="ui://gasy8a7fn4ah2m" fontSize="55" color="#4f4992" align="center" vAlign="middle" text="JIGSAW"/>
+    <loader id="n10_m0yr" name="n10" xy="1,0" size="200,176" url="ui://gwz96r4bm0yr2z" autoSize="true"/>
+    <text id="n12_s1uj" name="Best" xy="667,21" pivot="0.5,0" size="60,35" font="ui://gasy8a7fn4ah2m" fontSize="25" color="#ffffff" align="center" vAlign="middle" text="BEST"/>
+    <text id="n13_s1uj" name="BestText" xy="648,69" pivot="0.5,0" size="106,60" font="ui://gasy8a7fn4ah2m" fontSize="45" color="#ffffff" align="center" vAlign="middle" text="BEST"/>
+  </displayList>
+  <Button/>
+</component>

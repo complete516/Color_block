@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,64">
+  <controller name="c1" pages="9,0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9" selected="9"/>
+  <displayList>
+    <image id="n1_mwyg" name="n1" src="tjqt0" fileName="Res/0.png" xy="2,1">
+      <gearDisplay controller="c1" pages="9"/>
+    </image>
+    <image id="n0_mwyg" name="n0" src="tjqte" fileName="Res/1.png" xy="10,1">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n2_mwyg" name="n2" src="tjqtd" fileName="Res/2.png" xy="5,1">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n3_mwyg" name="n3" src="tjqtc" fileName="Res/3.png" xy="4,1">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <image id="n4_mwyg" name="n4" src="tjqtb" fileName="Res/4.png" xy="1,1">
+      <gearDisplay controller="c1" pages="3"/>
+    </image>
+    <image id="n5_mwyg" name="n5" src="tjqta" fileName="Res/5.png" xy="5,2">
+      <gearDisplay controller="c1" pages="4"/>
+    </image>
+    <image id="n6_mwyg" name="n6" src="tjqt9" fileName="Res/6.png" xy="3,1">
+      <gearDisplay controller="c1" pages="5"/>
+    </image>
+    <image id="n7_mwyg" name="n7" src="tjqtf" fileName="Res/7.png" xy="4,2">
+      <gearDisplay controller="c1" pages="6"/>
+    </image>
+    <image id="n8_mwyg" name="n8" src="tjqt8" fileName="Res/8.png" xy="3,1">
+      <gearDisplay controller="c1" pages="7"/>
+    </image>
+    <image id="n9_mwyg" name="n9" src="tjqt6" fileName="Res/9.png" xy="3,1">
+      <gearDisplay controller="c1" pages="8"/>
+    </image>
+  </displayList>
+</component>

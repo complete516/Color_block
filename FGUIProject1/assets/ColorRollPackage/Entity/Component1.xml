@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="249,317" overflow="hidden">
+  <displayList>
+    <image id="n0_ejto" name="n0" src="nv0bn" fileName="Res/目标图底板.png" xy="26,38" pivot="0.5,0.5" scale="1.3,1.3"/>
+    <loader id="n1_ejto" name="n1" xy="26,84" pivot="0.5,0.5" size="197,197" align="center" vAlign="middle" fill="scale"/>
+    <image id="n3_ejto" name="n3" src="ejtoq" fileName="Res/lihtx.png" xy="-223,46" size="189,266"/>
+    <image id="n2_ejto" name="n2" src="ejtop" fileName="Res/lightc.png" xy="-298,54" size="265,257"/>
+  </displayList>
+  <transition name="light_c">
+    <item time="0" type="XY" target="n2_ejto" tween="true" startValue="-289,54.5" endValue="252,54" duration="12" ease="Linear"/>
+  </transition>
+  <transition name="light_x">
+    <item time="0" type="Rotation" target="n3_ejto" value="3"/>
+    <item time="0" type="XY" target="n3_ejto" tween="true" startValue="-235.5,46" endValue="248,46" duration="12" ease="Linear"/>
+    <item time="12" type="Rotation" target="n3_ejto" value="3"/>
+  </transition>
+</component>

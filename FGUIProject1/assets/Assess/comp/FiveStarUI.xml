@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImage="ui://eyw0dwl3xc2i0" designImageLayer="1">
+  <displayList>
+    <graph id="n1_xc2i" name="bg1111" xy="0,0" size="1080,1920" type="rect" lineSize="0" lineColor="#99080e1d" fillColor="#99080e1d">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n2_xc2i" name="AnimCom" src="xc2ib" fileName="comp/animComp.xml" xy="82,433">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+  </displayList>
+</component>

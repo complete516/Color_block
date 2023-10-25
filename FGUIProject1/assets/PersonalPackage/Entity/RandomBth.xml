@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="54,54" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="1"/>
+  <displayList>
+    <image id="n0_hg87" name="n0" src="hg873" fileName="Res/随机.png" xy="0,0">
+      <gearDisplay controller="button" pages="0,1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_ljuz" name="n1" src="iirac" fileName="Res/播放.png" pkg="t24hgpw0" xy="24,38" size="28,27" aspect="true" rotation="-22">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

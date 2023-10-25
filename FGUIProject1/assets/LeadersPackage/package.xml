@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="k054lrow">
+  <resources>
+    <component id="mztw0" name="LeagerView.xml" path="/Entity/" exported="true"/>
+    <component id="mztw4" name="Points_Btn.xml" path="/Entity/"/>
+    <component id="mztw5" name="Square_Btn.xml" path="/Entity/"/>
+    <image id="m6bng" name="jingpai.png" path="/Res/" exported="true"/>
+    <image id="m6bnh" name="tab1.png" path="/Res/" exported="true" scale="9grid" scale9grid="26,19,222,38"/>
+    <image id="m6bnj" name="tongpai.png" path="/Res/" exported="true"/>
+    <image id="m6bnl" name="xian2.png" path="/Res/" exported="true"/>
+    <image id="m6bnm" name="yinpai.png" path="/Res/" exported="true"/>
+    <image id="m6bnn" name="挑战界面.png" path="/Design/"/>
+    <component id="d7imv" name="OK.xml" path="/Entity/"/>
+    <component id="d7imw" name="Cancel.xml" path="/Entity/"/>
+    <component id="nu9411" name="Login.xml" path="/Entity/"/>
+    <image id="gfed13" name="后退红.png" path="/Res/"/>
+    <image id="gfed14" name="后退绿.png" path="/Res/"/>
+    <image id="gfed15" name="大隔断红.png" path="/Res/"/>
+    <image id="gfed16" name="大隔断绿.png" path="/Res/"/>
+    <image id="gfed17" name="小隔断红.png" path="/Res/"/>
+    <image id="gfed18" name="小隔断绿.png" path="/Res/"/>
+    <image id="gfed19" name="榜1.png" path="/Res/"/>
+    <image id="gfed1a" name="榜2.png" path="/Res/"/>
+    <image id="gfed1b" name="榜3.png" path="/Res/"/>
+    <image id="gfed1c" name="榜n.png" path="/Res/"/>
+    <image id="gfed1d" name="版头红.png" path="/Res/"/>
+    <image id="gfed1e" name="版头绿.png" path="/Res/"/>
+    <image id="gfed1f" name="登录谷歌账号.png" path="/Res/"/>
+    <image id="gfed1g" name="选中框.png" path="/Res/"/>
+    <image id="gfed1h" name="选项底红.png" path="/Res/" scale="9grid" scale9grid="20,22,14,13"/>
+    <image id="gfed1i" name="选项底绿.png" path="/Res/" scale="9grid" scale9grid="18,18,20,17"/>
+    <image id="gfed1j" name="选项白.png" path="/Res/" scale="9grid" scale9grid="20,18,13,18"/>
+    <image id="gfed1k" name="飞书20220601-175141.jpg" path="/Design/"/>
+    <component id="soac1q" name="RankItem.xml" path="/Entity/" exported="true"/>
+    <image id="soac1r" name="微信图片_20220602180558.png" path="/Res/"/>
+    <image id="soac1s" name="paihang_diban.png" path="/Res/"/>
+    <image id="soac1t" name="paihang_xing.png" path="/Res/"/>
+    <image id="soac1u" name="paihang_zuanshi.png" path="/Res/"/>
+    <image id="ho9b1v" name="1.png" path="/Res/"/>
+    <image id="ho9b1w" name="2.png" path="/Res/"/>
+    <image id="ho9b1x" name="3.png" path="/Res/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

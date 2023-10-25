@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="883,1009" designImage="ui://n3hyo01hin7y0" designImageOffsetX="-1" designImageOffsetY="-187" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <graph id="n10_lsid" name="n10" xy="-91,-495" pivot="0.5,0.5" size="1080,2000" alpha="0.6" type="rect" lineColor="#ff090909" fillColor="#99000000">
+      <relation target="" sidePair="width-width"/>
+    </graph>
+    <image id="n2_in7y" name="n2" src="hgs2e" fileName="Res/shijiankuang.png" pkg="gasy8a7f" xy="0,-9" size="889,1040"/>
+    <image id="n19_r1zk" name="n19" src="r1zk1q" fileName="Res/标题底板.png" pkg="gasy8a7f" xy="161,19" size="560,109" aspect="true"/>
+    <text id="n3_in7y" name="n3" xy="443,65" pivot="0.5,0.5" anchor="true" size="452,69" font="ui://gasy8a7fn4ah2m" fontSize="52" color="#5869d0" align="center" vAlign="middle" letterSpacing="-2" text="Welcome Challenges">
+      <relation target="n2_in7y" sidePair="center-center,top-top"/>
+    </text>
+    <component id="n4_in7y" name="n4" src="11wao8" fileName="Entity/Page.xml" xy="396,785">
+      <relation target="n2_in7y" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n9_in7y" name="n9" src="in7yc" fileName="Entity/Guide_Btn.xml" pkg="gasy8a7f" xy="256,860">
+      <relation target="n2_in7y" sidePair="bottom-bottom"/>
+    </component>
+    <list id="n11_11wao" name="n11" xy="442,519" pivot="0.5,0.5" anchor="true" size="900,775" touchable="false" layout="flow_vt" overflow="scroll" scroll="horizontal" scrollBarFlags="2056" margin="-221,0,0,0" lineItemCount="1" align="center" vAlign="middle">
+      <item url="ui://sii9xerc11wao3"/>
+      <item url="ui://sii9xerc11wao4"/>
+      <item url="ui://sii9xerc11wao5"/>
+    </list>
+  </displayList>
+</component>

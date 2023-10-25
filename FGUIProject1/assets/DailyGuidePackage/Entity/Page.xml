@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="91,20">
+  <controller name="c1" pages="0,1,1,2,2,3" selected="1"/>
+  <displayList>
+    <image id="n4_in7y" name="n4" src="in7y5" fileName="Res/weixuanzhong-ye.png" xy="36,0" pkg="gasy8a7f">
+      <gearDisplay controller="c1" pages="0,2"/>
+    </image>
+    <image id="n5_in7y" name="n5" src="in7y5" fileName="Res/weixuanzhong-ye.png" xy="71,0" pkg="gasy8a7f">
+      <gearDisplay controller="c1" pages="0,1"/>
+    </image>
+    <image id="n6_in7y" name="n6" src="in7y5" fileName="Res/weixuanzhong-ye.png" xy="0,0" pkg="gasy8a7f">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </image>
+    <image id="n7_in7y" name="n7" src="in7y6" fileName="Res/xuanzhong-ye.png" xy="36,0" pkg="gasy8a7f">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n8_in7y" name="n8" src="in7y6" fileName="Res/xuanzhong-ye.png" xy="71,0" pkg="gasy8a7f">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <image id="n9_in7y" name="n9" src="in7y6" fileName="Res/xuanzhong-ye.png" xy="0,0" pkg="gasy8a7f">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+  </displayList>
+</component>

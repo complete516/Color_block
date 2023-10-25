@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" bgColor="#333333">
+  <displayList>
+    <graph id="n1_vwtf" name="n1" xy="-334,-520" size="1791,2651" type="rect" fillColor="#99333333">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <image id="n0_vwtf" name="n0" src="vwtf1g" fileName="Res/6f91107d40b2919f1803609a250a1f3.png" xy="219,698" group="n3_vwtf"/>
+    <component id="n2_vwtf" name="n2" src="vwtf1i" fileName="Entity/Got it.xml" xy="440,1095" group="n3_vwtf"/>
+    <group id="n3_vwtf" name="n3" xy="219,698" size="668,568" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

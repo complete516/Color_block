@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gtlknu5k">
+  <resources>
+    <image id="mwyg1e" name="1001.png" path="/Res/" exported="true"/>
+    <image id="mwyg1f" name="1002.png" path="/Res/" exported="true"/>
+    <image id="mwyg1g" name="1003.png" path="/Res/" exported="true"/>
+    <image id="mwyg1h" name="1004.png" path="/Res/" exported="true"/>
+    <image id="mwyg1i" name="1005.png" path="/Res/" exported="true"/>
+    <image id="mwyg1j" name="1006.png" path="/Res/" exported="true"/>
+    <image id="mwyg1k" name="1007.png" path="/Res/" exported="true"/>
+    <image id="mwyg1l" name="1008.png" path="/Res/" exported="true"/>
+    <image id="mwyg1m" name="1009.png" path="/Res/" exported="true"/>
+    <image id="q3ig1n" name="1010.png" path="/Res/" exported="true"/>
+    <image id="q3ig1o" name="1011.png" path="/Res/" exported="true"/>
+    <image id="q3ig1p" name="1012.png" path="/Res/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

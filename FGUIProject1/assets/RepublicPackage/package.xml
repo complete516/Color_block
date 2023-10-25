@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gasy8a7f">
+  <resources>
+    <component id="hgs22" name="SetBtn.xml" path="/Entity/" exported="true"/>
+    <image id="hgs2d" name="jiangbei.png" path="/Res/" exported="true"/>
+    <image id="p8meo" name="每日挑战进度条填充.png" path="/Res/" exported="true"/>
+    <image id="hgs21" name="anniu1.png" path="/Res/" exported="true" scale="9grid" scale9grid="77,37,704,74"/>
+    <image id="c8njp" name="fanhui.png" path="/Res/" exported="true"/>
+    <image id="c8njq" name="sz.png" path="/Res/" exported="true"/>
+    <image id="ctrws" name="line_star.png" path="/Res/" exported="true"/>
+    <image id="ibudt" name="fenzhen.png" path="/Res/" exported="true"/>
+    <image id="ibudu" name="shijian.png" path="/Res/" exported="true"/>
+    <image id="ibudv" name="anniu2.png" path="/Res/" exported="true"/>
+    <image id="rc091v" name="jing.png" path="/Res/" exported="true"/>
+    <image id="rc091w" name="tong.png" path="/Res/" exported="true"/>
+    <image id="rc091x" name="yin.png" path="/Res/" exported="true"/>
+    <image id="lsidz" name="img_hand.png" path="/Res/" exported="true"/>
+    <component id="c8nj7" name="ContinueBtn.xml" path="/Entity/" exported="true"/>
+    <image id="hgs2i" name="tiaozhankuang.png" path="/Res/" exported="true" scale="9grid" scale9grid="134,159,268,318"/>
+    <component id="xooj1y" name="WhiteView.xml" path="/Entity/" exported="true"/>
+    <image id="in7y2" name="mianban-yindao.png" path="/Res/" exported="true" scale="9grid" scale9grid="192,273,384,184"/>
+    <image id="k7hfu" name="zhidaokuang.png" path="/Res/" exported="true" scale="9grid" scale9grid="64,64,128,128"/>
+    <image id="in7y5" name="weixuanzhong-ye.png" path="/Res/" exported="true"/>
+    <image id="in7y6" name="xuanzhong-ye.png" path="/Res/" exported="true"/>
+    <component id="in7yc" name="Guide_Btn.xml" path="/Entity/" exported="true"/>
+    <component id="mwlh27" name="GreyView.xml" path="/Entity/" exported="true"/>
+    <component id="ibudx" name="Back_Btn.xml" path="/Entity/" exported="true"/>
+    <component id="bgew2c" name="RewardBtn.xml" path="/Entity/" exported="true"/>
+    <component id="liubb" name="MainBtn.xml" path="/Entity/" exported="true"/>
+    <component id="bgew2d" name="LevelBtn.xml" path="/Entity/" exported="true"/>
+    <component id="bgew2e" name="NextLevelBtn.xml" path="/Entity/" exported="true"/>
+    <component id="pm0y2f" name="Main_Btn.xml" path="/Entity/" exported="true"/>
+    <image id="pm0y9" name="60ba180794600cf29ed9628c0201f70.png" path="/Res/" exported="true"/>
+    <image id="pm0ya" name="d50da6d122379a2d6d352de9df224d8.png" path="/Res/" exported="true"/>
+    <image id="pm0y8" name="e6ca941387ef855e482c87ef1f13ab0.png" path="/Res/" exported="true"/>
+    <image id="gfed2k" name="middle_img_v2_4fc9e506-ead2-4fc2-a165-95b81ec074fg.png" path="/Res/" exported="true"/>
+    <component id="gfed2l" name="Back2_Btn.xml" path="/Entity/" exported="true"/>
+    <font id="n4ah2m" name="BALOO2-BOLD.TTF" path="/Res/" renderMode="" samplePointSize="16"/>
+    <image id="qsle2s" name="RedPoint.png" path="/Res/" exported="true"/>
+    <component id="inhae" name="Btn_BackHome.xml" path="/Entity/" exported="true"/>
+    <component id="gvwb1b" name="Btn_BackHomeDi.xml" path="/Entity/" exported="true"/>
+    <image id="gvwbf" name="Button_Blue.png" path="/Res/" exported="true"/>
+    <component id="inhaf" name="Btn_LevelList.xml" path="/Entity/" exported="true"/>
+    <component id="gvwb1c" name="Btn_LevelListDI.xml" path="/Entity/" exported="true"/>
+    <image id="9wq26" name="选项.png" path="/Res/" exported="true"/>
+    <image id="gvwb31" name="奖杯.png" path="/Res/"/>
+    <image id="hgs2e" name="shijiankuang.png" path="/Res/" exported="true" scale="9grid" scale9grid="219,238,234,398"/>
+    <image id="r1zk32" name="play.png" path="/Res/" exported="true"/>
+    <image id="r1zk34" name="home.png" path="/Res/"/>
+    <image id="r1zk35" name="level.png" path="/Res/" exported="true"/>
+    <image id="r1zk36" name="章节.png" path="/Res/"/>
+    <image id="r1zk38" name="红.png" path="/Res/" exported="true"/>
+    <image id="r1zk39" name="绿.png" path="/Res/" exported="true"/>
+    <image id="r1zk3a" name="蓝.png" path="/Res/" exported="true"/>
+    <image id="r1zk3b" name="黄.png" path="/Res/" exported="true"/>
+    <image id="r1zk3c" name="Finish.png" path="/Res/" exported="true"/>
+    <image id="r1zk1p" name="按钮1.png" path="/Res/" exported="true" scale="9grid" scale9grid="71,19,142,38"/>
+    <image id="r1zk1q" name="标题底板.png" path="/Res/" exported="true" scale="9grid" scale9grid="143,27,288,44"/>
+    <image id="q8952" name="Coin.png" path="/Res/" exported="true"/>
+    <component id="q8953d" name="Gold.xml" path="/Entity/" exported="true"/>
+    <image id="q895f" name="金币底.png" path="/Res/" exported="true" scale="9grid" scale9grid="55,17,110,34"/>
+    <image id="o41l3e" name="Dawn.png" path="/Res/" exported="true"/>
+    <image id="o41l3f" name="Midnight.png" path="/Res/" exported="true"/>
+    <image id="o41l3g" name="Moonriver.png" path="/Res/" exported="true"/>
+    <image id="o41l3h" name="Windmill.png" path="/Res/" exported="true"/>
+    <image id="h3s93i" name="shijiankuangpingpu.png" path="/Res/" exported="true" scale9grid="219,238,234,398"/>
+    <component id="h3s93j" name="GuideBtn.xml" path="/Entity/" exported="true"/>
+    <component id="cge5c" name="Close.xml" path="/Entity/" exported="true"/>
+    <image id="9wq27" name="遮罩.png" path="/Res/" exported="true"/>
+    <image id="mlff3k" name="购物车.png" path="/Res/"/>
+    <component id="mlff3l" name="Shop_Btn.xml" path="/Entity/" exported="true"/>
+    <image id="m40g3o" name="SummerIcon.png" path="/Res/" exported="true"/>
+    <component id="tf5i3p" name="Btn_Trophy.xml" path="/Entity/" exported="true"/>
+    <component id="tf5i3q" name="CoinItem.xml" path="/Entity/" exported="true"/>
+    <component id="rzz83r" name="NoAds.xml" path="/Entity/" exported="true"/>
+  </resources>
+  <publish name="" path="..\project\assets\FGUIPublicBundle\UI" packageCount="2"/>
+</packageDescription>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1528" designImage="ui://n3hyo01hin7y0" designImageOffsetX="-1" designImageOffsetY="-187" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n13_ft29" name="n13" src="9wq27" fileName="Res/遮罩.png" pkg="gasy8a7f" xy="0,-196">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_in7y" name="n2" src="in7y2" fileName="Res/mianban-yindao.png" pkg="gasy8a7f" xy="0,0" size="1080,1528"/>
+    <text id="n3_in7y" name="n3" xy="539,124" pivot="0.5,0.5" anchor="true" size="452,69" font="ui://gasy8a7fn4ah2m" fontSize="52" color="#ffffff" align="center" vAlign="middle" letterSpacing="-2" text="Welcome Challenges">
+      <relation target="n2_in7y" sidePair="center-center,top-top"/>
+    </text>
+    <component id="n4_in7y" name="n4" src="in7yb" fileName="Entity/Page.xml" xy="492,1190">
+      <relation target="n2_in7y" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <list id="n7_in7y" name="n7" xy="540,753" pivot="0.5,0.5" anchor="true" size="900,836" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="2056" margin="0,0,5,0" colGap="5" align="center" vAlign="middle">
+      <relation target="n2_in7y" sidePair="center-center,top-top"/>
+      <item url="ui://n3hyo01hin7y8"/>
+      <item url="ui://n3hyo01hin7y9"/>
+      <item url="ui://n3hyo01hin7ya"/>
+    </list>
+    <component id="n9_in7y" name="n9" src="in7yc" fileName="Entity/Guide_Btn.xml" pkg="gasy8a7f" xy="114,1262">
+      <relation target="n2_in7y" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n12_wriw" name="SquareAn" src="h35r19" fileName="Entity/SquareAn.xml" pkg="gt890bbw" xy="764,93" scale="0.6,0.6"/>
+  </displayList>
+</component>

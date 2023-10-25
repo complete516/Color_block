@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="y4cptdt9">
+  <resources>
+    <image id="xc2i0" name="效果图.jpg" path="/design/"/>
+    <image id="xc2i1" name="HAVING FUN.png" path="/res/"/>
+    <image id="xc2i2" name="Star.png" path="/res/"/>
+    <image id="xc2i3" name="Star02.png" path="/res/"/>
+    <image id="xc2i4" name="版头1.png" path="/res/"/>
+    <image id="xc2i5" name="版头2.png" path="/res/"/>
+    <image id="xc2i6" name="底板.png" path="/res/"/>
+    <image id="xc2i7" name="金币底.png" path="/res/"/>
+    <component id="xc2i8" name="FiveStarUI.xml" path="/comp/" exported="true"/>
+    <image id="xc2i9" name="微信图片_20220720102550.png" path="/res/" scale="9grid" scale9grid="39,35,401,72"/>
+    <component id="xc2ia" name="rateBtn.xml" path="/comp/"/>
+    <component id="xc2ib" name="animComp.xml" path="/comp/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

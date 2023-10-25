@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImageAlpha="0" designImageLayer="1">
+  <controller name="last" alias="最后一关" pages="0,,1," selected="0"/>
+  <controller name="language" alias="语言" pages="0,Cn,1,Zh" selected="0"/>
+  <displayList>
+    <image id="n0_9wq2" name="n0" src="9wq27" fileName="Res/遮罩.png" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n5_9wq2" name="n5" src="9wq29" fileName="Entity/Btn_NextLv.xml" xy="285,1535" group="n11_9wq2">
+      <gearDisplay controller="last" pages="0"/>
+    </component>
+    <image id="n6_9wq2" name="n6" src="9wq22" fileName="Res/next.png" xy="406,1579" pivot="0.5,0.5" group="n11_9wq2">
+      <gearDisplay controller="last" pages="0"/>
+      <gearDisplay2 controller="language" pages="0" condition="0"/>
+    </image>
+    <component id="n7_9wq2" name="n7" src="gvwb1c" fileName="Entity/Btn_LevelListDI.xml" pkg="gasy8a7f" xy="806,1538" group="n11_9wq2"/>
+    <component id="n8_9wq2" name="n8" src="gvwb1b" fileName="Entity/Btn_BackHomeDi.xml" pkg="gasy8a7f" xy="111,1537" group="n11_9wq2"/>
+    <image id="n23_o2nz" name="n23" src="j790d" fileName="Res/next_cn.png" xy="395,1573" group="n11_9wq2">
+      <gearDisplay controller="last" pages="0"/>
+      <gearDisplay2 controller="language" pages="1" condition="0"/>
+    </image>
+    <group id="n11_9wq2" name="Btn" xy="111,1535" size="852,161" visible="false" advanced="true">
+      <relation target="n13_9wq2" sidePair="top-bottom"/>
+    </group>
+    <image id="n3_9wq2" name="n3" src="9wq24" fileName="Res/托盘.png" xy="65,500" pivot="0.5,0.5" group="n13_9wq2"/>
+    <component id="n17_p6g6" name="Chess" src="p6g6a" fileName="Entity/Component1.xml" xy="110,539" pivot="0.5,0.5" size="860,860" group="n13_9wq2"/>
+    <group id="n13_9wq2" name="n13" xy="65,500" size="949,952" visible="false" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <image id="n1_9wq2" name="n1" src="9wq21" fileName="Res/complete.png" xy="187,359" pivot="0.5,0.5" group="n15_n4ah">
+      <gearDisplay controller="language" pages="0"/>
+    </image>
+    <text id="n24_r1zk" name="n16" xy="639,499" pivot="0,1" size="39,118" group="n15_n4ah" font="ui://gasy8a7fn4ah2m" fontSize="91" color="#ffffff" vAlign="middle" text="1">
+      <relation target="n25_r1zk" sidePair=""/>
+    </text>
+    <image id="n25_r1zk" name="n25" src="r1zk35" fileName="Res/level.png" pkg="gasy8a7f" xy="434,534" group="n15_n4ah"/>
+    <image id="n22_o2nz" name="n22" src="j790e" fileName="Res/你真棒.png" xy="203,267" group="n15_n4ah">
+      <gearDisplay controller="language" pages="1"/>
+    </image>
+    <group id="n15_n4ah" name="n15" xy="187,267" size="705,350" advanced="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </group>
+    <image id="n20_oh1l" name="n20" src="oh1lc" fileName="Res/liuguang.png" xy="48,506" pivot="0.5,1" size="66,133" visible="false" alpha="0"/>
+    <image id="n21_oh1l" name="n21" src="oh1lc" fileName="Res/liuguang.png" xy="189,362" pivot="0.5,1" size="66,133" visible="false" alpha="0" rotation="-90"/>
+    <component id="n27_h3s9" name="GuideUI_9" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <component id="n28_n9h0" name="n28" src="doffd" fileName="Entity/GetGoldView.xml" pkg="uuybwu4x" xy="0,12">
+      <relation target="n15_n4ah" sidePair="top-top"/>
+    </component>
+  </displayList>
+  <transition name="move">
+    <item time="0" type="Alpha" target="n20_oh1l" value="1"/>
+    <item time="0" type="Alpha" target="n21_oh1l" value="1"/>
+    <item time="0" type="Rotation" target="n20_oh1l" value="0"/>
+    <item time="0" type="Rotation" target="n21_oh1l" value="-90"/>
+    <item time="0" type="XY" target="n20_oh1l" tween="true" startValue="48.5,495.5" endValue="48,1283" duration="10" ease="Linear"/>
+    <item time="0" type="XY" target="n21_oh1l" tween="true" startValue="191,362" endValue="983,362" duration="10" ease="Linear"/>
+    <item time="1" type="Alpha" target="n20_oh1l" value="1"/>
+    <item time="1" type="Alpha" target="n21_oh1l" value="1"/>
+    <item time="10" type="Rotation" target="n20_oh1l" tween="true" startValue="0" endValue="-90" duration="3" ease="Linear"/>
+    <item time="10" type="Rotation" target="n21_oh1l" tween="true" startValue="-90" endValue="0" duration="3" ease="Linear"/>
+    <item time="10" type="XY" target="n20_oh1l" tween="true" startValue="48,1283" endValue="179,1271" duration="3" ease="Linear"/>
+    <item time="10" type="XY" target="n21_oh1l" tween="true" startValue="983,362" endValue="965,483" duration="3" ease="Linear"/>
+    <item time="13" type="XY" target="n20_oh1l" tween="true" startValue="179,1271" endValue="961,1271" duration="9" ease="Linear"/>
+    <item time="13" type="XY" target="n21_oh1l" tween="true" startValue="965,483" endValue="965,1247" duration="9" ease="Linear"/>
+    <item time="22" type="Alpha" target="n20_oh1l" value="1"/>
+    <item time="22" type="Alpha" target="n21_oh1l" value="1"/>
+    <item time="22" type="XY" target="n20_oh1l" tween="true" startValue="961,1271" endValue="833,1271" duration="2" ease="Linear"/>
+    <item time="22" type="XY" target="n21_oh1l" tween="true" startValue="965,1247" endValue="965,1135" duration="2" ease="Linear"/>
+    <item time="23" type="Alpha" target="n20_oh1l" value="0"/>
+    <item time="23" type="Alpha" target="n21_oh1l" value="0"/>
+    <item time="23" type="Rotation" target="n20_oh1l" value="-90"/>
+    <item time="23" type="Rotation" target="n21_oh1l" value="0"/>
+    <item time="24" type="Rotation" target="n20_oh1l" value="-270"/>
+    <item time="24" type="Rotation" target="n21_oh1l" value="-180"/>
+    <item time="25" type="XY" target="n20_oh1l" tween="true" startValue="833,1271" endValue="51,1271" duration="9" ease="Linear"/>
+    <item time="25" type="XY" target="n21_oh1l" tween="true" startValue="965,1135" endValue="965,339" duration="9" ease="Linear"/>
+    <item time="27" type="Alpha" target="n20_oh1l" value="1"/>
+    <item time="27" type="Alpha" target="n21_oh1l" value="1"/>
+    <item time="34" type="Rotation" target="n20_oh1l" tween="true" startValue="-270" endValue="-180" duration="3" ease="Linear"/>
+    <item time="34" type="Rotation" target="n21_oh1l" tween="true" startValue="-180" endValue="-270" duration="3" ease="Linear"/>
+    <item time="34" type="XY" target="n20_oh1l" tween="true" startValue="51,1271" endValue="51,1143" duration="3" ease="Linear"/>
+    <item time="34" type="XY" target="n21_oh1l" tween="true" startValue="965,339" endValue="847,362" duration="3" ease="Linear"/>
+    <item time="37" type="XY" target="n20_oh1l" tween="true" startValue="51,1143" endValue="51,400" duration="8" ease="Linear"/>
+    <item time="37" type="XY" target="n21_oh1l" tween="true" startValue="847,362" endValue="82,362" duration="8" ease="Linear"/>
+    <item time="47" type="Alpha" target="n20_oh1l" value="1"/>
+    <item time="47" type="Alpha" target="n21_oh1l" value="1"/>
+    <item time="50" type="Alpha" target="n20_oh1l" value="0"/>
+    <item time="50" type="Alpha" target="n21_oh1l" value="0"/>
+  </transition>
+  <transition name="Pop">
+    <item time="0" type="Scale" target="n1_9wq2" tween="true" startValue="0,0" endValue="1,1" duration="18" ease="Elastic.Out"/>
+    <item time="0" type="Scale" target="n3_9wq2" tween="true" startValue="0,0" endValue="1,1" duration="18" ease="Elastic.Out"/>
+    <item time="0" type="Scale" target="n5_9wq2" tween="true" startValue="0,0" endValue="1,1" duration="18" ease="Elastic.Out"/>
+    <item time="0" type="Scale" target="n6_9wq2" tween="true" startValue="0,0" endValue="1,1" duration="18" ease="Elastic.Out"/>
+    <item time="0" type="Scale" target="n7_9wq2" tween="true" startValue="0,0" endValue="1,1" duration="18" ease="Elastic.Out"/>
+    <item time="0" type="Scale" target="n8_9wq2" tween="true" startValue="0,0" endValue="1,1" duration="18" ease="Elastic.Out"/>
+  </transition>
+</component>

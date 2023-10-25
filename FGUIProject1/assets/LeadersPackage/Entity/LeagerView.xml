@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImage="ui://k054lrowsoac1r" designImageAlpha="1" designImageLayer="1">
+  <controller name="c1" pages="0,Points,1,Square,4,Level" selected="0"/>
+  <controller name="c2" pages="1,Sign,2,NoSign" selected="0"/>
+  <controller name="c3" pages="0,In3 ,1,Out3" selected="0"/>
+  <displayList>
+    <loader id="n94_r1zk" name="BG" xy="0,0" size="1080,1920"/>
+    <image id="n95_ft29" name="n95" src="9wq27" fileName="Res/遮罩.png" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n66_gfed" name="n66" src="gfed1e" fileName="Res/版头绿.png" xy="0,0">
+      <gearDisplay controller="c3" pages="1"/>
+      <relation target="" sidePair="width-width%,height-height%"/>
+    </image>
+    <image id="n75_gfed" name="n75" src="gfed1d" fileName="Res/版头红.png" xy="0,0">
+      <gearDisplay controller="c3" pages="0"/>
+      <relation target="" sidePair="width-width%,height-height%"/>
+    </image>
+    <image id="n64_gfed" name="n64" src="gfed1i" fileName="Res/选项底绿.png" xy="106,177" size="868,82" group="n14_mztw">
+      <gearDisplay controller="c3" pages="1"/>
+    </image>
+    <image id="n76_gfed" name="n76" src="gfed1h" fileName="Res/选项底红.png" xy="106,174" size="868,82" group="n14_mztw">
+      <gearDisplay controller="c3" pages="0"/>
+    </image>
+    <image id="n77_gfed" name="n77" src="gfed18" fileName="Res/小隔断绿.png" xy="692,193" group="n14_mztw">
+      <gearDisplay controller="c3" pages="1"/>
+    </image>
+    <image id="n78_gfed" name="n78" src="gfed18" fileName="Res/小隔断绿.png" xy="385,193" group="n14_mztw">
+      <gearDisplay controller="c3" pages="1"/>
+    </image>
+    <image id="n80_gfed" name="n80" src="gfed17" fileName="Res/小隔断红.png" xy="692,193" group="n14_mztw">
+      <gearDisplay controller="c3" pages="0"/>
+    </image>
+    <image id="n81_gfed" name="n81" src="gfed17" fileName="Res/小隔断红.png" xy="385,193" group="n14_mztw">
+      <gearDisplay controller="c3" pages="0"/>
+    </image>
+    <image id="n87_gfed" name="n87" src="gfed15" fileName="Res/大隔断红.png" xy="559,309" group="n14_mztw">
+      <gearDisplay controller="c3" pages="0"/>
+    </image>
+    <image id="n88_gfed" name="n88" src="gfed16" fileName="Res/大隔断绿.png" xy="559,309" group="n14_mztw">
+      <gearDisplay controller="c3" pages="1"/>
+    </image>
+    <image id="n93_gfed" name="n93" src="gfed1j" fileName="Res/选项白.png" xy="106,174" size="310,84" group="n14_mztw">
+      <gearXY controller="c1" pages="0,1,4" values="106,174|692,174|385,174"/>
+    </image>
+    <component id="n8_mztw" name="Points_Btn" src="mztw4" fileName="Entity/Points_Btn.xml" xy="99,175" size="269,79" group="n14_mztw">
+      <Button checked="true" controller="c1" page="0"/>
+    </component>
+    <component id="n9_mztw" name="Level_Btn" src="mztw4" fileName="Entity/Points_Btn.xml" xy="391,174" size="294,82" group="n14_mztw">
+      <Button controller="c1" page="4"/>
+    </component>
+    <component id="n92_gfed" name="Square_Btn" src="mztw4" fileName="Entity/Points_Btn.xml" xy="696,172" size="294,82" group="n14_mztw">
+      <Button controller="c1" page="1"/>
+    </component>
+    <text id="n11_mztw" name="Level_W" xy="491,182" pivot="0.5,0.5" size="110,59" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#ffffff" align="center" vAlign="middle" text="Level">
+      <gearDisplay controller="c1" pages="0,1"/>
+    </text>
+    <text id="n69_gfed" name="Level_R" xy="491,183" pivot="0.5,0.5" size="110,59" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#7a332c" align="center" vAlign="middle" text="Level">
+      <gearDisplay controller="c1" pages="4"/>
+      <gearDisplay2 controller="c3" pages="0" condition="0"/>
+    </text>
+    <text id="n70_gfed" name="Level_G" xy="491,184" pivot="0.5,0.5" size="110,59" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#005b5e" align="center" vAlign="middle" text="Level">
+      <gearDisplay controller="c1" pages="4"/>
+      <gearDisplay2 controller="c3" pages="1" condition="0"/>
+    </text>
+    <text id="n10_mztw" name="Points_W" xy="181,182" pivot="0.5,0.5" size="131,59" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#ffffff" align="center" vAlign="middle" text="Points">
+      <gearDisplay controller="c1" pages="1,4"/>
+    </text>
+    <text id="n71_gfed" name="Points_R" xy="181,185" pivot="0.5,0.5" size="131,59" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#7a332c" align="center" vAlign="middle" text="Points">
+      <gearDisplay controller="c1" pages="0"/>
+      <gearDisplay2 controller="c3" pages="0" condition="0"/>
+    </text>
+    <text id="n72_gfed" name="Points_G" xy="181,182" pivot="0.5,0.5" size="131,59" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#005b5e" align="center" vAlign="middle" text="Points">
+      <gearDisplay controller="c1" pages="0"/>
+      <gearDisplay2 controller="c3" pages="1" condition="0"/>
+    </text>
+    <text id="n65_gfed" name="Square_W" xy="766,182" pivot="0.5,0.5" size="144,59" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#ffffff" align="center" vAlign="middle" text="Square">
+      <gearDisplay controller="c1" pages="0,4"/>
+    </text>
+    <text id="n74_gfed" name="Square_G" xy="755,182" pivot="0.5,0.5" size="165,59" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#005b5e" align="center" vAlign="middle" text="Squares">
+      <gearDisplay controller="c1" pages="1"/>
+      <gearDisplay2 controller="c3" pages="1" condition="0"/>
+    </text>
+    <text id="n73_gfed" name="Square_R" xy="766,182" pivot="0.5,0.5" size="144,59" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="44" color="#7a332c" align="center" vAlign="middle" text="Square">
+      <gearDisplay controller="c1" pages="1"/>
+      <gearDisplay2 controller="c3" pages="0" condition="0"/>
+    </text>
+    <text id="n3_mztw" name="GameName_G" xy="314,59" pivot="0.5,0.5" size="475,72" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="54" color="#005b5e" align="center" vAlign="middle" text="ColorBlock Leaders">
+      <gearDisplay controller="c3" pages="1"/>
+    </text>
+    <text id="n67_gfed" name="GameName_R" xy="314,59" pivot="0.5,0.5" size="475,72" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="54" color="#7a332c" align="center" vAlign="middle" text="ColorBlock Leaders">
+      <gearDisplay controller="c3" pages="0"/>
+    </text>
+    <component id="n2_mztw" name="Back_Btn" src="gfed2l" fileName="Entity/Back2_Btn.xml" pkg="gasy8a7f" xy="45,44" group="n14_mztw"/>
+    <component id="n56_nu94" name="Login_Btn" src="nu9411" fileName="Entity/Login.xml" xy="105,411" size="248,53" group="n14_mztw">
+      <gearDisplay controller="c2" pages=""/>
+    </component>
+    <image id="n82_gfed" name="n82" src="gfed1f" fileName="Res/登录谷歌账号.png" xy="105,415" group="n14_mztw">
+      <gearDisplay controller="c2" pages="2"/>
+    </image>
+    <text id="n59_nu94" name="ID_txt" xy="106,345" pivot="0,0.5" size="448,76" group="n14_mztw" fontSize="58" color="#ffffff" vAlign="middle" letterSpacing="-1" text="Player_000000...">
+      <gearDisplay controller="c2" pages="1,2"/>
+      <gearXY controller="c2" pages="1,2" values="106,345|106,296"/>
+    </text>
+    <image id="n62_gfed" name="n62" src="gfed13" fileName="Res/后退红.png" xy="75,74" group="n14_mztw">
+      <gearDisplay controller="c3" pages="0"/>
+    </image>
+    <image id="n63_gfed" name="n63" src="gfed14" fileName="Res/后退绿.png" xy="75,74" group="n14_mztw">
+      <gearDisplay controller="c3" pages="1"/>
+    </image>
+    <text id="n83_gfed" name="Level" xy="601,424" pivot="0,0.5" size="149,79" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="60" color="#ffffff" align="center" vAlign="middle" text="Level">
+      <gearDisplay controller="c1" pages="4"/>
+    </text>
+    <text id="n84_gfed" name="Points" xy="678,426" pivot="0,0.5" size="174,78" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="59" color="#ffffff" align="center" vAlign="middle" text="Points">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="n86_gfed" sidePair="left-right"/>
+    </text>
+    <text id="n86_gfed" name="Number_Txt" xy="597,410" pivot="0,0.5" size="42,96" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="74" color="#ffffff" align="center" vAlign="middle" letterSpacing="-1" text="3">
+      <gearXY controller="c1" pages="0,4" values="597,410|799,410" default="597,410"/>
+    </text>
+    <text id="n85_gfed" name="Square" xy="676,425" pivot="0,0.5" size="224,79" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="60" color="#ffffff" align="center" vAlign="middle" text="Squares">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="n86_gfed" sidePair="left-right"/>
+    </text>
+    <text id="n91_gfed" name="n91" xy="597,276" pivot="0,0.5" size="324,109" group="n14_mztw" font="ui://gasy8a7fn4ah2m" fontSize="84" color="#ffffff" vAlign="middle" letterSpacing="-3" autoSize="shrink" text="No."/>
+    <group id="n14_mztw" name="Rewar_Block1" xy="45,44" size="945,462" advanced="true">
+      <relation target="n75_gfed" sidePair=""/>
+      <relation target="n66_gfed" sidePair=""/>
+    </group>
+    <list id="n35_mztw" name="n35" xy="105,604" size="870,1198" group="n51_m6bn" overflow="scroll" lineGap="16" defaultItem="ui://k054lrowsoac1q">
+      <relation target="" sidePair="height-height%"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n52_tiae" name="Network_Text" xy="172,1033" size="736,118" group="n51_m6bn" font="ui://gasy8a7fn4ah2m" fontSize="45" color="#333333" align="center" vAlign="middle" letterSpacing="-1" text="Network signal is not good&#xA;Please check your network,Tray again"/>
+    <group id="n51_m6bn" name="n51" xy="105,604" size="870,1198" advanced="true">
+      <relation target="" sidePair="height-height,center-center,middle-middle,top-top%"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n52_tiae" tween="true" startValue="0" endValue="1" duration="49"/>
+    <item time="0" type="Visible" target="n52_tiae" value="true"/>
+    <item time="49" type="Alpha" target="n52_tiae" tween="true" startValue="1" endValue="0" duration="23"/>
+    <item time="72" type="Visible" target="n52_tiae" value="false"/>
+  </transition>
+</component>

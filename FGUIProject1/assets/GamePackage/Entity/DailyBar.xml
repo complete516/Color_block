@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="926,72" overflow="hidden" extention="ProgressBar">
+  <displayList>
+    <image id="n0_hgs2" name="n0" src="hgs2i" fileName="Res/每日挑战进度条背景.png" xy="10,12"/>
+    <image id="n11_nore" name="bar" src="nore14" fileName="Res/进度条.png" xy="21,20" size="870,40" fillMethod="hz" fillClockwise="false"/>
+    <image id="n6_q91f" name="1" src="nore11" fileName="Res/目标.png" xy="864,10"/>
+  </displayList>
+  <ProgressBar titleType="value"/>
+</component>

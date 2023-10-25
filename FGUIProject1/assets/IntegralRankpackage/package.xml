@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="r1nmkmgm">
+  <resources>
+    <component id="on0b0" name="Page.xml" path="/Entity/"/>
+    <image id="on0b1" name="倒计时.png" path="/Res/"/>
+    <image id="on0b2" name="Ranking List.png" path="/Res/"/>
+    <image id="on0b3" name="mid02.png" path="/Res/"/>
+    <image id="on0b4" name="mid01.png" path="/Res/"/>
+    <image id="on0b5" name="bottom.png" path="/Res/"/>
+    <image id="on0b6" name="7.png" path="/Res/"/>
+    <image id="on0b7" name="6.png" path="/Res/"/>
+    <image id="on0b8" name="5.png" path="/Res/"/>
+    <image id="on0b9" name="4.png" path="/Res/"/>
+    <image id="on0ba" name="银色星星.png" path="/Res/"/>
+    <image id="on0bb" name="铜色星星.png" path="/Res/"/>
+    <image id="on0bc" name="特殊top.png" path="/Res/"/>
+    <image id="on0bd" name="特殊mid.png" path="/Res/"/>
+    <image id="on0be" name="top.png" path="/Res/"/>
+    <image id="on0bf" name="特殊bottom.png" path="/Res/"/>
+    <image id="on0bg" name="礼包02.png" path="/Res/"/>
+    <image id="on0bh" name="礼包01.png" path="/Res/"/>
+    <image id="on0bi" name="金色星星.png" path="/Res/"/>
+    <image id="on0bj" name="金币底.png" path="/Res/"/>
+    <image id="on0bk" name="金币.png" path="/Res/"/>
+    <image id="on0bl" name="光.png" path="/Res/" exported="true"/>
+    <image id="on0bm" name="购物车.png" path="/Res/"/>
+    <image id="on0bn" name="分数板03.png" path="/Res/"/>
+    <image id="on0bo" name="分数板02.png" path="/Res/"/>
+    <image id="on0bp" name="分数板01.png" path="/Res/"/>
+    <image id="on0br" name="倒计时时间.png" path="/Res/"/>
+    <image id="on0bs" name="礼包03.png" path="/Res/"/>
+    <image id="on0bt" name="版头.png" path="/Res/"/>
+    <image id="on0bu" name="示意图.jpg" path="/Design/"/>
+    <component id="on0bv" name="Button1.xml" path="/Entity/"/>
+    <component id="on0bw" name="CompetitionRankView.xml" path="/Entity/" exported="true"/>
+    <font id="on0bx" name="MILLUNIUM.TTF" path="/Res/" renderMode="" samplePointSize="16"/>
+    <component id="on0b10" name="CompetitionItem.xml" path="/Entity/" exported="true"/>
+    <image id="on0b12" name="分割线.png" path="/Res/"/>
+    <component id="on0b18" name="TipsItem.xml" path="/Entity/"/>
+    <component id="on0b19" name="countdown.xml" path="/Entity/"/>
+    <component id="h1zx1a" name="cion.xml" path="/Entity/"/>
+    <image id="hg871b" name="十字光.png" path="/Res/"/>
+    <image id="hg871c" name="十字光02.png" path="/Res/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

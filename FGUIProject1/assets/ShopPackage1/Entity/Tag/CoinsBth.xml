@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="325,116" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_mwyg" name="n0" src="mwygo" fileName="Res/绿色按钮.png" xy="0,0" size="325,116" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_mwyg" name="n1" src="h3s95" fileName="Res/Coin.png" pkg="372yazlc" xy="47,17" size="71,71" aspect="true"/>
+    <image id="n3_mwyg" name="n3" src="mwygl" fileName="Res/x.png" xy="125,30"/>
+    <text id="n4_mwyg" name="n4" xy="168,23" size="102,104" font="ui://5373ewx2mwygs" fontSize="30" vAlign="middle" letterSpacing="-8" text="999&#xA;"/>
+  </displayList>
+  <Button/>
+</component>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="493,529">
+  <displayList>
+    <image id="n22_ogkh" name="n22" src="ogkh2c" fileName="Res/donghua5.png" xy="27,194" pivot="0.5,0.5" size="33,37"/>
+    <image id="n23_ogkh" name="n23" src="ogkh28" fileName="Res/donghua1.png" xy="429,322" pivot="0.5,0.5" size="28,28"/>
+    <image id="n24_ogkh" name="n24" src="ogkh28" fileName="Res/donghua1.png" xy="130,59" pivot="0.5,0.5" size="28,28"/>
+    <image id="n25_ogkh" name="n25" src="ogkh2a" fileName="Res/donghua3.png" xy="405,0" pivot="0.5,0.5" size="16,16"/>
+    <image id="n26_ogkh" name="n26" src="ogkh2a" fileName="Res/donghua3.png" xy="232,444" pivot="0.5,0.5" size="16,16"/>
+    <image id="n28_ogkh" name="n28" src="ogkh29" fileName="Res/donghua2.png" xy="329,515" pivot="0.5,0.5" size="14,14"/>
+    <image id="n29_ogkh" name="n29" src="ogkh29" fileName="Res/donghua2.png" xy="479,161" pivot="0.5,0.5" size="14,14"/>
+    <image id="n30_ogkh" name="n30" src="ogkh27" fileName="Res/donghbua6.png" xy="301,363" pivot="0.5,0.5" size="34,37"/>
+    <image id="n31_ogkh" name="n31" src="ogkh2b" fileName="Res/donghua4.png" xy="74,342" pivot="0.5,0.5" size="16,16"/>
+    <image id="n32_ogkh" name="n32" src="ogkh2b" fileName="Res/donghua4.png" xy="0,115" pivot="0.5,0.5" size="16,16"/>
+  </displayList>
+  <transition name="spot_an" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Size" target="n22_ogkh" tween="true" startValue="2,2" endValue="33,37" duration="24" ease="Linear"/>
+    <item time="0" type="Size" target="n23_ogkh" value="0,0"/>
+    <item time="0" type="Size" target="n24_ogkh" value="0,0"/>
+    <item time="0" type="Size" target="n25_ogkh" value="0,0"/>
+    <item time="0" type="Size" target="n26_ogkh" value="0,0"/>
+    <item time="0" type="Size" target="n28_ogkh" tween="true" startValue="2,2" endValue="14,14" duration="24" ease="Linear"/>
+    <item time="0" type="Size" target="n29_ogkh" value="0,0"/>
+    <item time="0" type="Size" target="n30_ogkh" value="0,0"/>
+    <item time="0" type="Size" target="n31_ogkh" value="0,0"/>
+    <item time="0" type="Size" target="n32_ogkh" value="0,0"/>
+    <item time="4" type="Size" target="n29_ogkh" tween="true" startValue="2,2" endValue="14,14" duration="24" ease="Linear"/>
+    <item time="7" type="Size" target="n24_ogkh" tween="true" startValue="2,2" endValue="28,28" duration="24" ease="Linear"/>
+    <item time="9" type="Size" target="n23_ogkh" tween="true" startValue="2,2" endValue="28,28" duration="24" ease="Linear"/>
+    <item time="13" type="Size" target="n26_ogkh" tween="true" startValue="2,2" endValue="16,16" duration="24" ease="Linear"/>
+    <item time="17" type="Size" target="n31_ogkh" tween="true" startValue="2,2" endValue="16,16" duration="24" ease="Linear"/>
+    <item time="19" type="Size" target="n25_ogkh" tween="true" startValue="2,2" endValue="16,16" duration="24" ease="Linear"/>
+    <item time="24" type="Size" target="n22_ogkh" tween="true" startValue="33,37" endValue="2,2" duration="24" ease="Linear"/>
+    <item time="24" type="Size" target="n28_ogkh" tween="true" startValue="14,14" endValue="2,2" duration="24" ease="Linear"/>
+    <item time="28" type="Size" target="n29_ogkh" tween="true" startValue="14,14" endValue="2,2" duration="24" ease="Linear"/>
+    <item time="31" type="Size" target="n24_ogkh" tween="true" startValue="28,28" endValue="2,2" duration="24" ease="Linear"/>
+    <item time="31" type="Size" target="n30_ogkh" tween="true" startValue="2,2" endValue="34,37" duration="24" ease="Linear"/>
+    <item time="33" type="Size" target="n23_ogkh" tween="true" startValue="28,28" endValue="2,2" duration="24" ease="Linear"/>
+    <item time="33" type="Size" target="n32_ogkh" tween="true" startValue="2,2" endValue="16,16" duration="24" ease="Linear"/>
+    <item time="37" type="Size" target="n26_ogkh" tween="true" startValue="16,16" endValue="2,2" duration="24" ease="Linear"/>
+    <item time="41" type="Size" target="n31_ogkh" tween="true" startValue="16,16" endValue="2,2" duration="24" ease="Linear"/>
+    <item time="43" type="Size" target="n25_ogkh" tween="true" startValue="16,16" endValue="2,2" duration="24" ease="Linear"/>
+    <item time="55" type="Size" target="n30_ogkh" tween="true" startValue="34,37" endValue="2,2" duration="24" ease="Linear"/>
+    <item time="57" type="Size" target="n32_ogkh" tween="true" startValue="16,16" endValue="2,2" duration="24" ease="Linear"/>
+  </transition>
+</component>

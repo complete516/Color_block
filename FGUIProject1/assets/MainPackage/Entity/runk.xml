@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="135,134" designImage="ui://gwz96r4bcwjh28" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n3_cwjh" name="n3" src="cwjh27" fileName="Res/quandi1.png" xy="0,0"/>
+    <image id="n0_cwjh" name="n0" src="cwjh25" fileName="Res/huang2.png" xy="28,67" pivot="0.5,1"/>
+    <image id="n1_cwjh" name="n1" src="cwjh24" fileName="Res/hong3.png" xy="54,38" pivot="0.5,1"/>
+    <image id="n2_cwjh" name="n2" src="cwjh26" fileName="Res/lan4.png" xy="79,52" pivot="0.5,1"/>
+    <image id="n4_cwjh" name="n4" src="cwjh29" fileName="Res/xing5.png" xy="-38,20" pivot="0.5,0.5"/>
+  </displayList>
+  <transition name="runk_an" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Scale" target="n0_cwjh" value="1,1"/>
+    <item time="0" type="Scale" target="n1_cwjh" value="1,1"/>
+    <item time="0" type="Scale" target="n2_cwjh" value="1,1"/>
+    <item time="0" type="XY" target="n4_cwjh" tween="true" startValue="-30,61" endValue="2,31" duration="6" ease="Linear"/>
+    <item time="6" type="XY" target="n4_cwjh" tween="true" startValue="2,31" endValue="25,45" duration="6" ease="Linear"/>
+    <item time="12" type="Scale" target="n0_cwjh" tween="true" startValue="1,1" endValue="1,0.8" duration="6"/>
+    <item time="12" type="XY" target="n4_cwjh" tween="true" startValue="25,45" endValue="25,52" duration="6" ease="Linear"/>
+    <item time="18" type="Scale" target="n0_cwjh" tween="true" startValue="1,0.8" endValue="1,1" duration="6" ease="Linear"/>
+    <item time="18" type="XY" target="n4_cwjh" tween="true" startValue="25,52" endValue="34,4" duration="6" ease="Linear"/>
+    <item time="24" type="XY" target="n4_cwjh" tween="true" startValue="34,4" endValue="51,15" duration="6"/>
+    <item time="30" type="Scale" target="n1_cwjh" tween="true" startValue="1,1" endValue="1,0.85" duration="6" ease="Linear"/>
+    <item time="30" type="XY" target="n4_cwjh" tween="true" startValue="51,15" endValue="51,25" duration="6" ease="Linear"/>
+    <item time="36" type="Scale" target="n1_cwjh" tween="true" startValue="1,0.85" endValue="1,1" duration="6" ease="Linear"/>
+    <item time="36" type="XY" target="n4_cwjh" tween="true" startValue="51,25" endValue="72,7" duration="6" ease="Linear"/>
+    <item time="42" type="XY" target="n4_cwjh" tween="true" startValue="72,7" endValue="79,29" duration="6" ease="Linear"/>
+    <item time="48" type="Scale" target="n2_cwjh" tween="true" startValue="1,1" endValue="1,0.8" duration="6" ease="Linear"/>
+    <item time="48" type="XY" target="n4_cwjh" tween="true" startValue="79,29" endValue="78,41" duration="6" ease="Linear"/>
+    <item time="54" type="Scale" target="n2_cwjh" tween="true" startValue="1,0.8" endValue="1,1" duration="6" ease="Linear"/>
+    <item time="54" type="XY" target="n4_cwjh" tween="true" startValue="78,41" endValue="99,20" duration="6" ease="Linear"/>
+    <item time="60" type="XY" target="n4_cwjh" tween="true" startValue="99,20" endValue="136,44" duration="6" ease="Linear"/>
+  </transition>
+</component>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1sxftg19">
+  <resources>
+    <component id="uvks7" name="SettView.xml" path="/Entity/" exported="true"/>
+    <component id="nu94h" name="Sign.xml" path="/Entity/"/>
+    <component id="nu94i" name="Out.xml" path="/Entity/"/>
+    <image id="ghvyl" name="save.png" path="/Res/"/>
+    <image id="ghvyp" name="分割线.png" path="/Res/"/>
+    <image id="ghvyq" name="声音.png" path="/Res/"/>
+    <image id="ghvyr" name="头像.png" path="/Res/"/>
+    <image id="ghvys" name="按钮.png" path="/Res/"/>
+    <image id="ghvyt" name="槽1.png" path="/Res/"/>
+    <image id="ghvyu" name="槽2.png" path="/Res/"/>
+    <image id="ghvyv" name="震动.png" path="/Res/"/>
+    <component id="ghvyx" name="JigSound_Btn.xml" path="/Entity/"/>
+    <component id="ghvyz" name="JigVibrate_Btn.xml" path="/Entity/"/>
+    <image id="o2nz1a" name="下一关.png" path="/Res/"/>
+    <image id="o2nz1d" name="声音字.png" path="/Res/"/>
+    <image id="o2nz1e" name="登录保存游戏排名信息.png" path="/Res/"/>
+    <image id="o2nz1f" name="登录账号.png" path="/Res/"/>
+    <image id="o2nz1h" name="设置.png" path="/Res/"/>
+    <image id="o2nz1i" name="访客.png" path="/Res/"/>
+    <image id="o2nz1j" name="震动字.png" path="/Res/"/>
+    <component id="o2nz1l" name="PrivacyView.xml" path="/Entity/" exported="true"/>
+    <component id="o2nz1m" name="Component2.xml" path="/Entity/"/>
+    <image id="r1zk1s" name="signout.png" path="/Res/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

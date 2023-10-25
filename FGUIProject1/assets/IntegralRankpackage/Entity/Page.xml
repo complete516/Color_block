@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <component id="n7_on0b" name="n7" src="on0bw" fileName="Entity/Component2.xml" xy="0,0">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+    <component id="n17_on0b" name="n17" src="on0by" fileName="Entity/Component3.xml" xy="0,0"/>
+  </displayList>
+</component>

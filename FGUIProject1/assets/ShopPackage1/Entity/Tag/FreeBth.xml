@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="271,118" extention="Button">
+  <controller name="c1" pages="0,free,1,watch" selected="0"/>
+  <displayList>
+    <image id="n0_mwyg" name="n0" src="mwygf" fileName="Res/蓝色按钮.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_mwyg" name="n1" src="mwyg1" fileName="Res/free.png" xy="74,35">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n2_shik" name="n2" src="shik1q" fileName="Res/watch.png" xy="37,36" size="196,45" aspect="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

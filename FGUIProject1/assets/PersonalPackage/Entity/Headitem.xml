@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="250,250">
+  <controller name="c2" pages="0,,1,selected" selected="0"/>
+  <displayList>
+    <loader id="n28_8o6b" name="n28" xy="0,0" size="250,250" url="ui://gtlknu5kmwyg1e" align="center" vAlign="middle" fill="scale"/>
+    <image id="n26_mwyg" name="n26" src="hg87s" fileName="Res/未选择底.png" xy="33,31">
+      <gearDisplay controller="c2" pages="0"/>
+    </image>
+    <image id="n29_qxdo" name="n29" src="qxdo1k" fileName="Res/选中框.png" xy="26,26">
+      <gearDisplay controller="c2" pages="1"/>
+    </image>
+  </displayList>
+</component>

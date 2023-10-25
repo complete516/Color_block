@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n2_o2nz" name="n2" xy="0,0" size="1080,1920" type="rect">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <list id="n0_o2nz" name="n0" xy="40,160" size="1000,1600" overflow="scroll" align="center" vAlign="middle">
+      <item url="ui://1sxftg19o2nz1m"/>
+    </list>
+    <text id="n1_o2nz" name="n1" xy="456,73" size="168,54" fontSize="40" bold="true" text="隐私政策">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n3_o2nz" name="n3" xy="492,1801" size="96,54" fontSize="40" bold="true" text="关 闭">
+      <relation target="" sidePair="center-center"/>
+    </text>
+  </displayList>
+</component>

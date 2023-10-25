@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1600">
+  <displayList>
+    <graph id="n24_p15b" name="n24" xy="0,-778" pivot="0.5,0.5" size="1080,3000" alpha="0.6" type="rect" lineColor="#ff090909" fillColor="#99090909">
+      <relation target="" sidePair="width-width"/>
+    </graph>
+    <image id="n0_p15b" name="n0" src="in7y2" fileName="Res/mianban-yindao.png" pkg="gasy8a7f" xy="0,0" size="1080,1428"/>
+    <text id="n1_p15b" name="n1" xy="540,124" pivot="0.5,0.5" anchor="true" size="359,69" font="ui://gasy8a7fn4ah2m" fontSize="52" color="#ffffff" align="center" vAlign="middle" letterSpacing="-2" text="NO MORE SPACE">
+      <relation target="n0_p15b" sidePair="center-center,top-top"/>
+    </text>
+    <image id="n5_p15b" name="n5" src="hgs2m" fileName="Res/xian.png" xy="80,582" pivot="0.5,0.5" scale="0.8,1"/>
+    <image id="n10_p15b" name="n10" src="m6bnh" fileName="Res/tab1.png" pkg="k054lrow" xy="62,261" size="953,644" color="#666666"/>
+    <image id="n7_p15b" name="n7" src="pm0y9" fileName="Res/60ba180794600cf29ed9628c0201f70.png" pkg="gasy8a7f" xy="230,695" pivot="0.5,0.5" scale="0.7,0.7"/>
+    <image id="n8_p15b" name="n8" src="pm0ya" fileName="Res/d50da6d122379a2d6d352de9df224d8.png" pkg="gasy8a7f" xy="478,695" pivot="0.5,0.5" scale="0.7,0.7"/>
+    <image id="n9_p15b" name="n9" src="pm0y8" fileName="Res/e6ca941387ef855e482c87ef1f13ab0.png" pkg="gasy8a7f" xy="726,695" pivot="0.5,0.5" scale="0.7,0.7"/>
+    <loader id="n13_p15b" name="n13" xy="90,271" size="900,300"/>
+    <text id="n14_p15b" name="n14" xy="489,1251" size="108,35" font="ui://gasy8a7fn4ah2m" fontSize="25" color="#999999" align="center" vAlign="middle" letterSpacing="-1" text="no thanks"/>
+    <image id="n15_p15b" name="n15" src="hgs21" fileName="Res/anniu1.png" pkg="gasy8a7f" xy="320,1099" pivot="0.5,0.5" size="435,148" scale="0.75,0.75"/>
+    <text id="n16_p15b" name="n16" xy="259,958" size="562,66" font="ui://gasy8a7fn4ah2m" fontSize="50" align="center" letterSpacing="-1" text="Play on with above blocks"/>
+    <text id="n17_p15b" name="n17" xy="474,1139" pivot="0.5,0.5" size="130,66" font="ui://gasy8a7fn4ah2m" fontSize="50" color="#ffffff" align="center" vAlign="middle" letterSpacing="-1" text="Go on"/>
+    <component id="n20_p15b" name="n20" src="p15b1b" fileName="Entity/Reward_Btn.xml" xy="358,1117" size="364,114"/>
+    <component id="n21_p15b" name="n21" src="p15b1c" fileName="Entity/Close_Btn.xml" xy="489,1251" size="111,35"/>
+    <image id="n22_p15b" name="n22" src="p15b1d" fileName="Res/middle_img_v2_abd1556c-800b-4689-aaf0-4f84f5eb71eg.png" xy="555,993" pivot="0.5,0.5" scale="0.2,0.2"/>
+    <image id="n23_p15b" name="n23" src="p15b1e" fileName="Res/middle_img_v2_e36bc7d3-116c-4501-a1a0-e3644609f91g.png" xy="412,449" pivot="0.5,0.5" scale="0.4,0.4"/>
+  </displayList>
+  <transition name="t0" autoPlay="true">
+    <item time="0" type="Visible" target="n14_p15b" value="false"/>
+    <item time="0" type="Visible" target="n21_p15b" value="false"/>
+    <item time="72" type="Visible" target="n14_p15b" value="true"/>
+    <item time="72" type="Visible" target="n21_p15b" value="true"/>
+  </transition>
+</component>

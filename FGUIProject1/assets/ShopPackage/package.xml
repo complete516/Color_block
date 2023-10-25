@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="372yazlc">
+  <resources>
+    <image id="h3s90" name="57e95cb11ccd1cfa1ad67ab0fe440cf.jpg" path="/Design/"/>
+    <image id="h3s91" name="180.png" path="/Res/"/>
+    <image id="h3s92" name="20.png" path="/Res/"/>
+    <image id="h3s93" name="9.99.png" path="/Res/" exported="true"/>
+    <image id="h3s94" name="AD.png" path="/Res/" exported="true"/>
+    <image id="h3s95" name="Coin.png" path="/Res/" exported="true"/>
+    <image id="h3s96" name="free.png" path="/Res/"/>
+    <image id="h3s97" name="底板灰.png" path="/Res/"/>
+    <image id="h3s98" name="底板紫.png" path="/Res/" scale="9grid" scale9grid="183,59,366,118"/>
+    <image id="h3s99" name="底板绿.png" path="/Res/"/>
+    <image id="h3s9a" name="按钮橙.png" path="/Res/" exported="true"/>
+    <image id="h3s9b" name="按钮紫.png" path="/Res/"/>
+    <image id="h3s9c" name="按钮绿.png" path="/Res/"/>
+    <image id="h3s9d" name="灯泡.png" path="/Res/" exported="true"/>
+    <image id="h3s9e" name="礼包.png" path="/Res/"/>
+    <image id="h3s9f" name="购物车.png" path="/Res/"/>
+    <component id="h3s9h" name="Btn_BugAds.xml" path="/Entity/"/>
+    <component id="h3s9i" name="ShopView.xml" path="/Entity/"/>
+    <component id="h3s9j" name="Btn_Gold1.xml" path="/Entity/"/>
+    <component id="h3s9k" name="Btn_Gold2.xml" path="/Entity/"/>
+    <component id="h3s9l" name="Btn_Gold3.xml" path="/Entity/"/>
+    <component id="h3s9m" name="Btn_Gold4.xml" path="/Entity/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

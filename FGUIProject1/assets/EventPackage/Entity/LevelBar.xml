@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="228,229" extention="ProgressBar">
+  <controller name="c1" exported="true" pages="3,简单,1,中等,2,困难" selected="1"/>
+  <controller name="select" alias="选中" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n11_l8b7" name="n11" src="l8b7s" fileName="Res/baidi.png" xy="0,0" color="#c4dce0"/>
+    <loader id="n9_l8b7" name="BgLoder" xy="7,4" pivot="0.5,0.5" size="216,223" touchable="false" url="ui://kiodpbexl8b7b" align="center" vAlign="middle" fill="scale" clearOnPublish="true">
+      <gearDisplay controller="c1" pages="0,1,2,3"/>
+      <gearIcon controller="c1" pages="3,1,2" values="|ui://kiodpbexl8b7b|ui://kiodpbexl8b7c"/>
+    </loader>
+    <loader id="n5_l8b7" name="ImageLoder" xy="7,5" pivot="0.5,0.5" size="214,219" touchable="false" url="ui://kiodpbexl8b7g" align="center" vAlign="middle" fill="scale">
+      <gearIcon controller="c1" pages="3,1,2" values="|ui://kiodpbexl8b7g|ui://kiodpbexl8b7h"/>
+    </loader>
+    <loader id="n12_cge5" name="Bardi" xy="12,13" pivot="0.5,0.5" size="203,203" touchable="false" url="ui://kiodpbexcge52u" align="center" vAlign="middle" fill="scale">
+      <gearIcon controller="c1" pages="1,2" values="ui://kiodpbexcge52u|ui://kiodpbexcge52x" default=""/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n1_l8b7" name="bar" xy="12,13" pivot="0.5,0.5" size="203,203" aspect="true" touchable="false" url="ui://kiodpbexl8b78" align="center" vAlign="middle" fill="scale" fillMethod="radial360" fillClockwise="false" clearOnPublish="true">
+      <gearIcon controller="c1" pages="3,1,2" values="|ui://kiodpbexl8b78|ui://kiodpbexl8b76"/>
+    </loader>
+    <component id="n10_l8b7" name="n10" src="rcae2z" fileName="Entity/LevelBtn.xml" xy="0,0"/>
+    <image id="n14_cge5" name="n14" src="cge52v" fileName="Res/选中框.png" xy="-10,-10" pivot="0.5,0.5" size="249,250">
+      <gearDisplay controller="select" pages="1"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+  <transition name="idel_lock" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Scale" target="n5_l8b7" tween="true" startValue="1,1" endValue="1.2,1.2" duration="18" ease="Linear"/>
+    <item time="18" type="Scale" target="n5_l8b7" tween="true" startValue="1.2,1.2" endValue="1,1" duration="18" ease="Linear"/>
+  </transition>
+</component>

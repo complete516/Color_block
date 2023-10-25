@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false" bgColor="#f4f4f4">
+  <displayList>
+    <image id="n0_xooj" name="n0" src="hgs2i" fileName="Res/tiaozhankuang.png" xy="-160,-140" size="1400,2200" color="#e9e9e9">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n0_xooj" tween="true" startValue="1" endValue="0" duration="24"/>
+  </transition>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,50" extention="Button">
+  <displayList>
+    <image id="n25_lhvl" name="n25" src="lhvl6" fileName="Res/shuzidikuang.png" xy="0,0"/>
+    <text id="n27_lhvl" name="title" xy="72,25" pivot="0.5,0.5" anchor="true" size="65,44" font="ui://gasy8a7fn4ah2m" fontSize="32" color="#ffffff" align="center" vAlign="middle" letterSpacing="-1" text="1234"/>
+    <image id="n28_lhvl" name="n28" src="lhvl5" fileName="Res/shang.png" xy="16,17"/>
+  </displayList>
+  <Button/>
+</component>

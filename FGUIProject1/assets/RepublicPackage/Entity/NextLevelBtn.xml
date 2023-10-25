@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="490,145" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n2_c8nj" name="n2" src="ibudv" fileName="Res/anniu2.png" xy="0,0"/>
+    <text id="n3_c8nj" name="n3" xy="253,70" pivot="0.5,0.5" anchor="true" size="246,73" font="ui://gasy8a7fn4ah2m" fontSize="55" color="#ffffff" align="center" vAlign="middle" letterSpacing="-2" text="Next Level"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

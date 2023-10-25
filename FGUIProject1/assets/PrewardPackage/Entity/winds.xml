@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="912,826">
+  <displayList>
+    <image id="n1_iira" name="n1" src="iira6" fileName="Res/底板.png" xy="0,0"/>
+    <image id="n2_iira" name="n2" src="iira0" fileName="Res/freegift.png" xy="293,135"/>
+    <image id="n7_iira" name="n7" src="iira3" fileName="Res/背景光.png" xy="215,196" size="483,498"/>
+    <image id="n6_iira" name="n6" src="iira8" fileName="Res/礼包.png" xy="315,311"/>
+  </displayList>
+</component>

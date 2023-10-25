@@ -1,0 +1,100 @@
+{
+	"1": {
+		"Id": 1,
+		"Type": -1,
+		"Count": 0,
+		"Name": "不可放",
+		"Color": "b8b8b8"
+	},
+	"2": {
+		"Id": 2,
+		"Type": 1,
+		"Count": 2,
+		"Name": "方块1",
+		"Color": "f8bf12"
+	},
+	"3": {
+		"Id": 3,
+		"Type": 1,
+		"Count": 3,
+		"Name": "方块1",
+		"Color": "f8bf12"
+	},
+	"4": {
+		"Id": 4,
+		"Type": 2,
+		"Count": 2,
+		"Name": "方块2",
+		"Color": "62e633"
+	},
+	"5": {
+		"Id": 5,
+		"Type": 2,
+		"Count": 3,
+		"Name": "方块2",
+		"Color": "62e633"
+	},
+	"6": {
+		"Id": 6,
+		"Type": 3,
+		"Count": 2,
+		"Name": "方块3",
+		"Color": "4adde2"
+	},
+	"7": {
+		"Id": 7,
+		"Type": 3,
+		"Count": 3,
+		"Name": "方块3",
+		"Color": "4adde2"
+	},
+	"8": {
+		"Id": 8,
+		"Type": 4,
+		"Count": 2,
+		"Name": "方块4",
+		"Color": "0993eb"
+	},
+	"9": {
+		"Id": 9,
+		"Type": 4,
+		"Count": 3,
+		"Name": "方块4",
+		"Color": "0993eb"
+	},
+	"10": {
+		"Id": 10,
+		"Type": 1,
+		"Count": 1,
+		"Name": "方块1",
+		"Color": "f8bf12"
+	},
+	"11": {
+		"Id": 11,
+		"Type": 2,
+		"Count": 1,
+		"Name": "方块2",
+		"Color": "62e633"
+	},
+	"12": {
+		"Id": 12,
+		"Type": 3,
+		"Count": 1,
+		"Name": "方块3",
+		"Color": "4adde2"
+	},
+	"13": {
+		"Id": 13,
+		"Type": 4,
+		"Count": 1,
+		"Name": "方块4",
+		"Color": "0993eb"
+	},
+	"14": {
+		"Id": 14,
+		"Type": 5,
+		"Count": 1,
+		"Name": "方块5",
+		"Color": "9133e2"
+	}
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n5_oodl" name="n5" xy="0,0" size="1080,1920" type="rect" lineSize="0" lineColor="#00000000" fillColor="#b2000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n0_h1zx" name="n0" src="iirao" fileName="Entity/Component2.xml" xy="85,291">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+    <component id="n4_iira" name="n4" src="iirak" fileName="Entity/Button1.xml" xy="338,1642"/>
+    <component id="n7_fz55" name="n7" src="vi1x18" fileName="Entity/Coin.xml" xy="234,469"/>
+    <component id="n8_fz55" name="n8" src="vi1x18" fileName="Entity/Coin.xml" xy="326,445"/>
+    <component id="n9_fz55" name="n9" src="vi1x18" fileName="Entity/Coin.xml" xy="633,491"/>
+    <component id="n10_fz55" name="n10" src="vi1x18" fileName="Entity/Coin.xml" xy="476,499"/>
+    <component id="n11_fz55" name="n11" src="vi1x18" fileName="Entity/Coin.xml" xy="311,515"/>
+    <component id="n12_fz55" name="n12" src="vi1x18" fileName="Entity/Coin.xml" xy="411,471"/>
+    <component id="n13_fz55" name="n13" src="vi1x18" fileName="Entity/Coin.xml" xy="539,450"/>
+    <component id="n14_fz55" name="n14" src="vi1x18" fileName="Entity/Coin.xml" xy="594,447"/>
+  </displayList>
+  <transition name="coin_move" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Alpha" target="n10_fz55" value="1"/>
+    <item time="0" type="Alpha" target="n11_fz55" value="0"/>
+    <item time="0" type="Alpha" target="n12_fz55" value="0"/>
+    <item time="0" type="Alpha" target="n13_fz55" value="0"/>
+    <item time="0" type="Alpha" target="n14_fz55" value="0"/>
+    <item time="0" type="Alpha" target="n7_fz55" value="0"/>
+    <item time="0" type="Alpha" target="n8_fz55" value="0"/>
+    <item time="0" type="Alpha" target="n9_fz55" value="0"/>
+    <item time="0" type="XY" target="n10_fz55" tween="true" startValue="477,492" endValue="476,730" duration="18" ease="Linear"/>
+    <item time="2" type="Alpha" target="n11_fz55" value="1"/>
+    <item time="2" type="XY" target="n11_fz55" tween="true" startValue="311,515" endValue="311,730" duration="18" ease="Linear"/>
+    <item time="4" type="Alpha" target="n12_fz55" value="1"/>
+    <item time="4" type="XY" target="n12_fz55" tween="true" startValue="411,471" endValue="411,730" duration="18" ease="Linear"/>
+    <item time="6" type="Alpha" target="n13_fz55" value="1"/>
+    <item time="6" type="XY" target="n13_fz55" tween="true" startValue="539,450" endValue="539,730" duration="18" ease="Linear"/>
+    <item time="8" type="Alpha" target="n14_fz55" value="1"/>
+    <item time="8" type="XY" target="n14_fz55" tween="true" startValue="594,447" endValue="594,730" duration="18" ease="Linear"/>
+    <item time="10" type="Alpha" target="n7_fz55" value="1"/>
+    <item time="10" type="XY" target="n7_fz55" tween="true" startValue="234,469" endValue="234,730" duration="18" ease="Linear"/>
+    <item time="12" type="Alpha" target="n8_fz55" value="1"/>
+    <item time="12" type="XY" target="n8_fz55" tween="true" startValue="326,445" endValue="326,730" duration="18" ease="Linear"/>
+    <item time="14" type="Alpha" target="n9_fz55" value="1"/>
+    <item time="14" type="XY" target="n9_fz55" tween="true" startValue="633,491" endValue="633,730" duration="18" ease="Linear"/>
+    <item time="18" type="Alpha" target="n10_fz55" value="0"/>
+    <item time="20" type="Alpha" target="n11_fz55" value="0"/>
+    <item time="22" type="Alpha" target="n12_fz55" value="0"/>
+    <item time="24" type="Alpha" target="n13_fz55" value="0"/>
+    <item time="26" type="Alpha" target="n14_fz55" value="0"/>
+    <item time="28" type="Alpha" target="n7_fz55" value="0"/>
+    <item time="30" type="Alpha" target="n8_fz55" value="0"/>
+    <item time="32" type="Alpha" target="n9_fz55" value="0"/>
+  </transition>
+</component>

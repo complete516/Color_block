@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImage="ui://p93f4978ogkhb" designImageAlpha="0">
+  <controller name="c1" pages="0,完成,1,未完成" selected="0"/>
+  <displayList>
+    <loader id="n46_plgx" name="BG" xy="0,0" size="1080,1920" fill="scaleFree"/>
+    <image id="n51_ft29" name="n51" src="9wq27" fileName="Res/遮罩.png" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n10_lhvl" name="NewScore" xy="539,615" pivot="0.5,0.5" anchor="true" size="499,154" group="n35_es3m" font="ui://gasy8a7fn4ah2m" fontSize="120" color="#ffffff" align="center" vAlign="middle" letterSpacing="-2" text="Try Again">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <component id="n36_es3m" name="n36" src="ogkh9" fileName="Entity/RestartBtn.xml" xy="296,1302" group="n35_es3m">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+    <text id="n23_lhvl" name="n5" xy="540,316" pivot="0.5,0.5" anchor="true" size="592,106" group="n35_es3m" font="ui://gasy8a7fn4ah2m" fontSize="82" color="#ffffff" align="center" vAlign="middle" letterSpacing="-2" text="Level Completed">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <text id="n43_q91f" name="n43" xy="205,1110" pivot="0.5,0.5" size="669,98" group="n35_es3m" font="ui://gasy8a7fn4ah2m" fontSize="37" color="#ffffff" align="center" letterSpacing="-1" text="Make square to remove same color blocks &#xA;and get more score">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <text id="n50_ft29" name="n50" xy="540,867" pivot="0.5,0.5" anchor="true" size="173,124" group="n35_es3m" font="ui://gasy8a7fn4ah2m" fontSize="96" color="#ffffff" align="center" vAlign="middle" leading="-6" letterSpacing="-3" text="xx%">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </text>
+    <group id="n35_es3m" name="n35" xy="205,263" size="669,1185" advanced="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </group>
+    <component id="n48_h3s9" name="GuideUI_1" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <component id="n49_ft29" name="n49" src="doffd" fileName="Entity/GetGoldView.xml" pkg="uuybwu4x" xy="0,0">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+  </displayList>
+</component>

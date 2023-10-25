@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="217,96" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n12_h3s9" name="n12" src="shik1p" fileName="Res/按钮紫.png" xy="0,0"/>
+    <image id="n14_h3s9" name="n14" src="q895g" fileName="Res/watch.png" pkg="4gavvzpr" xy="17,27"/>
+  </displayList>
+  <Button/>
+</component>

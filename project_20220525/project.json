@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Blockudoku",
+  "id": "db4011c8-ee01-4ecf-9a6b-62ea38dd580a",
+  "version": "2.4.4",
+  "type": "module",
+  "isNew": false
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="632,103">
+  <controller name="language" pages="0,Cn,1,Zh" selected="0">
+    <remark page="0" value="英文"/>
+    <remark page="1" value="中文"/>
+  </controller>
+  <displayList>
+    <image id="n29_hgs2" name="ColorBlock" src="hgs24" fileName="Res/ColorBlock_Cn.png" xy="0,0">
+      <gearDisplay controller="language" pages="0"/>
+    </image>
+    <image id="n31_o2nz" name="n31" src="o2nz2n" fileName="Res/ColorBlock_Zh.png" xy="103,3">
+      <gearDisplay controller="language" pages="1"/>
+    </image>
+  </displayList>
+</component>

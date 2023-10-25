@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="490,144" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n4_doff" name="n4" src="doff7" fileName="Res/按钮橙.png" xy="0,0"/>
+    <image id="n5_doff" name="n5" src="doff4" fileName="Res/claim x？.png" xy="55,36"/>
+    <loader id="n7_n9h0" name="NumImage" xy="315,41" size="84,65" url="ui://uuybwu4xdoff3" vAlign="middle" fill="scale" autoSize="true"/>
+  </displayList>
+  <Button/>
+</component>

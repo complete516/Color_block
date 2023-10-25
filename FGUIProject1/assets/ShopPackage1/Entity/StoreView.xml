@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImage="ui://5373ewx2mwyga" designImageLayer="1">
+  <displayList>
+    <loader id="n5_gr6e" name="BG" xy="0,0" size="1080,1920" fill="scaleFree"/>
+    <list id="n0_mwyg" name="n0" xy="80,556" size="920,1247" overflow="scroll" lineGap="23" defaultItem="ui://5373ewx2mwygq" align="center">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n2_mwyg" name="n2" src="mwygv" fileName="Entity/Tag/NoadsTag.xml" xy="54,220">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+    <image id="n3_mwyg" name="n3" src="mwygn" fileName="Res/store.png" xy="426,76"/>
+    <component id="n6_vp2d" name="GuideUI_7" src="h3s93j" fileName="Entity/GuideBtn.xml" pkg="gasy8a7f" xy="0,-99"/>
+  </displayList>
+</component>

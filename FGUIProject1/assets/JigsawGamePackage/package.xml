@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zpr8x2ap">
+  <resources>
+    <image id="inha0" name="飞书20220613-171007.jpg" path="/Design/"/>
+    <image id="inha1" name="按钮.png" path="/Res/"/>
+    <image id="inha2" name="提示.png" path="/Res/"/>
+    <image id="inha3" name="放置槽.png" path="/Res/" scale="9grid" scale9grid="270,77,540,154"/>
+    <image id="inha5" name="滑动条.png" path="/Res/"/>
+    <image id="inha6" name="滑块.png" path="/Res/"/>
+    <image id="inha7" name="章节选择.png" path="/Res/"/>
+    <image id="inha8" name="等级槽.png" path="/Res/" scale="9grid" scale9grid="101,26,202,52"/>
+    <image id="inha9" name="设置.png" path="/Res/"/>
+    <image id="inhaa" name="退出.png" path="/Res/" exported="true"/>
+    <image id="inhab" name="重置.png" path="/Res/"/>
+    <component id="inhah" name="Btn_JigReset.xml" path="/Entity/" exported="true"/>
+    <component id="inhai" name="Btn_JigHelp.xml" path="/Entity/" exported="true"/>
+    <image id="oo7fl" name="Jigsaw_1.png" path="/Res/" exported="true"/>
+    <image id="oo7fm" name="Jigsaw_2.png" path="/Res/" exported="true"/>
+    <image id="oo7fn" name="Jigsaw_3.png" path="/Res/" exported="true"/>
+    <component id="oo7fo" name="Jigsaw_Tile.xml" path="/Entity/" exported="true"/>
+    <image id="oo7fp" name="Jigsaw_0.png" path="/Res/" exported="true"/>
+    <image id="n4ahr" name="0.png" path="/Res/" exported="true"/>
+    <image id="n4ahs" name="1.png" path="/Res/" exported="true"/>
+    <image id="n4aht" name="2.png" path="/Res/" exported="true"/>
+    <image id="n4ahu" name="3.png" path="/Res/" exported="true"/>
+    <image id="n4ahv" name="4.png" path="/Res/" exported="true"/>
+    <image id="n4ahw" name="5.png" path="/Res/" exported="true"/>
+    <image id="n4ahx" name="6.png" path="/Res/" exported="true"/>
+    <image id="n4ahy" name="7.png" path="/Res/" exported="true"/>
+    <image id="n4ahz" name="8.png" path="/Res/" exported="true"/>
+    <image id="n4ah10" name="9.png" path="/Res/" exported="true"/>
+    <image id="n4ah11" name="level.png" path="/Res/" exported="true"/>
+    <font id="p6g615" name="Font1.fnt" path="/Res/" exported="true"/>
+    <font id="j79016" name="Font2.fnt" path="/Res/" exported="true"/>
+    <image id="j79017" name="关.png" path="/Res/" exported="true"/>
+    <image id="j79019" name="第.png" path="/Res/" exported="true"/>
+    <image id="gvwb1e" name="道具栏.png" path="/Res/"/>
+    <image id="gvwb1f" name="重开.png" path="/Res/"/>
+    <component id="gvwb1i" name="JigsawGameView.xml" path="/Entity/" exported="true"/>
+    <image id="r1zk1j" name="道具数量.png" path="/Res/"/>
+    <image id="r1zk1k" name="灯泡.png" path="/Res/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

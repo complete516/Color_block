@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="117,102" extention="Button">
+  <displayList>
+    <text id="n4_hgs2" name="title" xy="67,55" pivot="1,0.5" size="50,48" font="ui://gasy8a7fn4ah2m" fontSize="35" color="#8da6af" align="right" vAlign="middle" letterSpacing="-2" text="123"/>
+    <image id="n5_hgs2" name="n5" src="hgs2l" fileName="Res/纪录奖杯.png" xy="30,60" aspect="true">
+      <relation target="n4_hgs2" sidePair="right-left"/>
+    </image>
+    <text id="n1_hgs2" name="All" xy="0,1" size="115,48" font="ui://gasy8a7fn4ah2m" fontSize="35" color="#8da6af" align="center" vAlign="middle" letterSpacing="-2" text="All Time"/>
+  </displayList>
+  <Button/>
+</component>
